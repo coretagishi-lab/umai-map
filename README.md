@@ -9,6 +9,10 @@ Instagramの保存コレクション「うまい店」から拾った店を地�
 2. サムネイルがあれば `data/thumbs/` に置く
 3. `node tools/check.mjs` で点検 → コミット
 
+## レイヤー（銭湯など）を足す
+
+`data/layers.json` にパックを1項目足し、データを `data/layers/` に置くだけ（[data/SCHEMA.md](data/SCHEMA.md)）。
+
 ## 手元で動かす
 
 ```sh
@@ -20,8 +24,9 @@ python3 -m http.server 8000
 ## 旧データの取り込み
 
 ```sh
-node tools/import.mjs places 旧/places.json
-node tools/import.mjs sento  旧/sento.json
+node tools/import.mjs places 旧/places.json      # 店
+node tools/import-list.mjs 旧/list.md            # 行きたい場所リストを反映（印付け＋未登録分の追加）
+node tools/import.mjs layer bath 旧/sento.json   # お風呂パック
 cp 旧/thumbs/*.jpg data/thumbs/
 node tools/check.mjs
 ```
@@ -36,8 +41,10 @@ node tools/check.mjs
 | `css/app.css` | 見た目（色・余白は先頭の変数） |
 | `js/config.js` | 設定値（ピンの色、シートの高さ、データの場所など） |
 | `js/normalize.js` | データの読み替え（ブラウザとツールで共通） |
-| `js/data.js` | データ読み込み（銭湯は必要になってから） |
-| `js/map.js` | 地図・ピン・銭湯レイヤー・現在地 |
+| `js/data.js` | 店データの読み込み |
+| `js/map.js` | 地図・店ピン・現在地 |
+| `js/layers.js` | 追加レイヤー（パック）。ONにしたときだけ読み込む |
+| `js/labels.js` | 種類の表示名 |
 | `js/filters.js` | 検索と絞り込み |
 | `js/sheet.js` | 一覧ボトムシート（3段階） |
 | `js/card.js` | 詳細カード |

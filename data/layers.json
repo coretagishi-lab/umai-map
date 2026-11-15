@@ -1,0 +1,16 @@
+{
+  "packs": [
+    {
+      "id": "bath",
+      "name": "お風呂",
+      "icon": "♨",
+      "file": "data/layers/bath.json",
+      "credit": "東京都浴場組合（1010.or.jp）・スーパー銭湯全国検索（supersento.com）",
+      "types": {
+        "sento": { "label": "銭湯", "color": "#4cc3e8" },
+        "super": { "label": "スーパー銭湯", "color": "#12a594" }
+      },
+      "cluster": { "radius": 60, "disableAtZoom": 16 }
+    }
+  ]
+}

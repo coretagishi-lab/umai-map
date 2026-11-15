@@ -1,30 +1,51 @@
 #!/usr/bin/env node
-// 旧データ（ふわ側の places.json / sento.json）を、このリポジトリの正式な形に変換して data/ に書き出す。
-// 使い方:
-//   node tools/import.mjs places 旧/places.json
-//   node tools/import.mjs sento  旧/sento.json
-// 元ファイルは書き換えない。項目の読み替えは js/normalize.js と同じものを使う。
-// 1件も削らない方針なので、緯度経度が読めない行は data/import-skipped-*.json に残して報告する。
-import { readFile, writeFile } from 'node:fs/promises';
-import { normalizePlace, normalizeSento, unwrapList, flattenFeature } from '../js/normalize.js';
+// 旧データを、このリポジトリの正式な形に変換して data/ に書き出す。元ファイルは書き換えない。
+//
+//   node tools/import.mjs places 旧/places.json            → data/places.json
+//   node tools/import.mjs layer bath 旧/sento.json          → data/layers/bath.json
+//
+// - 項目の読み替えは js/normalize.js と同じものを使う
+// - 正式名にない項目（author、geocode_confidence など）は消さずにそのまま残す
+// - 1件も削らない。緯度経度か名前が読めない行は data/import-skipped-*.json に残して報告する
+// - 同じIDが重複したら、2件目以降に -2, -3… を付ける（同じ投稿で複数店を紹介しているケース）
+import { readFile, writeFile, mkdir } from 'node:fs/promises';
+import { normalizePlace, normalizeLayerItem, extrasOf, unwrapList, flattenFeature } from '../js/normalize.js';
 
-const [kind, src] = process.argv.slice(2);
-if (!['places', 'sento'].includes(kind) || !src) {
-  console.error('使い方: node tools/import.mjs places|sento <元のJSON>');
+const args = process.argv.slice(2);
+const mode = args[0];
+let src, out, fn;
+if (mode === 'places' && args[1]) {
+  src = args[1]; out = 'data/places.json';
+  fn = (r, i) => normalizePlace(r, i);
+} else if (mode === 'layer' && args[1] && args[2]) {
+  const packId = args[1];
+  src = args[2]; out = `data/layers/${packId}.json`;
+  fn = (r, i) => normalizeLayerItem(r, i, packId);
+} else {
+  console.error('使い方:\n  node tools/import.mjs places <元のJSON>\n  node tools/import.mjs layer <パックID> <元のJSON>');
   process.exit(1);
 }
 
+// 画面側で毎回計算できる項目は書き出さない
+const DERIVED = new Set(['author', 'approx']);
+
 const raw = unwrapList(JSON.parse(await readFile(src, 'utf8'))).map(flattenFeature);
-const fn = kind === 'places' ? normalizePlace : normalizeSento;
-const ok = [], skipped = [];
-raw.forEach((r, i) => { const x = fn(r, i); x ? ok.push(x) : skipped.push(r); });
+const ok = [], skipped = [], seen = new Map();
+raw.forEach((r, i) => {
+  const x = fn(r, i);
+  if (!x) return skipped.push(r);
+  const n = seen.get(x.id) || 0;
+  seen.set(x.id, n + 1);
+  if (n) x.id = `${x.id}-${n + 1}`;
+  const canonical = Object.fromEntries(Object.entries(x).filter(([k, v]) => !DERIVED.has(k) && v !== '' && v !== false));
+  ok.push({ ...canonical, ...extrasOf(r) });
+});
 
-// 空の項目は書き出さない（ファイルを読みやすく保つ）
-const compact = ok.map((x) => Object.fromEntries(Object.entries(x).filter(([, v]) => v !== '' && v !== false)));
-
-await writeFile(`data/${kind}.json`, JSON.stringify(compact, null, 1) + '\n');
-console.log(`data/${kind}.json に ${ok.length}件 書き出しました（元データ ${raw.length}件）`);
+await mkdir(out.replace(/\/[^/]+$/, ''), { recursive: true });
+await writeFile(out, JSON.stringify(ok, null, 1) + '\n');
+console.log(`${out} に ${ok.length}件 書き出しました（元データ ${raw.length}件）`);
 if (skipped.length) {
-  await writeFile(`data/import-skipped-${kind}.json`, JSON.stringify(skipped, null, 1) + '\n');
-  console.warn(`緯度経度または名前が読めなかった ${skipped.length}件 を data/import-skipped-${kind}.json に残しました。手で直して places.json に足してください。`);
+  const f = `data/import-skipped-${mode === 'layer' ? args[1] : 'places'}.json`;
+  await writeFile(f, JSON.stringify(skipped, null, 1) + '\n');
+  console.warn(`名前か緯度経度が読めなかった ${skipped.length}件 を ${f} に残しました。`);
 }

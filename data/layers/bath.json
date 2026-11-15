@@ -1,0 +1,5392 @@
+[
+ {
+  "id": "bath-1a11w5i",
+  "name": "瀬音の湯",
+  "lat": 35.7271636,
+  "lng": 139.1878392,
+  "type": "super",
+  "area": "あきる野市",
+  "address": "東京都あきる野市乙津565番地",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1vzg2ld",
+  "name": "FLOBA",
+  "lat": 35.7022333,
+  "lng": 139.5599808,
+  "type": "super",
+  "area": "三鷹市",
+  "address": "東京都三鷹市下連雀3-45-2",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-ov84xl",
+  "name": "のぼり湯",
+  "lat": 35.6952744,
+  "lng": 139.5348553,
+  "type": "super",
+  "area": "三鷹市",
+  "address": "東京都三鷹市井口5-5-18",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1m9e0mo",
+  "name": "千代乃湯",
+  "lat": 35.6872033,
+  "lng": 139.5493267,
+  "type": "super",
+  "area": "三鷹市",
+  "address": "東京都三鷹市井口2-4-31",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-jhqdfp",
+  "name": "HUBHUB下北沢",
+  "lat": 35.6562433,
+  "lng": 139.667735,
+  "type": "super",
+  "area": "世田谷区",
+  "address": "東京都世田谷区代沢5丁目8-6",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-ku51pv",
+  "name": "THE SPA 成城",
+  "lat": 35.6536975,
+  "lng": 139.6153917,
+  "type": "super",
+  "area": "世田谷区",
+  "address": "東京都世田谷区千歳台3-20-2",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1mccl5e",
+  "name": "ミナミ下北沢店",
+  "lat": 35.6599406,
+  "lng": 139.6688628,
+  "type": "super",
+  "area": "世田谷区",
+  "address": "東京都世田谷区代沢2-29-9",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-u8dop0",
+  "name": "世田谷温泉 四季の湯",
+  "lat": 35.6453767,
+  "lng": 139.625055,
+  "type": "sento",
+  "area": "世田谷区",
+  "address": "東京都世田谷区桜丘2-18-26",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-o1n2ub",
+  "name": "山崎湯",
+  "lat": 35.6502469,
+  "lng": 139.6536667,
+  "type": "sento",
+  "area": "世田谷区",
+  "address": "東京都世田谷区梅丘2-14-15",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1tfkpu5",
+  "name": "栄湯",
+  "lat": 35.6291431,
+  "lng": 139.6342822,
+  "type": "sento",
+  "area": "世田谷区",
+  "address": "東京都世田谷区用賀4-31-3",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1ygxn1v",
+  "name": "栗の湯",
+  "lat": 35.6275303,
+  "lng": 139.6467133,
+  "type": "super",
+  "area": "世田谷区",
+  "address": "東京都世田谷区新町1-36-6",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-qeq83m",
+  "name": "藤の湯",
+  "lat": 35.6220025,
+  "lng": 139.6310231,
+  "type": "sento",
+  "area": "世田谷区",
+  "address": "東京都世田谷区玉川台2-1-16",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1ha6re",
+  "name": "駒の湯",
+  "lat": 35.642965,
+  "lng": 139.6671383,
+  "type": "sento",
+  "area": "世田谷区",
+  "address": "東京都世田谷区三軒茶屋2-17-13",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1189fq",
+  "name": "91°SAUNA",
+  "lat": 35.6704106,
+  "lng": 139.7607033,
+  "type": "super",
+  "area": "中央区",
+  "address": "東京都中央区銀座7丁目3-6",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-jrt8yu",
+  "name": "コリドーの湯",
+  "lat": 35.670705,
+  "lng": 139.7601283,
+  "type": "super",
+  "area": "中央区",
+  "address": "東京都中央区銀座7丁目2-18",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-u0c734",
+  "name": "湊湯",
+  "lat": 35.6726581,
+  "lng": 139.7796494,
+  "type": "super",
+  "area": "中央区",
+  "address": "東京都中央区湊1-6-2",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-18p2z3j",
+  "name": "えごた湯",
+  "lat": 35.7261747,
+  "lng": 139.6690933,
+  "type": "super",
+  "area": "中野区",
+  "address": "東京都中野区江古田3-5-12",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-9394wz",
+  "name": "たからゆ",
+  "lat": 35.7202075,
+  "lng": 139.648025,
+  "type": "super",
+  "area": "中野区",
+  "address": "東京都中野区若宮1-49-1",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-qh9kvm",
+  "name": "アクア東中野",
+  "lat": 35.70748,
+  "lng": 139.6857725,
+  "type": "super",
+  "area": "中野区",
+  "address": "東京都中野区東中野4-9-22",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-vjr5n",
+  "name": "クラブ湯",
+  "lat": 35.6963028,
+  "lng": 139.6807711,
+  "type": "sento",
+  "area": "中野区",
+  "address": "東京都中野区本町2-47-5",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1e8ptnb",
+  "name": "一の湯",
+  "lat": 35.7202164,
+  "lng": 139.6637433,
+  "type": "sento",
+  "area": "中野区",
+  "address": "東京都中野区沼袋1-39-10",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-lcv2ki",
+  "name": "上越泉",
+  "lat": 35.7108233,
+  "lng": 139.6548425,
+  "type": "sento",
+  "area": "中野区",
+  "address": "東京都中野区野方1-51-10",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1n5k466",
+  "name": "中野寿湯温泉",
+  "lat": 35.7112014,
+  "lng": 139.6670914,
+  "type": "sento",
+  "area": "中野区",
+  "address": "東京都中野区新井1-14-13",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-pcuu52",
+  "name": "中野温泉 天神湯",
+  "lat": 35.7066569,
+  "lng": 139.6714775,
+  "type": "super",
+  "area": "中野区",
+  "address": "東京都中野区中野5-10-10",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-or9f0u",
+  "name": "健康浴泉",
+  "lat": 35.7084853,
+  "lng": 139.6814542,
+  "type": "sento",
+  "area": "中野区",
+  "address": "東京都中野区東中野3-17-3",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-ih7r3r",
+  "name": "大和湯",
+  "lat": 35.7131169,
+  "lng": 139.6485506,
+  "type": "sento",
+  "area": "中野区",
+  "address": "東京都中野区大和町4-1-3",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-qsx04g",
+  "name": "天然温泉 たからゆ",
+  "lat": 35.7202075,
+  "lng": 139.648025,
+  "type": "sento",
+  "area": "中野区",
+  "address": "東京都中野区若宮1-49-1",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-cx3158",
+  "name": "新越泉",
+  "lat": 35.71537,
+  "lng": 139.6701133,
+  "type": "sento",
+  "area": "中野区",
+  "address": "東京都中野区新井5-17-2",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-21grq6",
+  "name": "昭和浴場",
+  "lat": 35.6994886,
+  "lng": 139.6621583,
+  "type": "sento",
+  "area": "中野区",
+  "address": "東京都中野区中央5-21-12",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1cephys",
+  "name": "昭和湯",
+  "lat": 35.7121586,
+  "lng": 139.6580172,
+  "type": "sento",
+  "area": "中野区",
+  "address": "東京都中野区野方1-21-1",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1bmst5c",
+  "name": "月の湯",
+  "lat": 35.6842294,
+  "lng": 139.6701814,
+  "type": "sento",
+  "area": "中野区",
+  "address": "東京都中野区南台2-30-7",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-o75hbd",
+  "name": "松本湯",
+  "lat": 35.7110133,
+  "lng": 139.6896058,
+  "type": "super",
+  "area": "中野区",
+  "address": "東京都中野区東中野5-29-12",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-15v9j56",
+  "name": "清春湯",
+  "lat": 35.6903372,
+  "lng": 139.6769022,
+  "type": "sento",
+  "area": "中野区",
+  "address": "東京都中野区弥生町2-1-9",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1n06z7k",
+  "name": "照の湯",
+  "lat": 35.6986556,
+  "lng": 139.67266,
+  "type": "sento",
+  "area": "中野区",
+  "address": "東京都中野区中央3-30-6",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-8og3jj",
+  "name": "高砂湯",
+  "lat": 35.7018636,
+  "lng": 139.6696944,
+  "type": "sento",
+  "area": "中野区",
+  "address": "東京都中野区中央4-49-2",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1cptusp",
+  "name": "TAKAO 36 SAUNA",
+  "lat": 35.6312578,
+  "lng": 139.2698069,
+  "type": "super",
+  "area": "八王子市",
+  "address": "東京都八王子市高尾町2292",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-141eprj",
+  "name": "極楽湯 京王高尾山温泉",
+  "lat": 35.6320078,
+  "lng": 139.2692431,
+  "type": "super",
+  "area": "八王子市",
+  "address": "東京都八王子市高尾町2229-7",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1h1blda",
+  "name": "毎日サウナ 八王子店",
+  "lat": 35.6410292,
+  "lng": 139.3579564,
+  "type": "super",
+  "area": "八王子市",
+  "address": "東京都八王子市長沼町1076-4",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-zp0nd1",
+  "name": "竜泉寺の湯 八王子みなみ野店",
+  "lat": 35.6407842,
+  "lng": 139.3326253,
+  "type": "super",
+  "area": "八王子市",
+  "address": "東京都八王子市片倉町3505",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-xn533z",
+  "name": "COCOFURO かが浴場",
+  "lat": 35.7550142,
+  "lng": 139.7318311,
+  "type": "super",
+  "area": "北区",
+  "address": "東京都北区王子本町2丁目23-9",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-11303pm",
+  "name": "COCOFURO（ココフロ）かが浴場",
+  "lat": 35.7550142,
+  "lng": 139.7318311,
+  "type": "sento",
+  "area": "北区",
+  "address": "東京都北区王子本町2−23−9 2階",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1o2d2u3",
+  "name": "HOTランド みどり湯",
+  "lat": 35.7795167,
+  "lng": 139.7332664,
+  "type": "super",
+  "area": "北区",
+  "address": "東京都北区志茂3-25-9",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-13intia",
+  "name": "えびす湯",
+  "lat": 35.7487322,
+  "lng": 139.7386556,
+  "type": "sento",
+  "area": "北区",
+  "address": "東京都北区滝野川1−1−20",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-bat9yz",
+  "name": "お玉湯",
+  "lat": 35.7867844,
+  "lng": 139.7144756,
+  "type": "sento",
+  "area": "北区",
+  "address": "東京都北区赤羽北1−25−13",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-181orsq",
+  "name": "やなぎ湯",
+  "lat": 35.7650328,
+  "lng": 139.7308808,
+  "type": "sento",
+  "area": "北区",
+  "address": "東京都北区東十条3−5−15",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-18bodhp",
+  "name": "やなぎ湯",
+  "lat": 35.7650328,
+  "lng": 139.7308808,
+  "type": "super",
+  "area": "北区",
+  "address": "東京都北区東十条3-5-15",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-b7x54w",
+  "name": "クアパレスゆうゆう",
+  "lat": 35.7447186,
+  "lng": 139.7210442,
+  "type": "sento",
+  "area": "北区",
+  "address": "東京都北区滝野川7−11−8",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-bhwqtv",
+  "name": "クアパレスゆうゆう",
+  "lat": 35.7447186,
+  "lng": 139.7210442,
+  "type": "super",
+  "area": "北区",
+  "address": "東京都北区滝野川7-11-8",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1pot88p",
+  "name": "コスモプラザ赤羽",
+  "lat": 35.7809219,
+  "lng": 139.7204256,
+  "type": "super",
+  "area": "北区",
+  "address": "東京都北区赤羽1-39-3",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-121c2gh",
+  "name": "テルメ末広",
+  "lat": 35.7825222,
+  "lng": 139.7311192,
+  "type": "sento",
+  "area": "北区",
+  "address": "東京都北区志茂5−16−14",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-jx1seb",
+  "name": "ロスコ",
+  "lat": 35.7384194,
+  "lng": 139.7493992,
+  "type": "super",
+  "area": "北区",
+  "address": "東京都北区中里2-4-8",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-10hhop",
+  "name": "十條湯",
+  "lat": 35.7628158,
+  "lng": 139.7202181,
+  "type": "sento",
+  "area": "北区",
+  "address": "東京都北区十条仲原1−14−2",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-ytquse",
+  "name": "大黒湯",
+  "lat": 35.7476797,
+  "lng": 139.7479906,
+  "type": "sento",
+  "area": "北区",
+  "address": "東京都北区上中里2−31−12",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-sy1t9w",
+  "name": "宝泉湯",
+  "lat": 35.7663831,
+  "lng": 139.7403269,
+  "type": "sento",
+  "area": "北区",
+  "address": "東京都北区豊島8−23−5",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-mt4con",
+  "name": "富士の湯",
+  "lat": 35.7706981,
+  "lng": 139.7126897,
+  "type": "sento",
+  "area": "北区",
+  "address": "東京都北区西が丘1−25−14",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1ci885f",
+  "name": "岩の湯",
+  "lat": 35.7845444,
+  "lng": 139.7234719,
+  "type": "sento",
+  "area": "北区",
+  "address": "東京都北区岩淵町31−2",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1rv67h0",
+  "name": "平和湯",
+  "lat": 35.770465,
+  "lng": 139.73255,
+  "type": "sento",
+  "area": "北区",
+  "address": "東京都北区神谷3−41−13",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-au4mil",
+  "name": "松の湯（田端）",
+  "lat": 35.7364983,
+  "lng": 139.7521939,
+  "type": "sento",
+  "area": "北区",
+  "address": "東京都北区田端4−3−9 繁栄ビル2階",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-ui7tq0",
+  "name": "滝野川浴場",
+  "lat": 35.7452625,
+  "lng": 139.7282731,
+  "type": "sento",
+  "area": "北区",
+  "address": "東京都北区滝野川3−17−5",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1vk5yrl",
+  "name": "滝野川稲荷湯",
+  "lat": 35.7446578,
+  "lng": 139.7244597,
+  "type": "sento",
+  "area": "北区",
+  "address": "東京都北区滝野川6−27−14",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-5gs724",
+  "name": "豊島湯",
+  "lat": 35.7610811,
+  "lng": 139.7459994,
+  "type": "sento",
+  "area": "北区",
+  "address": "東京都北区豊島3−19−7",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1wotl7k",
+  "name": "金星湯",
+  "lat": 35.7609253,
+  "lng": 139.7331783,
+  "type": "sento",
+  "area": "北区",
+  "address": "東京都北区王子4−1−3",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-dxr8uh",
+  "name": "露天風呂ゆの花",
+  "lat": 35.7887261,
+  "lng": 139.6972486,
+  "type": "sento",
+  "area": "北区",
+  "address": "東京都北区浮間4−6−10",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-jfgqft",
+  "name": "飛鳥山温泉",
+  "lat": 35.7493736,
+  "lng": 139.7342147,
+  "type": "sento",
+  "area": "北区",
+  "address": "東京都北区滝野川2−43−2",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1880llh",
+  "name": "鶴の湯",
+  "lat": 35.7470933,
+  "lng": 139.7369639,
+  "type": "sento",
+  "area": "北区",
+  "address": "東京都北区滝野川1−18−8",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-4o88nv",
+  "name": "ＨＯＴランドみどり湯",
+  "lat": 35.7795167,
+  "lng": 139.7332664,
+  "type": "sento",
+  "area": "北区",
+  "address": "東京都北区志茂3−25−9",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1vf0f8b",
+  "name": "FIRST THE SAUNA 御茶ノ水",
+  "lat": 35.6967022,
+  "lng": 139.7612164,
+  "type": "super",
+  "area": "千代田区",
+  "address": "東京都千代田区神田小川町3丁目20-10",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-70wtyj",
+  "name": "PARADISE 大手町店",
+  "lat": 35.6852403,
+  "lng": 139.7662308,
+  "type": "super",
+  "area": "千代田区",
+  "address": "東京都千代田区大手町2丁目1-1",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-oiy66o",
+  "name": "RAKU SPA 1010 神田",
+  "lat": 35.6981189,
+  "lng": 139.7679664,
+  "type": "super",
+  "area": "千代田区",
+  "address": "東京都千代田区神田淡路町2-9-9",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-11kkjw0",
+  "name": "SHIAGARU SAUNA",
+  "lat": 35.6949056,
+  "lng": 139.7770742,
+  "type": "super",
+  "area": "千代田区",
+  "address": "東京都千代田区岩本町3-4-1",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1vvh7jp",
+  "name": "サウナラボ神田",
+  "lat": 35.692095,
+  "lng": 139.7595667,
+  "type": "super",
+  "area": "千代田区",
+  "address": "東京都千代田区神田錦町3-9",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1l51ywi",
+  "name": "SHIZUKU 上野駅前",
+  "lat": 35.7101603,
+  "lng": 139.7731878,
+  "type": "super",
+  "area": "台東区",
+  "address": "東京都台東区上野2-13-11",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-ggo88l",
+  "name": "ひだまりの泉 萩の湯",
+  "lat": 35.7242947,
+  "lng": 139.7776953,
+  "type": "super",
+  "area": "台東区",
+  "address": "東京都台東区根岸2-13-13",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-15ysn1n",
+  "name": "サウナセンター稲荷町",
+  "lat": 35.7117317,
+  "lng": 139.7832067,
+  "type": "super",
+  "area": "台東区",
+  "address": "東京都台東区東上野6-2-8",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-r11c5c",
+  "name": "サウナセンター鶯谷本店",
+  "lat": 35.7209531,
+  "lng": 139.7818786,
+  "type": "super",
+  "area": "台東区",
+  "address": "東京都台東区下谷2-4-7",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-17ixy0n",
+  "name": "センチュリオンサウナ江戸東京",
+  "lat": 35.7099575,
+  "lng": 139.775185,
+  "type": "super",
+  "area": "台東区",
+  "address": "東京都台東区上野6丁目9-9",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-i8p95p",
+  "name": "三ノ輪 改栄湯",
+  "lat": 35.7299222,
+  "lng": 139.7941056,
+  "type": "super",
+  "area": "台東区",
+  "address": "東京都台東区三ノ輪2-10-15",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1q9l0x",
+  "name": "北欧",
+  "lat": 35.7130483,
+  "lng": 139.7777261,
+  "type": "super",
+  "area": "台東区",
+  "address": "東京都台東区上野7丁目2-16",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-e8l3e6",
+  "name": "寿湯",
+  "lat": 35.7122206,
+  "lng": 139.7826761,
+  "type": "super",
+  "area": "台東区",
+  "address": "東京都台東区東上野5-4-17",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-qjohmx",
+  "name": "曙湯",
+  "lat": 35.7182736,
+  "lng": 139.7954367,
+  "type": "super",
+  "area": "台東区",
+  "address": "東京都台東区浅草4丁目17-1",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1oknh0p",
+  "name": "浅草ROX まつり湯",
+  "lat": 35.7128819,
+  "lng": 139.7927617,
+  "type": "super",
+  "area": "台東区",
+  "address": "東京都台東区浅草1-25-15",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-shqnlb",
+  "name": "白水湯",
+  "lat": 35.720895,
+  "lng": 139.7865944,
+  "type": "super",
+  "area": "台東区",
+  "address": "東京都台東区入谷1-21-12",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-61otyj",
+  "name": "SHIZUKU 品川大井町",
+  "lat": 35.6078008,
+  "lng": 139.7358275,
+  "type": "super",
+  "area": "品川区",
+  "address": "東京都品川区東大井5-2-8",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-117919h",
+  "name": "おふろの王様 大井町店",
+  "lat": 35.6056867,
+  "lng": 139.734145,
+  "type": "super",
+  "area": "品川区",
+  "address": "東京都品川区大井1-50-5",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-b7zg3o",
+  "name": "すえひろ湯",
+  "lat": 35.6040144,
+  "lng": 139.7322172,
+  "type": "super",
+  "area": "品川区",
+  "address": "東京都品川区大井1-42-4",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-18yv9eh",
+  "name": "みどり湯",
+  "lat": 35.6009572,
+  "lng": 139.7238981,
+  "type": "sento",
+  "area": "品川区",
+  "address": "東京都品川区西大井1-7-26",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-10i13k9",
+  "name": "スゴイサウナ 五反田駅前店",
+  "lat": 35.6276792,
+  "lng": 139.7244306,
+  "type": "super",
+  "area": "品川区",
+  "address": "東京都品川区東五反田5-25-19",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-rtz9sp",
+  "name": "ピース湯",
+  "lat": 35.5998539,
+  "lng": 139.7159714,
+  "type": "sento",
+  "area": "品川区",
+  "address": "東京都品川区西大井6-15-16",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-78yr6o",
+  "name": "中延温泉 松の湯",
+  "lat": 35.6060669,
+  "lng": 139.7146906,
+  "type": "sento",
+  "area": "品川区",
+  "address": "東京都品川区戸越6-23-15",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-v1g5iz",
+  "name": "中延記念湯",
+  "lat": 35.6016789,
+  "lng": 139.7030031,
+  "type": "sento",
+  "area": "品川区",
+  "address": "東京都品川区旗の台4-11-2",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1a34j03",
+  "name": "北品川温泉 天神湯",
+  "lat": 35.6178583,
+  "lng": 139.7433383,
+  "type": "sento",
+  "area": "品川区",
+  "address": "東京都品川区北品川2-23-9",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-19t4xb4",
+  "name": "北品川温泉 天神湯",
+  "lat": 35.6178583,
+  "lng": 139.7433383,
+  "type": "super",
+  "area": "品川区",
+  "address": "東京都品川区北品川2丁目23-9",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1pxttkh",
+  "name": "吹上湯",
+  "lat": 35.6206794,
+  "lng": 139.7403325,
+  "type": "sento",
+  "area": "品川区",
+  "address": "東京都品川区北品川1-25-12",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1wnmxnv",
+  "name": "品川サウナ",
+  "lat": 35.6068506,
+  "lng": 139.7333533,
+  "type": "super",
+  "area": "品川区",
+  "address": "東京都品川区大井1-6-1",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-c2bl0e",
+  "name": "大盛湯",
+  "lat": 35.6048256,
+  "lng": 139.7261061,
+  "type": "sento",
+  "area": "品川区",
+  "address": "東京都品川区二葉2-4-4",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-4aydq1",
+  "name": "宮城湯",
+  "lat": 35.6116106,
+  "lng": 139.7260503,
+  "type": "super",
+  "area": "品川区",
+  "address": "東京都品川区西品川2-18-11",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-h0db04",
+  "name": "富士見湯",
+  "lat": 35.6115058,
+  "lng": 139.7142433,
+  "type": "sento",
+  "area": "品川区",
+  "address": "東京都品川区東中延1-3-8",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-kqeqfj",
+  "name": "戸越銀座温泉",
+  "lat": 35.6147578,
+  "lng": 139.7185931,
+  "type": "super",
+  "area": "品川区",
+  "address": "東京都品川区戸越2-1-6",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1y9omqe",
+  "name": "新生湯",
+  "lat": 35.6027317,
+  "lng": 139.7056614,
+  "type": "super",
+  "area": "品川区",
+  "address": "東京都品川区旗の台4-5-18",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-vcfewv",
+  "name": "星の湯",
+  "lat": 35.6037003,
+  "lng": 139.7106794,
+  "type": "sento",
+  "area": "品川区",
+  "address": "東京都品川区中延6-1-10",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-14dw9v9",
+  "name": "東京浴場",
+  "lat": 35.6150297,
+  "lng": 139.6996775,
+  "type": "sento",
+  "area": "品川区",
+  "address": "東京都品川区小山6-7-2",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-ucaarr",
+  "name": "東京浴場",
+  "lat": 35.6035728,
+  "lng": 139.72877,
+  "type": "sento",
+  "area": "品川区",
+  "address": "東京都品川区大井2-22-16",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-nsiiiu",
+  "name": "武蔵小山温泉 清水湯",
+  "lat": 35.6201483,
+  "lng": 139.70748,
+  "type": "super",
+  "area": "品川区",
+  "address": "東京都品川区小山3-9-1",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-c1x9z",
+  "name": "水神湯",
+  "lat": 35.59155,
+  "lng": 139.7331733,
+  "type": "sento",
+  "area": "品川区",
+  "address": "東京都品川区南大井6-9-10",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-14uqi7v",
+  "name": "西品川温泉 宮城湯",
+  "lat": 35.6117828,
+  "lng": 139.7261975,
+  "type": "sento",
+  "area": "品川区",
+  "address": "東京都品川区西品川2-18-4",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-2vzvvb",
+  "name": "西小山 東京浴場",
+  "lat": 35.6150297,
+  "lng": 139.6996775,
+  "type": "super",
+  "area": "品川区",
+  "address": "東京都品川区小山6-7-2",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-mzi00h",
+  "name": "金春湯",
+  "lat": 35.6174217,
+  "lng": 139.7216375,
+  "type": "super",
+  "area": "品川区",
+  "address": "東京都品川区大崎3-18-8",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-ybb5oz",
+  "name": "高松湯",
+  "lat": 35.6344975,
+  "lng": 139.7193981,
+  "type": "sento",
+  "area": "品川区",
+  "address": "東京都品川区上大崎3-5-4",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-hohuak",
+  "name": "さくら湯",
+  "lat": 35.7073439,
+  "lng": 139.8149211,
+  "type": "super",
+  "area": "墨田区",
+  "address": "東京都墨田区業平4-6-5",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-trnhrs",
+  "name": "ニューウイング",
+  "lat": 35.6940656,
+  "lng": 139.8129586,
+  "type": "super",
+  "area": "墨田区",
+  "address": "東京都墨田区江東橋2-6-11",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-oqw1ci",
+  "name": "リアルサウナ錦糸町",
+  "lat": 35.6982531,
+  "lng": 139.8121028,
+  "type": "super",
+  "area": "墨田区",
+  "address": "東京都墨田区錦糸2-6-3",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1y18n8h",
+  "name": "両国湯屋 江戸遊",
+  "lat": 35.6967228,
+  "lng": 139.7986072,
+  "type": "super",
+  "area": "墨田区",
+  "address": "東京都墨田区亀沢1-5-8",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-p0meue",
+  "name": "大黒湯",
+  "lat": 35.7050189,
+  "lng": 139.8135933,
+  "type": "super",
+  "area": "墨田区",
+  "address": "東京都墨田区横川3-12-14",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-4ez2p5",
+  "name": "寺島浴場",
+  "lat": 35.7246467,
+  "lng": 139.8210072,
+  "type": "super",
+  "area": "墨田区",
+  "address": "東京都墨田区東向島6-34-18",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1p93rol",
+  "name": "御谷湯",
+  "lat": 35.7016256,
+  "lng": 139.8046739,
+  "type": "super",
+  "area": "墨田区",
+  "address": "東京都墨田区石原3-30-8",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1ht9w4w",
+  "name": "楽天地スパ",
+  "lat": 35.6963253,
+  "lng": 139.8156306,
+  "type": "super",
+  "area": "墨田区",
+  "address": "東京都墨田区江東橋4丁目27-14",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1arjsyx",
+  "name": "黄金湯",
+  "lat": 35.7023281,
+  "lng": 139.815275,
+  "type": "super",
+  "area": "墨田区",
+  "address": "東京都墨田区太平4丁目14-6",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1qk2nu6",
+  "name": "おふろの王様 多摩百草店",
+  "lat": 35.6447194,
+  "lng": 139.42084,
+  "type": "super",
+  "area": "多摩市",
+  "address": "東京都多摩市和田1352-1",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-omfbgs",
+  "name": "極楽湯 多摩センター店",
+  "lat": 35.6231247,
+  "lng": 139.4288342,
+  "type": "super",
+  "area": "多摩市",
+  "address": "東京都多摩市落合一丁目30-1",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-10wp623",
+  "name": "竹取の湯",
+  "lat": 35.6314992,
+  "lng": 139.4478872,
+  "type": "super",
+  "area": "多摩市",
+  "address": "東京都多摩市永山1-3-4",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-gd08b0",
+  "name": "COCOFURO たかの湯",
+  "lat": 35.5501278,
+  "lng": 139.7134717,
+  "type": "super",
+  "area": "大田区",
+  "address": "東京都大田区仲六郷2丁目27-12",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1gu4sbq",
+  "name": "COCOFURO ますの湯",
+  "lat": 35.5799397,
+  "lng": 139.6858611,
+  "type": "super",
+  "area": "大田区",
+  "address": "東京都大田区南久が原2-1-23",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-14psx7g",
+  "name": "COCOFURO（ココフロ）ますの湯",
+  "lat": 35.5799397,
+  "lng": 139.6858611,
+  "type": "sento",
+  "area": "大田区",
+  "address": "東京都大田区南久が原2-1-23",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1wmgfj5",
+  "name": "あたり湯",
+  "lat": 35.5738211,
+  "lng": 139.7254408,
+  "type": "sento",
+  "area": "大田区",
+  "address": "東京都大田区大森西3-11-27",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-5y0hn",
+  "name": "はすぬま温泉",
+  "lat": 35.5654617,
+  "lng": 139.7085914,
+  "type": "super",
+  "area": "大田区",
+  "address": "東京都大田区西蒲田6-16-11",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-wd5p1s",
+  "name": "ゆ～シティー蒲田",
+  "lat": 35.5653864,
+  "lng": 139.7178567,
+  "type": "super",
+  "area": "大田区",
+  "address": "東京都大田区蒲田1-26-16",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-o55es4",
+  "name": "ヌーランド さがみゆ",
+  "lat": 35.5522083,
+  "lng": 139.7146133,
+  "type": "sento",
+  "area": "大田区",
+  "address": "東京都大田区仲六郷2-7-5",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-dfcq4i",
+  "name": "ヌーランド さがみ湯",
+  "lat": 35.5522083,
+  "lng": 139.7146133,
+  "type": "super",
+  "area": "大田区",
+  "address": "東京都大田区仲六郷2-7-5",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-l1gjik",
+  "name": "久が原湯",
+  "lat": 35.5822367,
+  "lng": 139.6976292,
+  "type": "sento",
+  "area": "大田区",
+  "address": "東京都大田区久が原2-14-15",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1gvjyn0",
+  "name": "久松温泉",
+  "lat": 35.5737797,
+  "lng": 139.7027297,
+  "type": "sento",
+  "area": "大田区",
+  "address": "東京都大田区池上3-31-16",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1hn15tp",
+  "name": "八幡浴場",
+  "lat": 35.6044361,
+  "lng": 139.6872594,
+  "type": "sento",
+  "area": "大田区",
+  "address": "東京都大田区南千束3-1-13",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1xwc56t",
+  "name": "和 -なごみ-",
+  "lat": 35.5638058,
+  "lng": 139.715715,
+  "type": "super",
+  "area": "大田区",
+  "address": "東京都大田区西蒲田7-4-12",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-3fdfho",
+  "name": "大森湯",
+  "lat": 35.5735489,
+  "lng": 139.7301547,
+  "type": "sento",
+  "area": "大田区",
+  "address": "東京都大田区大森西3-8-17",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-6sq502",
+  "name": "大正湯",
+  "lat": 35.5632778,
+  "lng": 139.7272189,
+  "type": "sento",
+  "area": "大田区",
+  "address": "東京都大田区東蒲田1-21-6",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-9xkq9i",
+  "name": "天然温泉 平和島",
+  "lat": 35.5846708,
+  "lng": 139.7409703,
+  "type": "super",
+  "area": "大田区",
+  "address": "東京都大田区平和島1-1-1",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-fz454u",
+  "name": "天狗湯",
+  "lat": 35.5777044,
+  "lng": 139.7302381,
+  "type": "sento",
+  "area": "大田区",
+  "address": "東京都大田区大森西2-15-3",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-12pwlo7",
+  "name": "天神湯",
+  "lat": 35.5593014,
+  "lng": 139.7270086,
+  "type": "super",
+  "area": "大田区",
+  "address": "東京都大田区南蒲田1-7-23",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-pd2w3m",
+  "name": "太平湯",
+  "lat": 35.5504472,
+  "lng": 139.7215661,
+  "type": "sento",
+  "area": "大田区",
+  "address": "東京都大田区南六郷1-5-17",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-qcw3ys",
+  "name": "宝湯",
+  "lat": 35.5535297,
+  "lng": 139.7416383,
+  "type": "sento",
+  "area": "大田区",
+  "address": "東京都大田区東糀谷3-4-8",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-10gxv6m",
+  "name": "寿湯",
+  "lat": 35.5640722,
+  "lng": 139.72413,
+  "type": "sento",
+  "area": "大田区",
+  "address": "東京都大田区蒲田3-8-6",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1vdk3xt",
+  "name": "幸の湯",
+  "lat": 35.5576625,
+  "lng": 139.7325864,
+  "type": "sento",
+  "area": "大田区",
+  "address": "東京都大田区西糀谷1-25-15",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-11salkr",
+  "name": "改正湯",
+  "lat": 35.5670531,
+  "lng": 139.7139872,
+  "type": "super",
+  "area": "大田区",
+  "address": "東京都大田区西蒲田5-10-5",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-18sfrh4",
+  "name": "新呑川湯",
+  "lat": 35.5618786,
+  "lng": 139.7385378,
+  "type": "super",
+  "area": "大田区",
+  "address": "東京都大田区大森南1-21-11",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-2zsijy",
+  "name": "明神湯",
+  "lat": 35.5896244,
+  "lng": 139.6900994,
+  "type": "sento",
+  "area": "大田区",
+  "address": "東京都大田区南雪谷5-14-7",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1re16qg",
+  "name": "桜館",
+  "lat": 35.5684894,
+  "lng": 139.7031969,
+  "type": "super",
+  "area": "大田区",
+  "address": "東京都大田区池上6-35-5",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1vfzk3e",
+  "name": "泉天空の湯 羽田空港",
+  "lat": 35.5443531,
+  "lng": 139.7650242,
+  "type": "super",
+  "area": "大田区",
+  "address": "東京都大田区羽田空港2丁目7-1",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-75qyde",
+  "name": "照の湯",
+  "lat": 35.5458333,
+  "lng": 139.7111244,
+  "type": "super",
+  "area": "大田区",
+  "address": "東京都大田区仲六郷3-23-6",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1ymj2n1",
+  "name": "竹の湯",
+  "lat": 35.5503339,
+  "lng": 139.7428028,
+  "type": "sento",
+  "area": "大田区",
+  "address": "東京都大田区羽田1-12-16",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-ptlzqj",
+  "name": "第一相模湯",
+  "lat": 35.5495367,
+  "lng": 139.7076092,
+  "type": "sento",
+  "area": "大田区",
+  "address": "東京都大田区西六郷2-29-2",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-wy1mcb",
+  "name": "第五相模湯",
+  "lat": 35.5478056,
+  "lng": 139.7198661,
+  "type": "sento",
+  "area": "大田区",
+  "address": "東京都大田区南六郷2-7-20",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-cevtgh",
+  "name": "草津湯",
+  "lat": 35.5652839,
+  "lng": 139.6998831,
+  "type": "sento",
+  "area": "大田区",
+  "address": "東京都大田区東矢口2-7-21",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-i4q5kt",
+  "name": "蒲田温泉",
+  "lat": 35.5558875,
+  "lng": 139.7180656,
+  "type": "sento",
+  "area": "大田区",
+  "address": "東京都大田区蒲田本町2-23-2",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-harchw",
+  "name": "蒲田温泉",
+  "lat": 35.5558875,
+  "lng": 139.7180656,
+  "type": "super",
+  "area": "大田区",
+  "address": "東京都大田区蒲田本町2丁目23-2",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-twihgk",
+  "name": "蒲田福の湯",
+  "lat": 35.5660947,
+  "lng": 139.7202928,
+  "type": "super",
+  "area": "大田区",
+  "address": "東京都大田区蒲田1-12-15",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-7trn0r",
+  "name": "観音湯",
+  "lat": 35.5540575,
+  "lng": 139.7360328,
+  "type": "sento",
+  "area": "大田区",
+  "address": "東京都大田区西糀谷3-24-16",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-i75sdt",
+  "name": "調布弁天湯",
+  "lat": 35.5863233,
+  "lng": 139.6822458,
+  "type": "sento",
+  "area": "大田区",
+  "address": "東京都大田区北嶺町10-11",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1pkcn18",
+  "name": "都湯",
+  "lat": 35.5720386,
+  "lng": 139.6829633,
+  "type": "sento",
+  "area": "大田区",
+  "address": "東京都大田区下丸子4-3-11",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-wg4t93",
+  "name": "重の湯",
+  "lat": 35.5460144,
+  "lng": 139.7436806,
+  "type": "sento",
+  "area": "大田区",
+  "address": "東京都大田区羽田3-16-10",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-d6038x",
+  "name": "もえぎの湯",
+  "lat": 35.8046158,
+  "lng": 139.1026131,
+  "type": "super",
+  "area": "奥多摩町",
+  "address": "東京都西多摩郡奥多摩町氷川119-1",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-58f81b",
+  "name": "おふろの王様 花小金井店",
+  "lat": 35.7215792,
+  "lng": 139.5213617,
+  "type": "super",
+  "area": "小平市",
+  "address": "東京都小平市花小金井南町3-9-10",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1s1929z",
+  "name": "テルメ小川",
+  "lat": 35.7320517,
+  "lng": 139.4517808,
+  "type": "super",
+  "area": "小平市",
+  "address": "東京都小平市小川町1-2494",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1jvxi2t",
+  "name": "RAKU SPA Station 府中",
+  "lat": 35.6714728,
+  "lng": 139.4788003,
+  "type": "super",
+  "area": "府中市",
+  "address": "東京都府中市宮西町1-5-1",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1are9o8",
+  "name": "ふくの湯",
+  "lat": 35.7280992,
+  "lng": 139.7567747,
+  "type": "super",
+  "area": "文京区",
+  "address": "東京都文京区千駄木5-41-5",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-2cis6a",
+  "name": "スパ ラクーア",
+  "lat": 35.7071233,
+  "lng": 139.7528975,
+  "type": "super",
+  "area": "文京区",
+  "address": "東京都文京区春日1-1-1",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1vbx5lb",
+  "name": "AKスパ",
+  "lat": 35.6959175,
+  "lng": 139.7015133,
+  "type": "super",
+  "area": "新宿区",
+  "address": "東京都新宿区歌舞伎町1-20-1",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1c1hkch",
+  "name": "あかざる",
+  "lat": 35.7015156,
+  "lng": 139.7412211,
+  "type": "super",
+  "area": "新宿区",
+  "address": "東京都新宿区神楽坂3-3-3",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1lt21l8",
+  "name": "サウナセンター 新大久保",
+  "lat": 35.7001064,
+  "lng": 139.699905,
+  "type": "super",
+  "area": "新宿区",
+  "address": "東京都新宿区百人町1-10-6",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-guffwq",
+  "name": "ルビーパレス",
+  "lat": 35.6988897,
+  "lng": 139.7035244,
+  "type": "super",
+  "area": "新宿区",
+  "address": "東京都新宿区大久保1-12-2",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-8zoaey",
+  "name": "レディース510",
+  "lat": 35.6988897,
+  "lng": 139.7035244,
+  "type": "super",
+  "area": "新宿区",
+  "address": "東京都新宿区大久保1-12-2",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-iyn73m",
+  "name": "万年湯",
+  "lat": 35.7010231,
+  "lng": 139.7034217,
+  "type": "super",
+  "area": "新宿区",
+  "address": "東京都新宿区大久保1-15-17",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1hw1o08",
+  "name": "三の輪湯",
+  "lat": 35.7138286,
+  "lng": 139.6819872,
+  "type": "sento",
+  "area": "新宿区",
+  "address": "東京都新宿区上落合3-31-2",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1hn1hyu",
+  "name": "新宿区役所前カプセルホテル",
+  "lat": 35.6937211,
+  "lng": 139.7039833,
+  "type": "super",
+  "area": "新宿区",
+  "address": "東京都新宿区歌舞伎町1-2-5",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1bg1sou",
+  "name": "新宿天然温泉 テルマー湯",
+  "lat": 35.6945267,
+  "lng": 139.705025,
+  "type": "super",
+  "area": "新宿区",
+  "address": "東京都新宿区歌舞伎町1丁目1-2",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-md6fbt",
+  "name": "東宝湯",
+  "lat": 35.6981928,
+  "lng": 139.712015,
+  "type": "sento",
+  "area": "新宿区",
+  "address": "東京都新宿区新宿7-11-5",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-rgi6vt",
+  "name": "松の湯",
+  "lat": 35.7108742,
+  "lng": 139.6839292,
+  "type": "super",
+  "area": "新宿区",
+  "address": "東京都新宿区上落合3-9-10",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-19cn6c3",
+  "name": "熱海湯",
+  "lat": 35.7009406,
+  "lng": 139.7393933,
+  "type": "sento",
+  "area": "新宿区",
+  "address": "東京都新宿区神楽坂3-6",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-qw2si8",
+  "name": "荒木町サウナ Logout",
+  "lat": 35.6893689,
+  "lng": 139.7228867,
+  "type": "super",
+  "area": "新宿区",
+  "address": "東京都新宿区荒木町6-1-103",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-zi5mtt",
+  "name": "馬場サウナ&ワークカフェ",
+  "lat": 35.7117019,
+  "lng": 139.7099283,
+  "type": "super",
+  "area": "新宿区",
+  "address": "東京都新宿区高田馬場2-1-1",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1ugggt0",
+  "name": "黄金湯 新宿",
+  "lat": 35.7000594,
+  "lng": 139.7102789,
+  "type": "super",
+  "area": "新宿区",
+  "address": "東京都新宿区新宿7-22-11",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1a6uis2",
+  "name": "つるつる温泉",
+  "lat": 35.7794911,
+  "lng": 139.1920269,
+  "type": "super",
+  "area": "日の出町",
+  "address": "東京都西多摩郡日の出町大字大久野4718",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-i9cty9",
+  "name": "富士見湯",
+  "lat": 35.7093858,
+  "lng": 139.3822158,
+  "type": "super",
+  "area": "昭島市",
+  "address": "東京都昭島市中神町1260",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1fjg12r",
+  "name": "昭島温泉 湯楽の里",
+  "lat": 35.721625,
+  "lng": 139.3551953,
+  "type": "super",
+  "area": "昭島市",
+  "address": "東京都昭島市美堀町3-14-10",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-dgk8xf",
+  "name": "GOKURAKUYA",
+  "lat": 35.7082419,
+  "lng": 139.6138789,
+  "type": "sento",
+  "area": "杉並区",
+  "address": "東京都杉並区上荻2-40-14",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-dn0kv9",
+  "name": "ROOFTOP",
+  "lat": 35.7034414,
+  "lng": 139.6009606,
+  "type": "super",
+  "area": "杉並区",
+  "address": "東京都杉並区西荻南3丁目14-7",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1aq66p8",
+  "name": "sauna サンデッキ",
+  "lat": 35.7049011,
+  "lng": 139.6542508,
+  "type": "super",
+  "area": "杉並区",
+  "address": "東京都杉並区高円寺南4-39-17",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-um10gm",
+  "name": "なごみの湯",
+  "lat": 35.7048003,
+  "lng": 139.6183039,
+  "type": "super",
+  "area": "杉並区",
+  "address": "東京都杉並区上荻1-10-10",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1r38kk",
+  "name": "なみのゆ",
+  "lat": 35.7084453,
+  "lng": 139.6461769,
+  "type": "sento",
+  "area": "杉並区",
+  "address": "東京都杉並区高円寺北3-29-2",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1yjgmhh",
+  "name": "ゆ家和ごころ 吉の湯",
+  "lat": 35.6896722,
+  "lng": 139.6390889,
+  "type": "super",
+  "area": "杉並区",
+  "address": "東京都杉並区成田東1-14-7",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-l8hxag",
+  "name": "サウナリウム高円寺",
+  "lat": 35.7096344,
+  "lng": 139.6495425,
+  "type": "super",
+  "area": "杉並区",
+  "address": "東京都杉並区高円寺北3-45-13",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1j85fuz",
+  "name": "井草湯",
+  "lat": 35.7195519,
+  "lng": 139.6148981,
+  "type": "super",
+  "area": "杉並区",
+  "address": "東京都杉並区下井草5-3-15",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1r4n1pi",
+  "name": "天狗湯",
+  "lat": 35.6989703,
+  "lng": 139.6013469,
+  "type": "sento",
+  "area": "杉並区",
+  "address": "東京都杉並区西荻南1-21-4",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1y20gjf",
+  "name": "小杉湯",
+  "lat": 35.7081011,
+  "lng": 139.6487369,
+  "type": "sento",
+  "area": "杉並区",
+  "address": "東京都杉並区高円寺北3-32-17",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1bnkwg2",
+  "name": "小杉湯",
+  "lat": 35.7080428,
+  "lng": 139.6485786,
+  "type": "super",
+  "area": "杉並区",
+  "address": "東京都杉並区高円寺北3-32-2",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-w5fubw",
+  "name": "弁天湯",
+  "lat": 35.7008461,
+  "lng": 139.6450744,
+  "type": "sento",
+  "area": "杉並区",
+  "address": "東京都杉並区高円寺南3-25-1",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-16tzdvq",
+  "name": "杉並湯",
+  "lat": 35.6972661,
+  "lng": 139.6503317,
+  "type": "sento",
+  "area": "杉並区",
+  "address": "東京都杉並区梅里1-13-7",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-beu0jr",
+  "name": "玉の湯",
+  "lat": 35.7072147,
+  "lng": 139.6396325,
+  "type": "super",
+  "area": "杉並区",
+  "address": "東京都杉並区阿佐谷北1-13-7",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-rwuyw9",
+  "name": "秀の湯",
+  "lat": 35.7124211,
+  "lng": 139.6026378,
+  "type": "super",
+  "area": "杉並区",
+  "address": "東京都杉並区桃井4-2-9",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-155461k",
+  "name": "美しの湯",
+  "lat": 35.6846392,
+  "lng": 139.6148464,
+  "type": "super",
+  "area": "杉並区",
+  "address": "東京都杉並区高井戸西2-3-45",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1i8frpd",
+  "name": "阿佐ヶ谷温泉 天徳泉",
+  "lat": 35.7058672,
+  "lng": 139.6321364,
+  "type": "super",
+  "area": "杉並区",
+  "address": "東京都杉並区阿佐谷北2-22-1",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-cm2hq4",
+  "name": "香藤湯",
+  "lat": 35.7019914,
+  "lng": 139.6607694,
+  "type": "sento",
+  "area": "杉並区",
+  "address": "東京都杉並区高円寺南5-1-7",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-gynszk",
+  "name": "スパジアム ジャポン",
+  "lat": 35.7731631,
+  "lng": 139.5448936,
+  "type": "super",
+  "area": "東久留米市",
+  "address": "東京都東久留米市上の原2-7-7",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-u1weyo",
+  "name": "湯〜プラザ柳泉園",
+  "lat": 35.7547581,
+  "lng": 139.4944958,
+  "type": "super",
+  "area": "東久留米市",
+  "address": "東京都東久留米市下里4-3-10",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1doerxg",
+  "name": "おかえりサウナ板橋",
+  "lat": 35.7613942,
+  "lng": 139.7047417,
+  "type": "super",
+  "area": "板橋区",
+  "address": "東京都板橋区大和町17-4",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1mkoqvg",
+  "name": "さくら湯",
+  "lat": 35.7527622,
+  "lng": 139.7135714,
+  "type": "sento",
+  "area": "板橋区",
+  "address": "東京都板橋区板橋3−39−12",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-8sukdi",
+  "name": "さやの湯処",
+  "lat": 35.7707639,
+  "lng": 139.6927614,
+  "type": "super",
+  "area": "板橋区",
+  "address": "東京都板橋区前野町3-41-1",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-2lwfnd",
+  "name": "ときわ健康温泉",
+  "lat": 35.7665731,
+  "lng": 139.6793017,
+  "type": "sento",
+  "area": "板橋区",
+  "address": "東京都板橋区中台1−25−5",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-2x72ij",
+  "name": "みやこ湯",
+  "lat": 35.7431433,
+  "lng": 139.704945,
+  "type": "sento",
+  "area": "板橋区",
+  "address": "東京都板橋区熊野町34−14",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1otyyyd",
+  "name": "ゆーらんど",
+  "lat": 35.748865,
+  "lng": 139.7154158,
+  "type": "sento",
+  "area": "板橋区",
+  "address": "東京都板橋区板橋1−41−13",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-30mkzz",
+  "name": "アクアセゾン",
+  "lat": 35.7616428,
+  "lng": 139.6843061,
+  "type": "sento",
+  "area": "板橋区",
+  "address": "東京都板橋区常盤台3−14−6",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-2qmzb0",
+  "name": "アクアセゾン",
+  "lat": 35.7616428,
+  "lng": 139.6843061,
+  "type": "super",
+  "area": "板橋区",
+  "address": "東京都板橋区常盤台3-14-6",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1krmwkx",
+  "name": "クアパレス藤",
+  "lat": 35.7408628,
+  "lng": 139.6996172,
+  "type": "sento",
+  "area": "板橋区",
+  "address": "東京都板橋区南町39−10",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1khnavy",
+  "name": "クアパレス藤",
+  "lat": 35.7408628,
+  "lng": 139.6996172,
+  "type": "super",
+  "area": "板橋区",
+  "address": "東京都板橋区南町39-10",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-zwxtcj",
+  "name": "パブリバ八光",
+  "lat": 35.75326,
+  "lng": 139.6833242,
+  "type": "sento",
+  "area": "板橋区",
+  "address": "東京都板橋区東新町2−56−13",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-131jnqp",
+  "name": "一の湯",
+  "lat": 35.7533664,
+  "lng": 139.7028667,
+  "type": "sento",
+  "area": "板橋区",
+  "address": "東京都板橋区栄町20−11",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1vzal1u",
+  "name": "光徳湯",
+  "lat": 35.7705658,
+  "lng": 139.6554981,
+  "type": "sento",
+  "area": "板橋区",
+  "address": "東京都板橋区徳丸3−11−16",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-e7wyt2",
+  "name": "初音湯",
+  "lat": 35.7824367,
+  "lng": 139.6294331,
+  "type": "sento",
+  "area": "板橋区",
+  "address": "東京都板橋区成増3−41−16",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-f8e459",
+  "name": "功泉湯",
+  "lat": 35.7795322,
+  "lng": 139.6730817,
+  "type": "sento",
+  "area": "板橋区",
+  "address": "東京都板橋区西台2−17−20",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1qmnffc",
+  "name": "大黒湯",
+  "lat": 35.7429817,
+  "lng": 139.6894072,
+  "type": "sento",
+  "area": "板橋区",
+  "address": "東京都板橋区大谷口1−47−5",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-gbd2uh",
+  "name": "寿湯",
+  "lat": 35.7617508,
+  "lng": 139.6754239,
+  "type": "sento",
+  "area": "板橋区",
+  "address": "東京都板橋区上板橋1−21−4",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-15q2b7u",
+  "name": "岩の湯",
+  "lat": 35.7747211,
+  "lng": 139.6440742,
+  "type": "sento",
+  "area": "板橋区",
+  "address": "東京都板橋区赤塚6−12−2",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-127igbh",
+  "name": "愛染湯",
+  "lat": 35.7566025,
+  "lng": 139.7039639,
+  "type": "sento",
+  "area": "板橋区",
+  "address": "東京都板橋区大和町46−7",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-aa0pr7",
+  "name": "松の湯",
+  "lat": 35.7786881,
+  "lng": 139.6872889,
+  "type": "sento",
+  "area": "板橋区",
+  "address": "東京都板橋区志村3−28−6",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1fx1a7e",
+  "name": "梅の湯（休業中）",
+  "lat": 35.755775,
+  "lng": 139.7107656,
+  "type": "sento",
+  "area": "板橋区",
+  "address": "東京都板橋区仲宿22−6",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-v456h0",
+  "name": "清水湯",
+  "lat": 35.7680625,
+  "lng": 139.6986189,
+  "type": "sento",
+  "area": "板橋区",
+  "address": "東京都板橋区大原町24−3",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-n5094i",
+  "name": "湯～ハウス",
+  "lat": 35.7652786,
+  "lng": 139.6731267,
+  "type": "sento",
+  "area": "板橋区",
+  "address": "東京都板橋区上板橋3−18−12",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1s7atbc",
+  "name": "熊野湯",
+  "lat": 35.7759556,
+  "lng": 139.6900447,
+  "type": "sento",
+  "area": "板橋区",
+  "address": "東京都板橋区志村1−32−20",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1tdel2p",
+  "name": "第一金乗湯",
+  "lat": 35.7687644,
+  "lng": 139.6711944,
+  "type": "sento",
+  "area": "板橋区",
+  "address": "東京都板橋区若木1−19−6",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1t3ezdq",
+  "name": "第一金乗湯",
+  "lat": 35.7687644,
+  "lng": 139.6711944,
+  "type": "super",
+  "area": "板橋区",
+  "address": "東京都板橋区若木1-19-6",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-e47t14",
+  "name": "第二富士見湯",
+  "lat": 35.74421,
+  "lng": 139.6997172,
+  "type": "sento",
+  "area": "板橋区",
+  "address": "東京都板橋区幸町20−5",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1ec26qe",
+  "name": "紀の国湯",
+  "lat": 35.7843489,
+  "lng": 139.6798844,
+  "type": "sento",
+  "area": "板橋区",
+  "address": "東京都板橋区坂下2−33−4",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1lkmr96",
+  "name": "金松湯",
+  "lat": 35.7491647,
+  "lng": 139.7038058,
+  "type": "sento",
+  "area": "板橋区",
+  "address": "東京都板橋区大山東町55−3",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1w5sdu1",
+  "name": "黄金湯",
+  "lat": 35.7763547,
+  "lng": 139.6580258,
+  "type": "sento",
+  "area": "板橋区",
+  "address": "東京都板橋区徳丸5−2−2",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-f4ufef",
+  "name": "MONSTER SAUNA",
+  "lat": 35.7041631,
+  "lng": 139.5792292,
+  "type": "super",
+  "area": "武蔵野市",
+  "address": "東京都武蔵野市吉祥寺本町1丁目8-3",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-hvozfd",
+  "name": "境南浴場",
+  "lat": 35.7002189,
+  "lng": 139.5412969,
+  "type": "super",
+  "area": "武蔵野市",
+  "address": "東京都武蔵野市境南町3-11-8",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1lgol0q",
+  "name": "あづま浴泉",
+  "lat": 35.7087625,
+  "lng": 139.8756589,
+  "type": "sento",
+  "area": "江戸川区",
+  "address": "東京都江戸川区中央2−34−2",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-6em8wh",
+  "name": "つるの湯",
+  "lat": 35.6834481,
+  "lng": 139.8596281,
+  "type": "sento",
+  "area": "江戸川区",
+  "address": "東京都江戸川区船堀2−11−16",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1hx0eh5",
+  "name": "みどり湯",
+  "lat": 35.7217669,
+  "lng": 139.8923544,
+  "type": "sento",
+  "area": "江戸川区",
+  "address": "東京都江戸川区東小岩1−17−18",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1e1j9hd",
+  "name": "イーストランド",
+  "lat": 35.7112883,
+  "lng": 139.8969986,
+  "type": "sento",
+  "area": "江戸川区",
+  "address": "東京都江戸川区西篠崎2−23−1",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1c3m1mk",
+  "name": "イーストランド",
+  "lat": 35.7112883,
+  "lng": 139.8969986,
+  "type": "super",
+  "area": "江戸川区",
+  "address": "東京都江戸川区西篠崎2-23-1",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-84nm31",
+  "name": "コア21",
+  "lat": 35.6846231,
+  "lng": 139.8635364,
+  "type": "super",
+  "area": "江戸川区",
+  "address": "東京都江戸川区船堀1-7-9",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-16ud25f",
+  "name": "ニュー小岩310",
+  "lat": 35.7332264,
+  "lng": 139.8795692,
+  "type": "super",
+  "area": "江戸川区",
+  "address": "東京都江戸川区西小岩1-19-24",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-edu6d4",
+  "name": "一心湯",
+  "lat": 35.7138631,
+  "lng": 139.8564447,
+  "type": "sento",
+  "area": "江戸川区",
+  "address": "東京都江戸川区松島4−9−8",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1h6jov6",
+  "name": "中の湯",
+  "lat": 35.7105667,
+  "lng": 139.8438933,
+  "type": "sento",
+  "area": "江戸川区",
+  "address": "東京都江戸川区平井6−42−11",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1714iux",
+  "name": "乙女湯",
+  "lat": 35.6785036,
+  "lng": 139.8689003,
+  "type": "sento",
+  "area": "江戸川区",
+  "address": "東京都江戸川区船堀7−3−13",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-17b44jw",
+  "name": "乙女湯",
+  "lat": 35.6785036,
+  "lng": 139.8689003,
+  "type": "super",
+  "area": "江戸川区",
+  "address": "東京都江戸川区船堀7-3-13",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1e4n43v",
+  "name": "仁岸湯",
+  "lat": 35.7079319,
+  "lng": 139.872445,
+  "type": "sento",
+  "area": "江戸川区",
+  "address": "東京都江戸川区中央2−7−2",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1eempsu",
+  "name": "仁岸湯",
+  "lat": 35.7079319,
+  "lng": 139.872445,
+  "type": "super",
+  "area": "江戸川区",
+  "address": "東京都江戸川区中央2-7-2",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-6fc0y1",
+  "name": "友の湯",
+  "lat": 35.7293544,
+  "lng": 139.8875819,
+  "type": "sento",
+  "area": "江戸川区",
+  "address": "東京都江戸川区東小岩5−1−3",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-zjo91l",
+  "name": "吉野湯",
+  "lat": 35.7379228,
+  "lng": 139.8789106,
+  "type": "sento",
+  "area": "江戸川区",
+  "address": "東京都江戸川区西小岩3−36−20",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-54s381",
+  "name": "吉野湯",
+  "lat": 35.7071583,
+  "lng": 139.8462656,
+  "type": "super",
+  "area": "江戸川区",
+  "address": "東京都江戸川区平井4-23-2",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-9pqpso",
+  "name": "地蔵湯",
+  "lat": 35.7412922,
+  "lng": 139.8839411,
+  "type": "sento",
+  "area": "江戸川区",
+  "address": "東京都江戸川区北小岩2−12−11",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1c0m2d2",
+  "name": "宝来湯",
+  "lat": 35.6752636,
+  "lng": 139.8770383,
+  "type": "sento",
+  "area": "江戸川区",
+  "address": "東京都江戸川区江戸川6−12−16",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-19n1ln0",
+  "name": "島田浴場",
+  "lat": 35.721305,
+  "lng": 139.8842003,
+  "type": "sento",
+  "area": "江戸川区",
+  "address": "東京都江戸川区南小岩4−6−5",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1d63tzx",
+  "name": "庄楽の湯",
+  "lat": 35.7122889,
+  "lng": 139.9033564,
+  "type": "sento",
+  "area": "江戸川区",
+  "address": "東京都江戸川区上篠崎2−12−16",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1b86m54",
+  "name": "庄楽の湯",
+  "lat": 35.7122889,
+  "lng": 139.9033564,
+  "type": "super",
+  "area": "江戸川区",
+  "address": "東京都江戸川区上篠崎2-12-16",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-u7ye5l",
+  "name": "武蔵湯",
+  "lat": 35.7304097,
+  "lng": 139.8766497,
+  "type": "sento",
+  "area": "江戸川区",
+  "address": "東京都江戸川区西小岩1−6−16",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1lx4hk0",
+  "name": "湯処葛西",
+  "lat": 35.6557406,
+  "lng": 139.88115,
+  "type": "super",
+  "area": "江戸川区",
+  "address": "東京都江戸川区東葛西9-3-5",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1rc1h6u",
+  "name": "竹の湯",
+  "lat": 35.6994717,
+  "lng": 139.9121536,
+  "type": "sento",
+  "area": "江戸川区",
+  "address": "東京都江戸川区篠崎町4−21−15",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-bn02wm",
+  "name": "第二寿湯",
+  "lat": 35.6881086,
+  "lng": 139.9034967,
+  "type": "sento",
+  "area": "江戸川区",
+  "address": "東京都江戸川区江戸川1−10−23",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-13b17g",
+  "name": "菅原湯",
+  "lat": 35.715295,
+  "lng": 139.8731144,
+  "type": "sento",
+  "area": "江戸川区",
+  "address": "東京都江戸川区中央4−19−24",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-jbuci7",
+  "name": "金泉湯",
+  "lat": 35.7145189,
+  "lng": 139.83864,
+  "type": "sento",
+  "area": "江戸川区",
+  "address": "東京都江戸川区平井7−17−36",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-18ev7wi",
+  "name": "鶴の湯",
+  "lat": 35.7444783,
+  "lng": 139.8895847,
+  "type": "sento",
+  "area": "江戸川区",
+  "address": "東京都江戸川区北小岩7−4−16",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-b1iguu",
+  "name": "NiHITARU",
+  "lat": 35.6705647,
+  "lng": 139.8190825,
+  "type": "super",
+  "area": "江東区",
+  "address": "東京都江東区東陽4-5-9",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-tiemub",
+  "name": "らかん湯",
+  "lat": 35.6913822,
+  "lng": 139.825815,
+  "type": "sento",
+  "area": "江東区",
+  "address": "東京都江東区大島2−37−7",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-irecfp",
+  "name": "不二の湯",
+  "lat": 35.6683717,
+  "lng": 139.8417083,
+  "type": "sento",
+  "area": "江東区",
+  "address": "東京都江東区東砂8−20−16",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-18enygj",
+  "name": "喜楽湯",
+  "lat": 35.6723789,
+  "lng": 139.8307981,
+  "type": "sento",
+  "area": "江東区",
+  "address": "東京都江東区南砂4−15−19",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-d5iez9",
+  "name": "富山湯",
+  "lat": 35.6944211,
+  "lng": 139.8324706,
+  "type": "sento",
+  "area": "江東区",
+  "address": "東京都江東区亀戸6−49−14",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1kbqkua",
+  "name": "文化湯",
+  "lat": 35.6843114,
+  "lng": 139.8369772,
+  "type": "sento",
+  "area": "江東区",
+  "address": "東京都江東区北砂6−14−8",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-15feb46",
+  "name": "春の湯",
+  "lat": 35.6914578,
+  "lng": 139.8410575,
+  "type": "sento",
+  "area": "江東区",
+  "address": "東京都江東区大島7−25−14",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-12wl36q",
+  "name": "東京豊洲 万葉俱楽部",
+  "lat": 35.6460164,
+  "lng": 139.7829672,
+  "type": "super",
+  "area": "江東区",
+  "address": "東京都江東区豊洲6丁目5-1",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1xa2phl",
+  "name": "泉天空の湯 有明ガーデン",
+  "lat": 35.6381733,
+  "lng": 139.7914053,
+  "type": "super",
+  "area": "江東区",
+  "address": "東京都江東区有明2丁目1-7",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-2g81zo",
+  "name": "深川温泉 常盤湯",
+  "lat": 35.6847553,
+  "lng": 139.7969628,
+  "type": "super",
+  "area": "江東区",
+  "address": "東京都江東区常盤2-3-8",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-4sicul",
+  "name": "猿江 亀の湯",
+  "lat": 35.6870183,
+  "lng": 139.8117308,
+  "type": "sento",
+  "area": "江東区",
+  "address": "東京都江東区猿江1−18−9",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1cflisq",
+  "name": "竹の湯",
+  "lat": 35.6814889,
+  "lng": 139.8298786,
+  "type": "sento",
+  "area": "江東区",
+  "address": "東京都江東区北砂3−25−8",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-13kx1qk",
+  "name": "竹の湯",
+  "lat": 35.6855386,
+  "lng": 139.8060767,
+  "type": "sento",
+  "area": "江東区",
+  "address": "東京都江東区森下4−9−18",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1kakjiz",
+  "name": "第二久の湯",
+  "lat": 35.687335,
+  "lng": 139.825815,
+  "type": "sento",
+  "area": "江東区",
+  "address": "東京都江東区大島1−36−6",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1uzkbid",
+  "name": "藤の湯",
+  "lat": 35.6807253,
+  "lng": 139.841405,
+  "type": "sento",
+  "area": "江東区",
+  "address": "東京都江東区東砂3−18−17",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1852aoo",
+  "name": "隆乃湯",
+  "lat": 35.6990169,
+  "lng": 139.8280231,
+  "type": "sento",
+  "area": "江東区",
+  "address": "東京都江東区亀戸5−9−7",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-om2mku",
+  "name": "Dogen Sauna & Stay",
+  "lat": 35.6571969,
+  "lng": 139.6962856,
+  "type": "super",
+  "area": "渋谷区",
+  "address": "東京都渋谷区道玄坂1丁目19-14",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-q3lvxg",
+  "name": "Ledian Spa 恵比寿店",
+  "lat": 35.6459369,
+  "lng": 139.7066458,
+  "type": "super",
+  "area": "渋谷区",
+  "address": "東京都渋谷区恵比寿南3-1-1",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-dv1ziw",
+  "name": "Sauna&Drink YOQ",
+  "lat": 35.6677789,
+  "lng": 139.6818947,
+  "type": "super",
+  "area": "渋谷区",
+  "address": "東京都渋谷区上原2-48-11",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1uem9ja",
+  "name": "オールドルーキーサウナ渋谷",
+  "lat": 35.6587778,
+  "lng": 139.69849,
+  "type": "super",
+  "area": "渋谷区",
+  "address": "東京都渋谷区道玄坂2-6-11",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-be66yx",
+  "name": "サウナ道場",
+  "lat": 35.6607083,
+  "lng": 139.6983483,
+  "type": "super",
+  "area": "渋谷区",
+  "address": "東京都渋谷区宇田川町29-4",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-ct461",
+  "name": "マルシンスパ",
+  "lat": 35.6736722,
+  "lng": 139.665865,
+  "type": "super",
+  "area": "渋谷区",
+  "address": "東京都渋谷区笹塚1-58-6",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-km4m2x",
+  "name": "小杉湯原宿",
+  "lat": 35.66831,
+  "lng": 139.7046786,
+  "type": "super",
+  "area": "渋谷区",
+  "address": "東京都渋谷区神宮前6-31-21",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-sa76u9",
+  "name": "改良湯",
+  "lat": 35.6531706,
+  "lng": 139.7095367,
+  "type": "super",
+  "area": "渋谷区",
+  "address": "東京都渋谷区東2-19-9",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1878qge",
+  "name": "栄湯",
+  "lat": 35.6757222,
+  "lng": 139.6686956,
+  "type": "super",
+  "area": "渋谷区",
+  "address": "東京都渋谷区笹塚2-9-5",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-sru7vu",
+  "name": "Ledian Spa 麻布十番店",
+  "lat": 35.6567336,
+  "lng": 139.7340628,
+  "type": "super",
+  "area": "港区",
+  "address": "東京都港区麻布十番1丁目5-13",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-19ufcxt",
+  "name": "PARADISE",
+  "lat": 35.6480961,
+  "lng": 139.7457397,
+  "type": "super",
+  "area": "港区",
+  "address": "東京都港区芝5丁目23-16",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-11ogl62",
+  "name": "SPABLIC 赤坂湯屋",
+  "lat": 35.6760322,
+  "lng": 139.736775,
+  "type": "super",
+  "area": "港区",
+  "address": "東京都港区赤坂3-10-4",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-av2xii",
+  "name": "アスティル",
+  "lat": 35.6660111,
+  "lng": 139.7563242,
+  "type": "super",
+  "area": "港区",
+  "address": "東京都港区新橋3-12-3",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1jmbtcy",
+  "name": "アダムアンドイブ",
+  "lat": 35.6569475,
+  "lng": 139.7265156,
+  "type": "super",
+  "area": "港区",
+  "address": "東京都港区西麻布3-5-5",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-97bd02",
+  "name": "オールドルーキーサウナ銀座",
+  "lat": 35.6668894,
+  "lng": 139.7609675,
+  "type": "super",
+  "area": "港区",
+  "address": "東京都港区新橋1丁目7-11",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1mf5mjd",
+  "name": "サウナリゾート オリエンタル",
+  "lat": 35.6758406,
+  "lng": 139.7361611,
+  "type": "super",
+  "area": "港区",
+  "address": "東京都港区赤坂3-19-3",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-do2xox",
+  "name": "サウナ東京",
+  "lat": 35.6732433,
+  "lng": 139.73765,
+  "type": "super",
+  "area": "港区",
+  "address": "東京都港区赤坂3丁目13-4",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-djgykw",
+  "name": "スゴイサウナ赤坂店",
+  "lat": 35.6760322,
+  "lng": 139.736775,
+  "type": "super",
+  "area": "港区",
+  "address": "東京都港区赤坂3-10-4",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-owe7dv",
+  "name": "スゴイサウナ＆ステイ麻布十番",
+  "lat": 35.6566397,
+  "lng": 139.7385311,
+  "type": "super",
+  "area": "港区",
+  "address": "東京都港区東麻布3-6-11",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-14u37ds",
+  "name": "テルマー湯 西麻布",
+  "lat": 35.6608447,
+  "lng": 139.7262322,
+  "type": "super",
+  "area": "港区",
+  "address": "東京都港区西麻布1丁目7-2",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-22x0t5",
+  "name": "レンブラントキャビン＆スパ新橋",
+  "lat": 35.6664611,
+  "lng": 139.7559158,
+  "type": "super",
+  "area": "港区",
+  "address": "東京都港区新橋2-15-14",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-13772j7",
+  "name": "水宴-suien-",
+  "lat": 35.6560203,
+  "lng": 139.7354006,
+  "type": "super",
+  "area": "港区",
+  "address": "東京都港区麻布十番1-8-11",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-6xlnq4",
+  "name": "清水湯",
+  "lat": 35.6660186,
+  "lng": 139.7139886,
+  "type": "super",
+  "area": "港区",
+  "address": "東京都港区南青山3-12-3",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-164ryu8",
+  "name": "生姜サウナ 金の亀",
+  "lat": 35.6757294,
+  "lng": 139.7356444,
+  "type": "super",
+  "area": "港区",
+  "address": "東京都港区赤坂4-2-4",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-3p33pj",
+  "name": "高輪SAUNAS",
+  "lat": 35.6364453,
+  "lng": 139.7401097,
+  "type": "super",
+  "area": "港区",
+  "address": "東京都港区高輪2丁目21-1",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1uxnfqy",
+  "name": "狛江湯",
+  "lat": 35.6326117,
+  "lng": 139.5794581,
+  "type": "super",
+  "area": "狛江市",
+  "address": "東京都狛江市東和泉1-12-6",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-6rzstu",
+  "name": "ロテン・ガーデン",
+  "lat": 35.6094256,
+  "lng": 139.3442339,
+  "type": "super",
+  "area": "町田市",
+  "address": "東京都町田市相原町358",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-53vhec",
+  "name": "多摩境天然温泉 森乃彩",
+  "lat": 35.5984319,
+  "lng": 139.3847714,
+  "type": "super",
+  "area": "町田市",
+  "address": "東京都町田市小山ヶ丘1-11-5",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-68wohg",
+  "name": "大蔵湯",
+  "lat": 35.5617369,
+  "lng": 139.4299889,
+  "type": "super",
+  "area": "町田市",
+  "address": "東京都町田市木曽町522",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1bvluqk",
+  "name": "町田桜の湯",
+  "lat": 35.5862711,
+  "lng": 139.4130339,
+  "type": "super",
+  "area": "町田市",
+  "address": "東京都町田市図師町199-1",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-16zbzso",
+  "name": "みどり湯",
+  "lat": 35.6090553,
+  "lng": 139.6740467,
+  "type": "sento",
+  "area": "目黒区",
+  "address": "東京都目黒区緑が丘2-7-14",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-rpb6tm",
+  "name": "サウナジャポン",
+  "lat": 35.6453814,
+  "lng": 139.6989708,
+  "type": "super",
+  "area": "目黒区",
+  "address": "東京都目黒区上目黒1丁目18-6",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1r7b9sp",
+  "name": "ミナミ学芸大店",
+  "lat": 35.6301164,
+  "lng": 139.6858058,
+  "type": "super",
+  "area": "目黒区",
+  "address": "東京都目黒区鷹番3-9-9",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-9klrem",
+  "name": "光明泉",
+  "lat": 35.6455453,
+  "lng": 139.7002208,
+  "type": "sento",
+  "area": "目黒区",
+  "address": "東京都目黒区上目黒1-6-1",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-9am5pn",
+  "name": "光明泉",
+  "lat": 35.6455453,
+  "lng": 139.7002208,
+  "type": "super",
+  "area": "目黒区",
+  "address": "東京都目黒区上目黒一丁目6番1号",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-f6l1a",
+  "name": "千代の湯",
+  "lat": 35.6295608,
+  "lng": 139.6867364,
+  "type": "super",
+  "area": "目黒区",
+  "address": "東京都目黒区鷹番2-20-3",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1qg1gap",
+  "name": "堀田湯 上目黒",
+  "lat": 35.6417794,
+  "lng": 139.6896889,
+  "type": "super",
+  "area": "目黒区",
+  "address": "東京都目黒区上目黒4丁目25-10",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1qdqd2j",
+  "name": "大塚湯",
+  "lat": 35.6336139,
+  "lng": 139.6988547,
+  "type": "sento",
+  "area": "目黒区",
+  "address": "東京都目黒区目黒4-21-19",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1fdklbo",
+  "name": "大黒湯",
+  "lat": 35.6417794,
+  "lng": 139.6896889,
+  "type": "sento",
+  "area": "目黒区",
+  "address": "東京都目黒区上目黒4-25-10",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-7ke35x",
+  "name": "文化浴泉",
+  "lat": 35.6497922,
+  "lng": 139.6872886,
+  "type": "sento",
+  "area": "目黒区",
+  "address": "東京都目黒区東山3-6-8",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-7udouw",
+  "name": "文化浴泉",
+  "lat": 35.6497922,
+  "lng": 139.6872886,
+  "type": "super",
+  "area": "目黒区",
+  "address": "東京都目黒区東山三丁目6番8号",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-127imx1",
+  "name": "旭湯",
+  "lat": 35.6171514,
+  "lng": 139.6772353,
+  "type": "sento",
+  "area": "目黒区",
+  "address": "東京都目黒区平町1-25-23",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-2zmavn",
+  "name": "鷹番の湯",
+  "lat": 35.6298553,
+  "lng": 139.6893864,
+  "type": "super",
+  "area": "目黒区",
+  "address": "東京都目黒区鷹番2-2-1",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1gl4hba",
+  "name": "花景の湯",
+  "lat": 35.6304228,
+  "lng": 139.5180808,
+  "type": "super",
+  "area": "稲城市",
+  "address": "東京都稲城市矢野口4015-1",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1uo0v5s",
+  "name": "ガレーラサウナ立川",
+  "lat": 35.699135,
+  "lng": 139.4161406,
+  "type": "super",
+  "area": "立川市",
+  "address": "東京都立川市曙町2丁目14-25",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1uh7ctp",
+  "name": "ミナミ立川店",
+  "lat": 35.6966656,
+  "lng": 139.4149156,
+  "type": "super",
+  "area": "立川市",
+  "address": "東京都立川市柴崎町3-4-10",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-9aevup",
+  "name": "立川湯屋敷 梅の湯",
+  "lat": 35.7032258,
+  "lng": 139.4164319,
+  "type": "super",
+  "area": "立川市",
+  "address": "東京都立川市高松町3-13-2",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-146448h",
+  "name": "たつの湯",
+  "lat": 35.738915,
+  "lng": 139.5796528,
+  "type": "sento",
+  "area": "練馬区",
+  "address": "東京都練馬区石神井台6−19−26",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1b58zt",
+  "name": "ゆ～ポッポ",
+  "lat": 35.7600456,
+  "lng": 139.6557431,
+  "type": "sento",
+  "area": "練馬区",
+  "address": "東京都練馬区北町6−4−13",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1o1ew60",
+  "name": "三原台 富士の湯",
+  "lat": 35.7505647,
+  "lng": 139.602895,
+  "type": "sento",
+  "area": "練馬区",
+  "address": "東京都練馬区三原台1−30−1",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-4tocmj",
+  "name": "中村浴場",
+  "lat": 35.7364758,
+  "lng": 139.6409397,
+  "type": "sento",
+  "area": "練馬区",
+  "address": "東京都練馬区中村北3−3−11",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-dv1x64",
+  "name": "久松湯",
+  "lat": 35.7413839,
+  "lng": 139.6615928,
+  "type": "super",
+  "area": "練馬区",
+  "address": "東京都練馬区桜台4-32-15",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1aifl7n",
+  "name": "天然温泉 久松湯",
+  "lat": 35.7413839,
+  "lng": 139.6615928,
+  "type": "sento",
+  "area": "練馬区",
+  "address": "東京都練馬区桜台4−32−15",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-16fxoua",
+  "name": "小川バスマンション",
+  "lat": 35.7687111,
+  "lng": 139.6452244,
+  "type": "sento",
+  "area": "練馬区",
+  "address": "東京都練馬区田柄2−32−20",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-3fu79b",
+  "name": "川場湯",
+  "lat": 35.7472747,
+  "lng": 139.6670286,
+  "type": "sento",
+  "area": "練馬区",
+  "address": "東京都練馬区桜台3−15−14",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1ilepdx",
+  "name": "平和湯",
+  "lat": 35.72616,
+  "lng": 139.6409928,
+  "type": "sento",
+  "area": "練馬区",
+  "address": "東京都練馬区中村南3−11−2",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-e5k6sg",
+  "name": "桑の湯",
+  "lat": 35.7644058,
+  "lng": 139.6494261,
+  "type": "sento",
+  "area": "練馬区",
+  "address": "東京都練馬区北町8−5−2",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-u5iekm",
+  "name": "江古田湯",
+  "lat": 35.7325186,
+  "lng": 139.6761614,
+  "type": "sento",
+  "area": "練馬区",
+  "address": "東京都練馬区旭丘1−17−3",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-gj9hh4",
+  "name": "浅間湯",
+  "lat": 35.7390564,
+  "lng": 139.6718944,
+  "type": "super",
+  "area": "練馬区",
+  "address": "東京都練馬区栄町38-3",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1j6yo6r",
+  "name": "浅間湯（休業中）",
+  "lat": 35.7390564,
+  "lng": 139.6718944,
+  "type": "sento",
+  "area": "練馬区",
+  "address": "東京都練馬区栄町38−3",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1sfkvvo",
+  "name": "第二亀の湯",
+  "lat": 35.7253806,
+  "lng": 139.5775008,
+  "type": "sento",
+  "area": "練馬区",
+  "address": "東京都練馬区関町北1−15−7",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1h89k0d",
+  "name": "練馬湯遊邸 松の湯",
+  "lat": 35.7301436,
+  "lng": 139.5793503,
+  "type": "sento",
+  "area": "練馬区",
+  "address": "東京都練馬区石神井台7−11−1",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-k7wikd",
+  "name": "練馬湯遊邸 松の湯",
+  "lat": 35.7301436,
+  "lng": 139.5793503,
+  "type": "super",
+  "area": "練馬区",
+  "address": "東京都練馬区石神井台7-11-1",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-16u2u62",
+  "name": "美寿々湯",
+  "lat": 35.7560439,
+  "lng": 139.5948094,
+  "type": "sento",
+  "area": "練馬区",
+  "address": "東京都練馬区大泉町6−10−2",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1n5aggy",
+  "name": "豊宏湯",
+  "lat": 35.7419378,
+  "lng": 139.6037675,
+  "type": "sento",
+  "area": "練馬区",
+  "address": "東京都練馬区石神井町3−14−8",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-2d7btu",
+  "name": "豊島園 庭の湯",
+  "lat": 35.7440725,
+  "lng": 139.6480106,
+  "type": "super",
+  "area": "練馬区",
+  "address": "東京都練馬区向山3-25-1",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1dr8k9d",
+  "name": "貫井浴場",
+  "lat": 35.7402081,
+  "lng": 139.6325903,
+  "type": "sento",
+  "area": "練馬区",
+  "address": "東京都練馬区貫井2−20−16",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1eqk7vm",
+  "name": "辰巳湯",
+  "lat": 35.7406225,
+  "lng": 139.656805,
+  "type": "sento",
+  "area": "練馬区",
+  "address": "東京都練馬区桜台4−42−2",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-3zi5gx",
+  "name": "フレッシュランド西多摩",
+  "lat": 35.7656061,
+  "lng": 139.3346864,
+  "type": "super",
+  "area": "羽村市",
+  "address": "東京都羽村市羽4225",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-42r9p9",
+  "name": "日暮里 斉藤湯",
+  "lat": 35.7292692,
+  "lng": 139.7729758,
+  "type": "super",
+  "area": "荒川区",
+  "address": "東京都荒川区東日暮里6-59-2",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-f8xx8d",
+  "name": "梅の湯",
+  "lat": 35.7468219,
+  "lng": 139.7614564,
+  "type": "super",
+  "area": "荒川区",
+  "address": "東京都荒川区西尾久4-13-2",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1ftny6x",
+  "name": "さつき湯",
+  "lat": 35.7532158,
+  "lng": 139.8390861,
+  "type": "sento",
+  "area": "葛飾区",
+  "address": "東京都葛飾区東堀切3−27−9",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1svjzpe",
+  "name": "ゆートピア２１",
+  "lat": 35.7655164,
+  "lng": 139.84892,
+  "type": "sento",
+  "area": "葛飾区",
+  "address": "東京都葛飾区亀有3−30−12",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1643rdp",
+  "name": "アクアガーデン栄湯",
+  "lat": 35.7304522,
+  "lng": 139.8400928,
+  "type": "sento",
+  "area": "葛飾区",
+  "address": "東京都葛飾区東四つ木3−45−7",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-18o3y0",
+  "name": "レインボー新小岩店",
+  "lat": 35.7156436,
+  "lng": 139.8597106,
+  "type": "super",
+  "area": "葛飾区",
+  "address": "東京都葛飾区新小岩1-49-1",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1sc8q8v",
+  "name": "古代の湯",
+  "lat": 35.7289842,
+  "lng": 139.8628619,
+  "type": "super",
+  "area": "葛飾区",
+  "address": "東京都葛飾区奥戸4-2-1",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-yz8jc4",
+  "name": "吉の湯",
+  "lat": 35.7532781,
+  "lng": 139.8277669,
+  "type": "sento",
+  "area": "葛飾区",
+  "address": "東京都葛飾区堀切6−33−5",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-kfxbon",
+  "name": "喜久の湯",
+  "lat": 35.7327536,
+  "lng": 139.8507467,
+  "type": "sento",
+  "area": "葛飾区",
+  "address": "東京都葛飾区東立石2−21−16",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-56j8yc",
+  "name": "富の湯",
+  "lat": 35.7378394,
+  "lng": 139.8405311,
+  "type": "sento",
+  "area": "葛飾区",
+  "address": "東京都葛飾区立石2−19−6",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1eaa6pr",
+  "name": "富士の湯",
+  "lat": 35.7493103,
+  "lng": 139.8266708,
+  "type": "sento",
+  "area": "葛飾区",
+  "address": "東京都葛飾区堀切4−58−26",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1210m69",
+  "name": "富士の湯（休業中）",
+  "lat": 35.7578647,
+  "lng": 139.8497342,
+  "type": "sento",
+  "area": "葛飾区",
+  "address": "東京都葛飾区亀有2−5−7",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-qjg4ib",
+  "name": "寿湯",
+  "lat": 35.7519492,
+  "lng": 139.8302653,
+  "type": "sento",
+  "area": "葛飾区",
+  "address": "東京都葛飾区堀切6−8−6",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1yrowv5",
+  "name": "寿湯",
+  "lat": 35.7332217,
+  "lng": 139.8387733,
+  "type": "sento",
+  "area": "葛飾区",
+  "address": "東京都葛飾区東四つ木4−19−14",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-z89pft",
+  "name": "成弘湯",
+  "lat": 35.7431469,
+  "lng": 139.8527044,
+  "type": "sento",
+  "area": "葛飾区",
+  "address": "東京都葛飾区立石6−32−19",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-h10ku9",
+  "name": "日の出湯",
+  "lat": 35.7412922,
+  "lng": 139.8274967,
+  "type": "sento",
+  "area": "葛飾区",
+  "address": "東京都葛飾区堀切1−15−7",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1s6ehl7",
+  "name": "末広湯",
+  "lat": 35.741195,
+  "lng": 139.8357617,
+  "type": "sento",
+  "area": "葛飾区",
+  "address": "東京都葛飾区宝町1−2−30",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-z56nub",
+  "name": "栄湯（葛飾）",
+  "lat": 35.7553203,
+  "lng": 139.8674719,
+  "type": "sento",
+  "area": "葛飾区",
+  "address": "東京都葛飾区高砂8−15−12",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-6a80fm",
+  "name": "第一日立湯",
+  "lat": 35.7690858,
+  "lng": 139.8493561,
+  "type": "sento",
+  "area": "葛飾区",
+  "address": "東京都葛飾区亀有5−48−12",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1b5yr4p",
+  "name": "第四富士の湯（休業中）",
+  "lat": 35.7460464,
+  "lng": 139.835475,
+  "type": "sento",
+  "area": "葛飾区",
+  "address": "東京都葛飾区宝町2−11−8",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-11bwpxq",
+  "name": "美吉湯",
+  "lat": 35.7515408,
+  "lng": 139.8371667,
+  "type": "sento",
+  "area": "葛飾区",
+  "address": "東京都葛飾区東堀切2−22−13",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-hahkow",
+  "name": "興和浴場",
+  "lat": 35.7496272,
+  "lng": 139.8796631,
+  "type": "sento",
+  "area": "葛飾区",
+  "address": "東京都葛飾区鎌倉4−17−14",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-a3pduk",
+  "name": "金町湯",
+  "lat": 35.7682972,
+  "lng": 139.8658606,
+  "type": "sento",
+  "area": "葛飾区",
+  "address": "東京都葛飾区金町5−14−9",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-10px0aj",
+  "name": "仙川 湯けむりの里",
+  "lat": 35.6576303,
+  "lng": 139.5877189,
+  "type": "super",
+  "area": "調布市",
+  "address": "東京都調布市若葉台2-11-2",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-v5g1y9",
+  "name": "湯の森 深大湯",
+  "lat": 35.6774189,
+  "lng": 139.54652,
+  "type": "super",
+  "area": "調布市",
+  "address": "東京都調布市深大寺北町6-17-3",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-byjaxf",
+  "name": "湯守の里",
+  "lat": 35.6642089,
+  "lng": 139.5485856,
+  "type": "super",
+  "area": "調布市",
+  "address": "東京都調布市深大寺元町2-12-2",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1jnjcu1",
+  "name": "神代湯",
+  "lat": 35.6545631,
+  "lng": 139.5663017,
+  "type": "super",
+  "area": "調布市",
+  "address": "東京都調布市菊野台1-13-1",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-14yv2jf",
+  "name": "調布 鶴の湯",
+  "lat": 35.6572714,
+  "lng": 139.5353569,
+  "type": "super",
+  "area": "調布市",
+  "address": "東京都調布市下石原1-10-2",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1dq6urv",
+  "name": "やすらぎの湯　ニュー椿",
+  "lat": 35.7414356,
+  "lng": 139.7310986,
+  "type": "sento",
+  "area": "豊島区",
+  "address": "東京都豊島区巣鴨5−20−3",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1u7hyg7",
+  "name": "ゆラックス",
+  "lat": 35.73555,
+  "lng": 139.7165306,
+  "type": "sento",
+  "area": "豊島区",
+  "address": "東京都豊島区上池袋2−10−6",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-89vs83",
+  "name": "カプセルイン大塚",
+  "lat": 35.7324978,
+  "lng": 139.7288294,
+  "type": "super",
+  "area": "豊島区",
+  "address": "東京都豊島区北大塚2-15-10",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-dakpil",
+  "name": "サンフラワー",
+  "lat": 35.7340258,
+  "lng": 139.7394394,
+  "type": "super",
+  "area": "豊島区",
+  "address": "東京都豊島区巣鴨2-5-4",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1lyuc3p",
+  "name": "タイムズ スパ・レスタ",
+  "lat": 35.7289361,
+  "lng": 139.7174944,
+  "type": "super",
+  "area": "豊島区",
+  "address": "東京都豊島区東池袋4-25-9",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1v4xfqa",
+  "name": "五色湯",
+  "lat": 35.7249697,
+  "lng": 139.6960775,
+  "type": "sento",
+  "area": "豊島区",
+  "address": "東京都豊島区目白5−21−4",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1vex1f9",
+  "name": "五色湯",
+  "lat": 35.7249697,
+  "lng": 139.6960775,
+  "type": "super",
+  "area": "豊島区",
+  "address": "東京都豊島区目白5-21-4",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-m48zf1",
+  "name": "健康ランド末広湯",
+  "lat": 35.7328161,
+  "lng": 139.6923992,
+  "type": "sento",
+  "area": "豊島区",
+  "address": "東京都豊島区千早2−14−13",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-623chy",
+  "name": "前田湯",
+  "lat": 35.7391572,
+  "lng": 139.7067978,
+  "type": "sento",
+  "area": "豊島区",
+  "address": "東京都豊島区池袋4−12−25",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-uyw7br",
+  "name": "大塚記念湯",
+  "lat": 35.7299867,
+  "lng": 139.7268961,
+  "type": "sento",
+  "area": "豊島区",
+  "address": "東京都豊島区南大塚3−38−15",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-q0zhu1",
+  "name": "妙法湯",
+  "lat": 35.7270867,
+  "lng": 139.6971042,
+  "type": "sento",
+  "area": "豊島区",
+  "address": "東京都豊島区西池袋4−32−4",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-p70or4",
+  "name": "妙法湯",
+  "lat": 35.7270867,
+  "lng": 139.6971042,
+  "type": "super",
+  "area": "豊島区",
+  "address": "東京都豊島区西池袋4-32-4",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1ep65l5",
+  "name": "宮下湯",
+  "lat": 35.7319731,
+  "lng": 139.7377756,
+  "type": "sento",
+  "area": "豊島区",
+  "address": "東京都豊島区巣鴨1−30−2",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-veq3cu",
+  "name": "小松湯",
+  "lat": 35.7416436,
+  "lng": 139.7121775,
+  "type": "sento",
+  "area": "豊島区",
+  "address": "東京都豊島区池袋本町3−1−3",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1ajmvm",
+  "name": "巣鴨湯",
+  "lat": 35.7384106,
+  "lng": 139.7301569,
+  "type": "sento",
+  "area": "豊島区",
+  "address": "東京都豊島区巣鴨4−13−9",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-24fagk",
+  "name": "巣鴨湯",
+  "lat": 35.7384106,
+  "lng": 139.7301569,
+  "type": "super",
+  "area": "豊島区",
+  "address": "東京都豊島区巣鴨4-13-9",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1px6oz4",
+  "name": "平和湯",
+  "lat": 35.7353083,
+  "lng": 139.7112333,
+  "type": "sento",
+  "area": "豊島区",
+  "address": "東京都豊島区池袋2−64−11",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1l5jshy",
+  "name": "東京染井温泉 SAKURA",
+  "lat": 35.7381719,
+  "lng": 139.7396919,
+  "type": "super",
+  "area": "豊島区",
+  "address": "東京都豊島区駒込5-4-24",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-naew1j",
+  "name": "池袋プラザ",
+  "lat": 35.7323553,
+  "lng": 139.7070539,
+  "type": "super",
+  "area": "豊島区",
+  "address": "東京都豊島区池袋2-12-3",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-11ibbs6",
+  "name": "湯〜ゆランドあずま",
+  "lat": 35.7285664,
+  "lng": 139.6995261,
+  "type": "sento",
+  "area": "豊島区",
+  "address": "東京都豊島区西池袋4−13−9",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1tjoz0n",
+  "name": "稲荷湯（池袋）",
+  "lat": 35.7346611,
+  "lng": 139.7190111,
+  "type": "sento",
+  "area": "豊島区",
+  "address": "東京都豊島区上池袋1−9−17",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-tflimx",
+  "name": "香取湯",
+  "lat": 35.7400192,
+  "lng": 139.7429947,
+  "type": "sento",
+  "area": "豊島区",
+  "address": "東京都豊島区駒込6−16−6",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-t8xwoy",
+  "name": "THE SPA 西新井",
+  "lat": 35.7750169,
+  "lng": 139.7899361,
+  "type": "super",
+  "area": "足立区",
+  "address": "東京都足立区西新井栄町1-17-10",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-lzzlmp",
+  "name": "おきもと湯",
+  "lat": 35.7736972,
+  "lng": 139.7751233,
+  "type": "sento",
+  "area": "足立区",
+  "address": "東京都足立区西新井本町4−29−24",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-9wxvbw",
+  "name": "タカラ湯",
+  "lat": 35.7559744,
+  "lng": 139.7942619,
+  "type": "sento",
+  "area": "足立区",
+  "address": "東京都足立区千住元町27−1",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-dlz8vr",
+  "name": "ニコニコ湯",
+  "lat": 35.752915,
+  "lng": 139.7974619,
+  "type": "sento",
+  "area": "足立区",
+  "address": "東京都足立区千住柳町2−10",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-17lsesi",
+  "name": "堀田湯",
+  "lat": 35.7718586,
+  "lng": 139.7891694,
+  "type": "sento",
+  "area": "足立区",
+  "address": "東京都足立区関原3−20−14",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-17bst3j",
+  "name": "堀田湯",
+  "lat": 35.7718586,
+  "lng": 139.7891694,
+  "type": "super",
+  "area": "足立区",
+  "address": "東京都足立区関原3-20-14",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-t4ffep",
+  "name": "大和湯",
+  "lat": 35.7814636,
+  "lng": 139.7978208,
+  "type": "sento",
+  "area": "足立区",
+  "address": "東京都足立区島根2−19−7",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-spl8ji",
+  "name": "大和湯",
+  "lat": 35.7483489,
+  "lng": 139.8123331,
+  "type": "sento",
+  "area": "足立区",
+  "address": "東京都足立区柳原2−43−1",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1ag3uhx",
+  "name": "大平湯",
+  "lat": 35.7780008,
+  "lng": 139.8140644,
+  "type": "sento",
+  "area": "足立区",
+  "address": "東京都足立区青井6−21−3",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-19m51f0",
+  "name": "大平湯",
+  "lat": 35.7780008,
+  "lng": 139.8140644,
+  "type": "super",
+  "area": "足立区",
+  "address": "東京都足立区青井6-21-3",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-4wwgds",
+  "name": "富士の湯",
+  "lat": 35.7735736,
+  "lng": 139.8405347,
+  "type": "sento",
+  "area": "足立区",
+  "address": "東京都足立区東和4−15−10",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1w7ew6m",
+  "name": "岡田湯",
+  "lat": 35.7712392,
+  "lng": 139.7854278,
+  "type": "sento",
+  "area": "足立区",
+  "address": "東京都足立区関原3−43−2",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-2g4e84",
+  "name": "常盤湯（足立）",
+  "lat": 35.7647267,
+  "lng": 139.8081106,
+  "type": "sento",
+  "area": "足立区",
+  "address": "東京都足立区足立4−28−8",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1vb0pmn",
+  "name": "明神の湯",
+  "lat": 35.7781042,
+  "lng": 139.8476447,
+  "type": "super",
+  "area": "足立区",
+  "address": "東京都足立区大谷田1-18-1",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-jibdxd",
+  "name": "明美湯",
+  "lat": 35.7655344,
+  "lng": 139.7922947,
+  "type": "sento",
+  "area": "足立区",
+  "address": "東京都足立区梅田4−40−21",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1brbodo",
+  "name": "星谷浴泉",
+  "lat": 35.7633592,
+  "lng": 139.7773458,
+  "type": "sento",
+  "area": "足立区",
+  "address": "東京都足立区扇1−34−3",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-tc52vr",
+  "name": "曙湯",
+  "lat": 35.7656989,
+  "lng": 139.8052606,
+  "type": "sento",
+  "area": "足立区",
+  "address": "東京都足立区足立4−22−3",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-a43lfs",
+  "name": "松乃湯",
+  "lat": 35.80267,
+  "lng": 139.8020592,
+  "type": "sento",
+  "area": "足立区",
+  "address": "東京都足立区保木間5−5−10",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-15f8dmr",
+  "name": "梅の湯",
+  "lat": 35.7501844,
+  "lng": 139.8059592,
+  "type": "sento",
+  "area": "足立区",
+  "address": "東京都足立区千住旭町41−11",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-15sp8ib",
+  "name": "永泉湯",
+  "lat": 35.7879311,
+  "lng": 139.7836864,
+  "type": "sento",
+  "area": "足立区",
+  "address": "東京都足立区西新井3−10−2",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1o7d6ir",
+  "name": "江北湯",
+  "lat": 35.77003,
+  "lng": 139.7649717,
+  "type": "sento",
+  "area": "足立区",
+  "address": "東京都足立区江北2−27−6",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-gim1eb",
+  "name": "湯処じんのび",
+  "lat": 35.7823656,
+  "lng": 139.7769175,
+  "type": "sento",
+  "area": "足立区",
+  "address": "東京都足立区西新井6−43−4",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1ba54f1",
+  "name": "玉の湯",
+  "lat": 35.7598281,
+  "lng": 139.8293447,
+  "type": "sento",
+  "area": "足立区",
+  "address": "東京都足立区綾瀬2−37−4",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-13g6afd",
+  "name": "竹の湯",
+  "lat": 35.7647206,
+  "lng": 139.7883975,
+  "type": "sento",
+  "area": "足立区",
+  "address": "東京都足立区関原1−9−13",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-kx0g4z",
+  "name": "美登利湯",
+  "lat": 35.7494267,
+  "lng": 139.8098081,
+  "type": "sento",
+  "area": "足立区",
+  "address": "東京都足立区千住旭町25−11",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-kd7ebf",
+  "name": "若松湯",
+  "lat": 35.7704314,
+  "lng": 139.8101117,
+  "type": "sento",
+  "area": "足立区",
+  "address": "東京都足立区中央本町2−19−11",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-19r6jiw",
+  "name": "金の湯",
+  "lat": 35.7550772,
+  "lng": 139.7963647,
+  "type": "sento",
+  "area": "足立区",
+  "address": "東京都足立区千住柳町36−8",
+  "url": "https://www.1010.or.jp/map/"
+ },
+ {
+  "id": "bath-1oebavj",
+  "name": "河辺温泉 梅の湯",
+  "lat": 35.7853833,
+  "lng": 139.2850622,
+  "type": "super",
+  "area": "青梅市",
+  "address": "東京都青梅市河辺町10-8-1",
+  "url": "https://www.supersento.com/kanto/tokyo.html"
+ },
+ {
+  "id": "bath-1io2fju",
+  "name": "辰巳湯",
+  "lat": 35.6799192,
+  "lng": 139.7996461,
+  "type": "sento",
+  "area": "江東区",
+  "address": "東京都江東区三好1-2-3",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-172"
+ },
+ {
+  "id": "bath-1fznn11",
+  "name": "ニュー松の湯",
+  "lat": 35.6702203,
+  "lng": 139.8097464,
+  "type": "sento",
+  "area": "江東区",
+  "address": "東京都江東区東陽3-12-11",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-171"
+ },
+ {
+  "id": "bath-tyeg48",
+  "name": "金春湯",
+  "lat": 35.6673681,
+  "lng": 139.8090589,
+  "type": "sento",
+  "area": "江東区",
+  "address": "東京都江東区東陽1-6-9",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-169"
+ },
+ {
+  "id": "bath-1d330ua",
+  "name": "白山湯",
+  "lat": 35.6570164,
+  "lng": 139.8038425,
+  "type": "sento",
+  "area": "江東区",
+  "address": "東京都江東区枝川1-6-15",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-168"
+ },
+ {
+  "id": "bath-1ts5oxj",
+  "name": "田中湯",
+  "lat": 35.7345517,
+  "lng": 139.8200969,
+  "type": "sento",
+  "area": "墨田区",
+  "address": "東京都墨田区墨田5-46-5",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-166"
+ },
+ {
+  "id": "bath-1mrqc6d",
+  "name": "みまつ湯",
+  "lat": 35.7326267,
+  "lng": 139.8210303,
+  "type": "sento",
+  "area": "墨田区",
+  "address": "東京都墨田区墨田4-9-12",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-165"
+ },
+ {
+  "id": "bath-1ax4pl5",
+  "name": "電気湯",
+  "lat": 35.7164367,
+  "lng": 139.8225553,
+  "type": "sento",
+  "area": "墨田区",
+  "address": "東京都墨田区京島3-10-10",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-159"
+ },
+ {
+  "id": "bath-j05rh0",
+  "name": "三徳湯",
+  "lat": 35.728435,
+  "lng": 139.8263639,
+  "type": "sento",
+  "area": "墨田区",
+  "address": "東京都墨田区八広6-8-8",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-156"
+ },
+ {
+  "id": "bath-nbnwfa",
+  "name": "おかめ湯",
+  "lat": 35.7203161,
+  "lng": 139.8209628,
+  "type": "sento",
+  "area": "墨田区",
+  "address": "東京都墨田区八広1-1-2",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-154"
+ },
+ {
+  "id": "bath-uy39nr",
+  "name": "押上温泉 大黒湯",
+  "lat": 35.7050189,
+  "lng": 139.8135933,
+  "type": "sento",
+  "area": "墨田区",
+  "address": "東京都墨田区横川3-12-14",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-150"
+ },
+ {
+  "id": "bath-ome154",
+  "name": "荒井湯",
+  "lat": 35.7034272,
+  "lng": 139.8006753,
+  "type": "sento",
+  "area": "墨田区",
+  "address": "東京都墨田区本所2-8-7",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-146"
+ },
+ {
+  "id": "bath-ejo996",
+  "name": "幸楽湯",
+  "lat": 35.6989922,
+  "lng": 139.8059406,
+  "type": "sento",
+  "area": "墨田区",
+  "address": "東京都墨田区亀沢4-24-7",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-144"
+ },
+ {
+  "id": "bath-1irwoss",
+  "name": "松の湯",
+  "lat": 35.6932322,
+  "lng": 139.80507,
+  "type": "sento",
+  "area": "墨田区",
+  "address": "東京都墨田区緑3-4-6",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-143"
+ },
+ {
+  "id": "bath-1y5a39p",
+  "name": "高砂湯",
+  "lat": 35.6910628,
+  "lng": 139.806645,
+  "type": "sento",
+  "area": "墨田区",
+  "address": "東京都墨田区立川4-11-12",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-141"
+ },
+ {
+  "id": "bath-lfo6au",
+  "name": "神田湯",
+  "lat": 35.7512964,
+  "lng": 139.7515489,
+  "type": "sento",
+  "area": "荒川区",
+  "address": "東京都荒川区西尾久8-38-3",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-139"
+ },
+ {
+  "id": "bath-14tifxu",
+  "name": "千代の湯",
+  "lat": 35.7486631,
+  "lng": 139.7592267,
+  "type": "sento",
+  "area": "荒川区",
+  "address": "東京都荒川区西尾久5-22-14",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-138"
+ },
+ {
+  "id": "bath-1yx6k38",
+  "name": "大門湯",
+  "lat": 35.7465033,
+  "lng": 139.7746861,
+  "type": "sento",
+  "area": "荒川区",
+  "address": "東京都荒川区東尾久6-11-2",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-136"
+ },
+ {
+  "id": "bath-1hhtvty",
+  "name": "尾久ゆ～ランド",
+  "lat": 35.7454025,
+  "lng": 139.7671536,
+  "type": "sento",
+  "area": "荒川区",
+  "address": "東京都荒川区東尾久5-27-5",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-135"
+ },
+ {
+  "id": "bath-wqumhw",
+  "name": "ニュー恵美須",
+  "lat": 35.7435592,
+  "lng": 139.7675817,
+  "type": "sento",
+  "area": "荒川区",
+  "address": "東京都荒川区東尾久4-17-9",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-134"
+ },
+ {
+  "id": "bath-1kvn75n",
+  "name": "タイムリゾート",
+  "lat": 35.7457339,
+  "lng": 139.7771417,
+  "type": "sento",
+  "area": "荒川区",
+  "address": "東京都荒川区町屋4-4-1",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-132"
+ },
+ {
+  "id": "bath-50cr0c",
+  "name": "喜楽湯",
+  "lat": 35.7341469,
+  "lng": 139.7792286,
+  "type": "sento",
+  "area": "荒川区",
+  "address": "東京都荒川区荒川3-59-11",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-126"
+ },
+ {
+  "id": "bath-1q54se4",
+  "name": "藤の湯",
+  "lat": 35.7328525,
+  "lng": 139.7827481,
+  "type": "sento",
+  "area": "荒川区",
+  "address": "東京都荒川区荒川3-16-4",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-125"
+ },
+ {
+  "id": "bath-1sdjxnl",
+  "name": "草津湯",
+  "lat": 35.7356272,
+  "lng": 139.7992033,
+  "type": "sento",
+  "area": "荒川区",
+  "address": "東京都荒川区南千住7-26-2",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-123"
+ },
+ {
+  "id": "bath-1vioj3o",
+  "name": "大勝湯",
+  "lat": 35.7330333,
+  "lng": 139.7906889,
+  "type": "sento",
+  "area": "荒川区",
+  "address": "東京都荒川区南千住1-19-4",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-121"
+ },
+ {
+  "id": "bath-13546jw",
+  "name": "千歳湯",
+  "lat": 35.7334156,
+  "lng": 139.7619819,
+  "type": "sento",
+  "area": "荒川区",
+  "address": "東京都荒川区西日暮里4-8-4",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-119"
+ },
+ {
+  "id": "bath-13j3s45",
+  "name": "寿湯",
+  "lat": 35.7277447,
+  "lng": 139.7825314,
+  "type": "sento",
+  "area": "荒川区",
+  "address": "東京都荒川区東日暮里4-12-3",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-115"
+ },
+ {
+  "id": "bath-11410z7",
+  "name": "黄金湯",
+  "lat": 35.7289219,
+  "lng": 139.7803786,
+  "type": "sento",
+  "area": "荒川区",
+  "address": "東京都荒川区東日暮里3-27-10",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-114"
+ },
+ {
+  "id": "bath-pqovgi",
+  "name": "帝国湯",
+  "lat": 35.7307914,
+  "lng": 139.7811231,
+  "type": "sento",
+  "area": "荒川区",
+  "address": "東京都荒川区東日暮里3-22-3",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-113"
+ },
+ {
+  "id": "bath-ntrs8e",
+  "name": "雲翠泉",
+  "lat": 35.7321331,
+  "lng": 139.7805508,
+  "type": "sento",
+  "area": "荒川区",
+  "address": "東京都荒川区東日暮里3-16-4",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-112"
+ },
+ {
+  "id": "bath-1bmrhxx",
+  "name": "鴻の湯",
+  "lat": 35.7316944,
+  "lng": 139.7851694,
+  "type": "sento",
+  "area": "荒川区",
+  "address": "東京都荒川区東日暮里2-20-10",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-111"
+ },
+ {
+  "id": "bath-4xsqpc",
+  "name": "朝日湯",
+  "lat": 35.7243303,
+  "lng": 139.7645294,
+  "type": "sento",
+  "area": "台東区",
+  "address": "東京都台東区谷中2-18-7",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-96"
+ },
+ {
+  "id": "bath-14gxxbe",
+  "name": "改栄湯",
+  "lat": 35.7299222,
+  "lng": 139.7941056,
+  "type": "sento",
+  "area": "台東区",
+  "address": "東京都台東区三ノ輪2-10-15",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-94"
+ },
+ {
+  "id": "bath-1pluc53",
+  "name": "有馬湯",
+  "lat": 35.7264978,
+  "lng": 139.7950722,
+  "type": "sento",
+  "area": "台東区",
+  "address": "東京都台東区竜泉3-31-2",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-92"
+ },
+ {
+  "id": "bath-xc1jwg",
+  "name": "富久の湯",
+  "lat": 35.722595,
+  "lng": 139.7904722,
+  "type": "sento",
+  "area": "台東区",
+  "address": "東京都台東区千束2-34-6",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-91"
+ },
+ {
+  "id": "bath-15fsm2v",
+  "name": "宝泉湯",
+  "lat": 35.7223253,
+  "lng": 139.7824425,
+  "type": "sento",
+  "area": "台東区",
+  "address": "東京都台東区根岸3-14-14",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-88"
+ },
+ {
+  "id": "bath-yai9f5",
+  "name": "燕湯",
+  "lat": 35.7055769,
+  "lng": 139.7728628,
+  "type": "sento",
+  "area": "台東区",
+  "address": "東京都台東区上野3-14-5",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-82"
+ },
+ {
+  "id": "bath-1a5uugp",
+  "name": "富士の湯",
+  "lat": 35.7276981,
+  "lng": 139.8053406,
+  "type": "sento",
+  "area": "台東区",
+  "address": "東京都台東区橋場2-21-7",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-81"
+ },
+ {
+  "id": "bath-13i3xrs",
+  "name": "堤柳泉",
+  "lat": 35.7236869,
+  "lng": 139.7974961,
+  "type": "sento",
+  "area": "台東区",
+  "address": "東京都台東区千束4-5-4",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-80"
+ },
+ {
+  "id": "bath-qjmo0p",
+  "name": "鶴の湯",
+  "lat": 35.7207342,
+  "lng": 139.7990656,
+  "type": "sento",
+  "area": "台東区",
+  "address": "東京都台東区浅草5-48-4",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-78"
+ },
+ {
+  "id": "bath-16nxjyh",
+  "name": "日の出湯",
+  "lat": 35.7106467,
+  "lng": 139.7842872,
+  "type": "sento",
+  "area": "台東区",
+  "address": "東京都台東区元浅草2-10-5",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-72"
+ },
+ {
+  "id": "bath-y1pxfx",
+  "name": "三筋湯",
+  "lat": 35.7054411,
+  "lng": 139.7864983,
+  "type": "sento",
+  "area": "台東区",
+  "address": "東京都台東区三筋2-13-2",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-71"
+ },
+ {
+  "id": "bath-1h2xx4s",
+  "name": "鶴の湯",
+  "lat": 35.7012806,
+  "lng": 139.7834436,
+  "type": "sento",
+  "area": "台東区",
+  "address": "東京都台東区浅草橋5-27-2",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-70"
+ },
+ {
+  "id": "bath-1s6y51",
+  "name": "帝国湯",
+  "lat": 35.7019667,
+  "lng": 139.7817631,
+  "type": "sento",
+  "area": "台東区",
+  "address": "東京都台東区浅草橋5-23-6",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-69"
+ },
+ {
+  "id": "bath-wc1z48",
+  "name": "辨天湯",
+  "lat": 35.6985003,
+  "lng": 139.7849517,
+  "type": "sento",
+  "area": "台東区",
+  "address": "東京都台東区浅草橋1-33-6",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-68"
+ },
+ {
+  "id": "bath-oz4pr0",
+  "name": "勝どき湯",
+  "lat": 35.6578989,
+  "lng": 139.7741392,
+  "type": "sento",
+  "area": "中央区",
+  "address": "東京都中央区勝どき3-9-7",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-66"
+ },
+ {
+  "id": "bath-sih35v",
+  "name": "月島温泉",
+  "lat": 35.6635758,
+  "lng": 139.7810639,
+  "type": "sento",
+  "area": "中央区",
+  "address": "東京都中央区月島3-4-5",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-65"
+ },
+ {
+  "id": "bath-1ax5c9e",
+  "name": "日の出湯",
+  "lat": 35.6675036,
+  "lng": 139.7832528,
+  "type": "sento",
+  "area": "中央区",
+  "address": "東京都中央区佃1-6-7",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-63"
+ },
+ {
+  "id": "bath-13jvxjq",
+  "name": "銀座湯",
+  "lat": 35.6744911,
+  "lng": 139.7702283,
+  "type": "sento",
+  "area": "中央区",
+  "address": "東京都中央区銀座1-12-2",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-60"
+ },
+ {
+  "id": "bath-1u9mzal",
+  "name": "金春湯",
+  "lat": 35.6686033,
+  "lng": 139.7613203,
+  "type": "sento",
+  "area": "中央区",
+  "address": "東京都中央区銀座8-7-5",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-57"
+ },
+ {
+  "id": "bath-ezgwi3",
+  "name": "於玉湯",
+  "lat": 35.6927981,
+  "lng": 139.7755769,
+  "type": "sento",
+  "area": "千代田区",
+  "address": "東京都千代田区岩本町2-2-14",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-55"
+ },
+ {
+  "id": "bath-1cugtrg",
+  "name": "稲荷湯",
+  "lat": 35.6901589,
+  "lng": 139.7663639,
+  "type": "sento",
+  "area": "千代田区",
+  "address": "東京都千代田区内神田1-7-3",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-54"
+ },
+ {
+  "id": "bath-y60774",
+  "name": "梅の湯",
+  "lat": 35.6966936,
+  "lng": 139.7552508,
+  "type": "sento",
+  "area": "千代田区",
+  "address": "東京都千代田区神田神保町2-8-2",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-53"
+ },
+ {
+  "id": "bath-1ok3bqf",
+  "name": "ふれあいの湯",
+  "lat": 35.6530575,
+  "lng": 139.7527414,
+  "type": "sento",
+  "area": "港区",
+  "address": "東京都港区芝2-2-18",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-110"
+ },
+ {
+  "id": "bath-1pkc7mu",
+  "name": "南青山 清水湯",
+  "lat": 35.6660186,
+  "lng": 139.7139886,
+  "type": "sento",
+  "area": "港区",
+  "address": "東京都港区南青山3-12-3",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-109"
+ },
+ {
+  "id": "bath-hydaro",
+  "name": "麻布黒美水温泉 竹の湯",
+  "lat": 35.6514514,
+  "lng": 139.7342578,
+  "type": "sento",
+  "area": "港区",
+  "address": "東京都港区南麻布1-15-12",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-108"
+ },
+ {
+  "id": "bath-mze8el",
+  "name": "アクアガーデン三越湯",
+  "lat": 35.6447772,
+  "lng": 139.7242497,
+  "type": "sento",
+  "area": "港区",
+  "address": "東京都港区白金5-12-16",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-107"
+ },
+ {
+  "id": "bath-1mds95b",
+  "name": "大黒湯",
+  "lat": 35.6709281,
+  "lng": 139.6831139,
+  "type": "sento",
+  "area": "渋谷区",
+  "address": "東京都渋谷区西原3-24-5",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-357"
+ },
+ {
+  "id": "bath-19dss0g",
+  "name": "仙石湯",
+  "lat": 35.6750781,
+  "lng": 139.6784389,
+  "type": "sento",
+  "area": "渋谷区",
+  "address": "東京都渋谷区西原2-27-5",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-356"
+ },
+ {
+  "id": "bath-1aquey9",
+  "name": "第二かねき湯",
+  "lat": 35.6809797,
+  "lng": 139.6808358,
+  "type": "sento",
+  "area": "渋谷区",
+  "address": "東京都渋谷区本町1-31-2",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-353"
+ },
+ {
+  "id": "bath-1hr7nab",
+  "name": "観音湯",
+  "lat": 35.6792019,
+  "lng": 139.6764858,
+  "type": "sento",
+  "area": "渋谷区",
+  "address": "東京都渋谷区幡ケ谷2-46-7",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-351"
+ },
+ {
+  "id": "bath-553hi0",
+  "name": "渋谷笹塚温泉 栄湯",
+  "lat": 35.6757222,
+  "lng": 139.6686956,
+  "type": "sento",
+  "area": "渋谷区",
+  "address": "東京都渋谷区笹塚2-9-5",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-350"
+ },
+ {
+  "id": "bath-fp3ab9",
+  "name": "さかえ湯",
+  "lat": 35.6546611,
+  "lng": 139.7064011,
+  "type": "sento",
+  "area": "渋谷区",
+  "address": "東京都渋谷区東1-31-19",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-347"
+ },
+ {
+  "id": "bath-1nqfjlj",
+  "name": "広尾湯",
+  "lat": 35.6508153,
+  "lng": 139.7217717,
+  "type": "sento",
+  "area": "渋谷区",
+  "address": "東京都渋谷区広尾5-4-16",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-346"
+ },
+ {
+  "id": "bath-92s1a0",
+  "name": "宝来湯",
+  "lat": 35.6438328,
+  "lng": 139.7208453,
+  "type": "sento",
+  "area": "渋谷区",
+  "address": "東京都渋谷区恵比寿3-39-5",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-345"
+ },
+ {
+  "id": "bath-1syazsi",
+  "name": "白山浴場",
+  "lat": 35.7157808,
+  "lng": 139.748475,
+  "type": "sento",
+  "area": "文京区",
+  "address": "東京都文京区白山2-7-1",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-101"
+ },
+ {
+  "id": "bath-1nbzdd9",
+  "name": "大黒湯",
+  "lat": 35.7209625,
+  "lng": 139.7325853,
+  "type": "sento",
+  "area": "文京区",
+  "address": "東京都文京区大塚3-8-6",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-99"
+ },
+ {
+  "id": "bath-1d4e3k3",
+  "name": "豊川浴泉",
+  "lat": 35.7144631,
+  "lng": 139.7176756,
+  "type": "sento",
+  "area": "文京区",
+  "address": "東京都文京区目白台1-13-1",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-97"
+ },
+ {
+  "id": "bath-1ootmw3",
+  "name": "松の湯",
+  "lat": 35.6595711,
+  "lng": 139.3250939,
+  "type": "sento",
+  "area": "八王子市",
+  "address": "東京都八王子市小門町119-3",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-700"
+ },
+ {
+  "id": "bath-1qljygq",
+  "name": "稲荷湯",
+  "lat": 35.6527892,
+  "lng": 139.3411572,
+  "type": "sento",
+  "area": "八王子市",
+  "address": "東京都八王子市子安町1-27-20",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-699"
+ },
+ {
+  "id": "bath-1eqzpcc",
+  "name": "春の湯",
+  "lat": 35.6996389,
+  "lng": 139.5601892,
+  "type": "sento",
+  "area": "三鷹市",
+  "address": "東京都三鷹市下連雀3-37-12",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-682"
+ },
+ {
+  "id": "bath-4sujd4",
+  "name": "藤の湯",
+  "lat": 35.676785,
+  "lng": 139.5183997,
+  "type": "sento",
+  "area": "府中市",
+  "address": "東京都府中市朝日町2-27-20",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-668"
+ },
+ {
+  "id": "bath-8iq7p1",
+  "name": "松の湯",
+  "lat": 35.6924242,
+  "lng": 139.4877875,
+  "type": "sento",
+  "area": "府中市",
+  "address": "東京都府中市新町3-6-5",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-667"
+ },
+ {
+  "id": "bath-1nyd30f",
+  "name": "府中湯楽館 桜湯",
+  "lat": 35.6707228,
+  "lng": 139.4819919,
+  "type": "sento",
+  "area": "府中市",
+  "address": "東京都府中市宮町1-23-3",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-666"
+ },
+ {
+  "id": "bath-1ca9kj1",
+  "name": "旭湯",
+  "lat": 35.6719506,
+  "lng": 139.4742225,
+  "type": "sento",
+  "area": "府中市",
+  "address": "東京都府中市宮西町3-6-2",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-664"
+ },
+ {
+  "id": "bath-vow585",
+  "name": "松の湯",
+  "lat": 35.6022922,
+  "lng": 139.6714344,
+  "type": "sento",
+  "area": "世田谷区",
+  "address": "東京都世田谷区奥沢4-24-2",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-507"
+ },
+ {
+  "id": "bath-1u5oo21",
+  "name": "増穂湯",
+  "lat": 35.6661767,
+  "lng": 139.6022036,
+  "type": "sento",
+  "area": "世田谷区",
+  "address": "東京都世田谷区南烏山5-21-15",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-499"
+ },
+ {
+  "id": "bath-4ifq8l",
+  "name": "北沢湯",
+  "lat": 35.6686608,
+  "lng": 139.62586,
+  "type": "sento",
+  "area": "世田谷区",
+  "address": "東京都世田谷区上北沢4-10-11",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-497"
+ },
+ {
+  "id": "bath-1q22ree",
+  "name": "新寿湯",
+  "lat": 35.6599433,
+  "lng": 139.6604156,
+  "type": "sento",
+  "area": "世田谷区",
+  "address": "東京都世田谷区代田5-11-7",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-495"
+ },
+ {
+  "id": "bath-171foxe",
+  "name": "千代の湯",
+  "lat": 35.6426317,
+  "lng": 139.6695161,
+  "type": "sento",
+  "area": "世田谷区",
+  "address": "東京都世田谷区三軒茶屋2-12-7",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-487"
+ },
+ {
+  "id": "bath-15pe2ul",
+  "name": "弘善湯",
+  "lat": 35.6411567,
+  "lng": 139.6742844,
+  "type": "sento",
+  "area": "世田谷区",
+  "address": "東京都世田谷区下馬2-36-15",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-482"
+ },
+ {
+  "id": "bath-oh1dpw",
+  "name": "八幡湯",
+  "lat": 35.6480972,
+  "lng": 139.6662047,
+  "type": "sento",
+  "area": "世田谷区",
+  "address": "東京都世田谷区太子堂5-21-4",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-479"
+ },
+ {
+  "id": "bath-umn1lr",
+  "name": "大黒湯",
+  "lat": 35.6760633,
+  "lng": 139.6573439,
+  "type": "sento",
+  "area": "杉並区",
+  "address": "東京都杉並区和泉1-34-2",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-401"
+ },
+ {
+  "id": "bath-1a6xqfl",
+  "name": "湯の楽代田橋温泉",
+  "lat": 35.6726222,
+  "lng": 139.6597511,
+  "type": "sento",
+  "area": "杉並区",
+  "address": "東京都杉並区和泉1-1-4",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-400"
+ },
+ {
+  "id": "bath-1pmzcfy",
+  "name": "文化湯",
+  "lat": 35.7067633,
+  "lng": 139.5962892,
+  "type": "sento",
+  "area": "杉並区",
+  "address": "東京都杉並区西荻北4-3-10",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-396"
+ },
+ {
+  "id": "bath-nantl0",
+  "name": "第二宝湯",
+  "lat": 35.7116772,
+  "lng": 139.6246247,
+  "type": "sento",
+  "area": "杉並区",
+  "address": "東京都杉並区本天沼2-7-13",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-392"
+ },
+ {
+  "id": "bath-eli2jn",
+  "name": "桜湯",
+  "lat": 35.6925892,
+  "lng": 139.6559822,
+  "type": "sento",
+  "area": "杉並区",
+  "address": "東京都杉並区和田3-11-9",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-390"
+ },
+ {
+  "id": "bath-muu6d",
+  "name": "栄湯",
+  "lat": 35.7206194,
+  "lng": 139.6782508,
+  "type": "sento",
+  "area": "新宿区",
+  "address": "東京都新宿区西落合2-6-2",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-343"
+ },
+ {
+  "id": "bath-bvr7x2",
+  "name": "ゆ～ザ中井",
+  "lat": 35.7160681,
+  "lng": 139.6890222,
+  "type": "sento",
+  "area": "新宿区",
+  "address": "東京都新宿区中落合1-13-8",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-342"
+ },
+ {
+  "id": "bath-cfu670",
+  "name": "福の湯",
+  "lat": 35.7217392,
+  "lng": 139.6947525,
+  "type": "sento",
+  "area": "新宿区",
+  "address": "東京都新宿区下落合4-25-10",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-341"
+ },
+ {
+  "id": "bath-nv6h59",
+  "name": "世界湯",
+  "lat": 35.7147044,
+  "lng": 139.6997044,
+  "type": "sento",
+  "area": "新宿区",
+  "address": "東京都新宿区高田馬場3-8-31",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-336"
+ },
+ {
+  "id": "bath-zlavvj",
+  "name": "金泉湯",
+  "lat": 35.7097892,
+  "lng": 139.7124036,
+  "type": "sento",
+  "area": "新宿区",
+  "address": "東京都新宿区西早稲田2-16-20",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-335"
+ },
+ {
+  "id": "bath-1oyi8ix",
+  "name": "大星湯",
+  "lat": 35.6945075,
+  "lng": 139.7173406,
+  "type": "sento",
+  "area": "新宿区",
+  "address": "東京都新宿区市谷台町18-3",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-326"
+ },
+ {
+  "id": "bath-r5g8l9",
+  "name": "弁天湯",
+  "lat": 35.6954706,
+  "lng": 139.7149261,
+  "type": "sento",
+  "area": "新宿区",
+  "address": "東京都新宿区余丁町5-1",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-325"
+ },
+ {
+  "id": "bath-rv58c3",
+  "name": "柳湯",
+  "lat": 35.6989736,
+  "lng": 139.7267197,
+  "type": "sento",
+  "area": "新宿区",
+  "address": "東京都新宿区市谷柳町25",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-324"
+ },
+ {
+  "id": "bath-mulrvy",
+  "name": "第三玉の湯",
+  "lat": 35.702935,
+  "lng": 139.7384239,
+  "type": "sento",
+  "area": "新宿区",
+  "address": "東京都新宿区白銀町1-4",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-323"
+ },
+ {
+  "id": "bath-r8lj2l",
+  "name": "竹の湯",
+  "lat": 35.7065425,
+  "lng": 139.7346069,
+  "type": "sento",
+  "area": "新宿区",
+  "address": "東京都新宿区改代町2",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-321"
+ },
+ {
+  "id": "bath-1x0jcim",
+  "name": "松見湯",
+  "lat": 35.6965103,
+  "lng": 139.4258397,
+  "type": "sento",
+  "area": "立川市",
+  "address": "東京都立川市羽衣町1-8-12",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-652"
+ },
+ {
+  "id": "bath-174r2sw",
+  "name": "美保湯",
+  "lat": 35.6981853,
+  "lng": 139.4229592,
+  "type": "sento",
+  "area": "立川市",
+  "address": "東京都立川市羽衣町1-2-18",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-651"
+ },
+ {
+  "id": "bath-merxy4",
+  "name": "昭和湯",
+  "lat": 35.7047997,
+  "lng": 139.3803881,
+  "type": "sento",
+  "area": "昭島市",
+  "address": "東京都昭島市玉川町4-3-7",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-659"
+ },
+ {
+  "id": "bath-1qb9kwr",
+  "name": "梅の湯",
+  "lat": 35.6752192,
+  "lng": 139.5576797,
+  "type": "sento",
+  "area": "調布市",
+  "address": "東京都調布市深大寺東町6-9-5",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-671"
+ },
+ {
+  "id": "bath-80lng1",
+  "name": "調布鶴の湯",
+  "lat": 35.6572714,
+  "lng": 139.5353569,
+  "type": "sento",
+  "area": "調布市",
+  "address": "東京都調布市下石原1-10-2",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-669"
+ },
+ {
+  "id": "bath-14ltdwn",
+  "name": "ぬくい湯",
+  "lat": 35.7072781,
+  "lng": 139.4974831,
+  "type": "sento",
+  "area": "小金井市",
+  "address": "東京都小金井市貫井北町3-4-4",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-661"
+ },
+ {
+  "id": "bath-1d5xgf3",
+  "name": "桜湯",
+  "lat": 35.7458614,
+  "lng": 139.4725111,
+  "type": "sento",
+  "area": "東村山市",
+  "address": "東京都東村山市萩山町3-15-1",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-689"
+ },
+ {
+  "id": "bath-1umoffv",
+  "name": "桃の湯",
+  "lat": 35.6937517,
+  "lng": 139.4807553,
+  "type": "sento",
+  "area": "国分寺市",
+  "address": "東京都国分寺市東元町3-1-20",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-662"
+ },
+ {
+  "id": "bath-1scbo5j",
+  "name": "鳩の湯",
+  "lat": 35.6948703,
+  "lng": 139.4522656,
+  "type": "sento",
+  "area": "国立市",
+  "address": "東京都国立市東2-8-19",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-654"
+ },
+ {
+  "id": "bath-hpzfod",
+  "name": "お湯どころ野川",
+  "lat": 35.6413375,
+  "lng": 139.5829317,
+  "type": "sento",
+  "area": "狛江市",
+  "address": "東京都狛江市東野川1-30-14",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-676"
+ },
+ {
+  "id": "bath-1otu0lk",
+  "name": "富の湯",
+  "lat": 35.6465506,
+  "lng": 139.5697133,
+  "type": "sento",
+  "area": "狛江市",
+  "address": "東京都狛江市西野川4-5-14",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-673"
+ },
+ {
+  "id": "bath-960v7u",
+  "name": "神明湯",
+  "lat": 35.7398561,
+  "lng": 139.4496081,
+  "type": "sento",
+  "area": "東大和市",
+  "address": "東京都東大和市新堀1-1432-59",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-656"
+ },
+ {
+  "id": "bath-1glna06",
+  "name": "富士見湯健康セントー",
+  "lat": 35.7372417,
+  "lng": 139.4300019,
+  "type": "sento",
+  "area": "東大和市",
+  "address": "東京都東大和市南街6-1-25",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-655"
+ },
+ {
+  "id": "bath-1l9gx9c",
+  "name": "第二喜多の湯",
+  "lat": 35.7599953,
+  "lng": 139.5260869,
+  "type": "sento",
+  "area": "東久留米市",
+  "address": "東京都東久留米市幸町1-5-10",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-698"
+ },
+ {
+  "id": "bath-h5b46i",
+  "name": "源の湯",
+  "lat": 35.7626636,
+  "lng": 139.5328394,
+  "type": "sento",
+  "area": "東久留米市",
+  "address": "東京都東久留米市東本町7-6",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-697"
+ },
+ {
+  "id": "bath-1bw2e8v",
+  "name": "砂川湯",
+  "lat": 35.7446994,
+  "lng": 139.4053044,
+  "type": "sento",
+  "area": "武蔵村山市",
+  "address": "東京都武蔵村山市学園3-68-1",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-657"
+ },
+ {
+  "id": "bath-757wjz",
+  "name": "庚申湯",
+  "lat": 35.7230186,
+  "lng": 139.5283744,
+  "type": "sento",
+  "area": "西東京市",
+  "address": "東京都西東京市芝久保町1-13-2",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-693"
+ },
+ {
+  "id": "bath-vx4qek",
+  "name": "ゆパウザひばり",
+  "lat": 35.7482464,
+  "lng": 139.5434444,
+  "type": "sento",
+  "area": "西東京市",
+  "address": "東京都西東京市谷戸町3-17-8",
+  "url": "https://www.1010.or.jp/map/item/item-cnt-692"
+ }
+]

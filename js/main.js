@@ -1,7 +1,8 @@
 // 起動と各部品のつなぎ込み
 import { LABELS } from './config.js';
-import { loadPlaces, loadSento, thumbUrl } from './data.js';
-import { createMap, createPlaceLayer, createSentoLayer, createLocator } from './map.js';
+import { loadPlaces, thumbUrl, layersIndexUrl } from './data.js';
+import { createMap, createPlaceLayer, createLocator } from './map.js';
+import { loadPackIndex, createPackLayer } from './layers.js';
 import { createFilters, escapeHtml as h } from './filters.js';
 import { createSheet } from './sheet.js';
 import { createCard } from './card.js';
@@ -11,14 +12,17 @@ const $ = (id) => document.getElementById(id);
 
 const map = createMap($('map'));
 const locator = createLocator(map);
-const sheet = createSheet($('sheet'), $('sheet-handle'));
+const sheet = createSheet($('sheet'), $('sheet-handle'), {
+  // 一覧は開いたときに作る（閉じている間にサムネイルを読まないため）
+  onChange: (state) => { if (state !== 'peek' && listDirty) renderList(); },
+});
+let listDirty = true;
 const card = createCard($('card'), $('card-body'), { onClose: () => closeCard() });
 
 let places = [];
 let visible = [];
 
 const placeLayer = createPlaceLayer(map, (p) => openPlace(p, { fromMap: true }));
-const sentoLayer = createSentoLayer(map, (s) => { placeLayer.select(null); card.showSento(s); pushCardState(); });
 
 // ── 起動 ──────────────────────────────────────────
 (async function start() {
@@ -40,7 +44,7 @@ const sentoLayer = createSentoLayer(map, (s) => { placeLayer.select(null); card.
     map.setView([hit.lat, hit.lng], 16, { animate: false });
     openPlace(hit);
   } else if (places.length) {
-    map.fitBounds(placeLayer.bounds(), { padding: [40, 40], maxZoom: 14, animate: false });
+    map.fitBounds(mainArea(places), { padding: [40, 40], maxZoom: 14, animate: false });
   }
 })();
 
@@ -60,6 +64,8 @@ function updateCount() {
 }
 
 function renderList() {
+  if (sheet.state === 'peek') { listDirty = true; return; }
+  listDirty = false;
   const me = locator.last();
   let rows = visible;
   if (me) {
@@ -119,25 +125,43 @@ function hideCard() {
 window.addEventListener('popstate', () => { cardInHistory = false; hideCard(); history.replaceState(null, '', location.pathname + location.search); });
 map.on('click', () => { if (card.isOpen()) closeCard(); });
 
-// ── 銭湯レイヤー（初期OFF。初めてONにしたときに読み込む） ─────────
-$('sento-toggle').addEventListener('change', async (e) => {
-  if (!e.target.checked) { sentoLayer.hide(); return; }
-  if (!sentoLayer.isBuilt()) {
-    $('sento-count').textContent = '読み込み中…';
-    try {
-      const list = await loadSento();
-      sentoLayer.build(list);
-      const sup = list.filter((s) => s.type === 'super').length;
-      $('sento-count').textContent = `${list.length}件（${LABELS.sentoType.sento}${list.length - sup}・${LABELS.sentoType.super}${sup}）`;
-    } catch (err) {
-      $('sento-count').textContent = '';
-      e.target.checked = false;
-      toast(err.message);
-      return;
-    }
+// ── 追加レイヤー（パック）。一覧だけ起動時に読み、中身はONにしたとき読む ──
+(async function setupPacks() {
+  let packs;
+  try { packs = await loadPackIndex(layersIndexUrl); } catch (e) { console.warn(e); return; }
+  if (!packs.length) return;
+  $('packs-group').hidden = false;
+  const box = $('packs');
+  for (const pack of packs) {
+    const row = document.createElement('div');
+    row.className = 'pack-row';
+    row.innerHTML = `
+      <label class="switch"><input type="checkbox"><span class="switch__ui" aria-hidden="true"></span>${pack.icon ? `<span aria-hidden="true">${h(pack.icon)}</span>` : ''}${h(pack.name)}</label>
+      <span class="muted pack-count"></span>`;
+    const input = row.querySelector('input');
+    const countEl = row.querySelector('.pack-count');
+    const layer = createPackLayer(map, pack, {
+      onSelect: (x) => { placeLayer.select(null); card.showLayerItem(x); pushCardState(); },
+      onCount: (sum, err) => {
+        if (err) return toast(err.message);
+        const order = [...Object.keys(pack.types || {}), ...Object.keys(sum.byType)];
+        const parts = [...new Set(order)].filter((t) => sum.byType[t]).map((t) => `${layer.typeLabel(t) || t}${sum.byType[t]}`);
+        countEl.textContent = `${sum.total}件${parts.length > 1 ? `（${parts.join('・')}）` : ''}${sum.partial ? '（表示範囲ぶん）' : ''}`;
+      },
+    });
+    input.addEventListener('change', async () => {
+      if (!input.checked) { layer.hide(); return; }
+      if (!layer.summary().total) countEl.textContent = '読み込み中…';
+      try {
+        await layer.show();
+      } catch (err) {
+        layer.hide(); input.checked = false; countEl.textContent = '';
+        toast(err.message);
+      }
+    });
+    box.appendChild(row);
   }
-  if (e.target.checked) sentoLayer.show();
-});
+})();
 
 // ── 現在地・ズーム ──────────────────────────────────
 $('btn-locate').addEventListener('click', async () => {
@@ -156,6 +180,15 @@ $('btn-zoom-in').addEventListener('click', () => map.zoomIn());
 $('btn-zoom-out').addEventListener('click', () => map.zoomOut());
 
 // ── 小物 ─────────────────────────────────────────
+/** 最初に見せる範囲：店が一番集まっている地域（遠方の数件で日本全体まで引かないように） */
+function mainArea(list) {
+  const med = (a) => { const s = [...a].sort((x, y) => x - y); return s[Math.floor(s.length / 2)]; };
+  const c = { lat: med(list.map((p) => p.lat)), lng: med(list.map((p) => p.lng)) };
+  const near = list.filter((p) => distanceM(c, p) < 30000);
+  const use = near.length >= list.length * 0.5 ? near : list;
+  return L.latLngBounds(use.map((p) => [p.lat, p.lng]));
+}
+
 function distanceM(a, b) {
   const R = 6371000, rad = Math.PI / 180;
   const dLat = (b.lat - a.lat) * rad, dLng = (b.lng - a.lng) * rad;

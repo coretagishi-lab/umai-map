@@ -1,5 +1,4 @@
 // 下部の詳細カード（店／銭湯）
-import { LABELS } from './config.js';
 import { thumbUrl } from './data.js';
 import { kindLabel } from './labels.js';
 import { escapeHtml as h } from './filters.js';
@@ -36,27 +35,35 @@ export function createCard(el, body, { onClose } = {}) {
           ${p.wishlist ? '<span class="tag tag--wish">行きたい場所リスト</span>' : ''}
         </div>
         <h2 class="card__name">${h(p.name)}</h2>
-        ${p.address ? `<p class="card__addr">${h(p.address)}</p>` : ''}
+        ${p.address ? `<p class="card__addr">${h(p.address)}${p.approx ? '<span class="approx">（位置はおおよそ）</span>' : ''}</p>` : ''}
         ${p.memo ? `<p class="card__memo">${h(p.memo)}</p>` : ''}
         <div class="card__actions">
           ${p.tabelogUrl ? `<a class="btn btn--primary" href="${h(p.tabelogUrl)}" target="_blank" rel="noopener">食べログを開く（電話・予約）</a>` : ''}
           ${p.instagramUrl ? `<a class="btn" href="${h(p.instagramUrl)}" target="_blank" rel="noopener">Instagramの元投稿</a>` : ''}
           <a class="btn" href="${mapsUrl(p)}" target="_blank" rel="noopener">Googleマップで開く</a>
         </div>
+        ${p.author ? `<p class="card__credit">紹介：@${h(p.author)}</p>` : ''}
       </div>`;
     open();
   }
 
-  function showSento(s) {
+  /** 追加レイヤー（銭湯など）の1件 */
+  function showLayerItem(x) {
+    const label = x.pack.types?.[x.type]?.label || x.pack.name;
+    const color = x.pack.types?.[x.type]?.color || '';
     body.innerHTML = `
       <div class="card__main">
-        <div class="card__tags"><span class="tag tag--${s.type}">${h(LABELS.sentoType[s.type])}</span></div>
-        <h2 class="card__name">${h(s.name)}</h2>
-        ${s.address ? `<p class="card__addr">${h(s.address)}</p>` : ''}
-        <div class="card__actions">
-          ${s.url ? `<a class="btn" href="${h(s.url)}" target="_blank" rel="noopener">公式・紹介ページ</a>` : ''}
-          <a class="btn" href="${mapsUrl(s)}" target="_blank" rel="noopener">Googleマップで開く</a>
+        <div class="card__tags">
+          <span class="tag tag--layer" style="--c:${h(color)}">${h(label)}</span>
+          ${x.area ? `<span class="tag">${h(x.area)}</span>` : ''}
         </div>
+        <h2 class="card__name">${h(x.name)}</h2>
+        ${x.address ? `<p class="card__addr">${h(x.address)}</p>` : ''}
+        <div class="card__actions">
+          <a class="btn" href="${mapsUrl(x)}" target="_blank" rel="noopener">Googleマップで開く</a>
+          ${x.url ? `<a class="btn" href="${h(x.url)}" target="_blank" rel="noopener">情報元のページ</a>` : ''}
+        </div>
+        ${x.pack.credit ? `<p class="card__credit">出典：${h(x.pack.credit)}</p>` : ''}
       </div>`;
     open();
   }
@@ -65,5 +72,5 @@ export function createCard(el, body, { onClose } = {}) {
   function close() { el.classList.remove('card--open'); el.hidden = true; }
   const height = () => (el.hidden ? 0 : el.getBoundingClientRect().height);
 
-  return { showPlace, showSento, close, height, isOpen: () => !el.hidden };
+  return { showPlace, showLayerItem, close, height, isOpen: () => !el.hidden };
 }

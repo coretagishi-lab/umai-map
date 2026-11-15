@@ -30,13 +30,13 @@
       <button id="filters-clear" type="button" class="link-btn">クリア</button>
     </div>
     <div id="filters" class="filters" hidden>
-      <div class="filters__group"><div class="filters__label">エリア</div><div class="chips" data-filter="area"></div></div>
       <div class="filters__group"><div class="filters__label">種類</div><div class="chips" data-filter="kind"></div></div>
       <div class="filters__group"><div class="filters__label">出典</div><div class="chips" data-filter="source"></div></div>
-      <div class="filters__group filters__group--row">
-        <label class="switch"><input id="sento-toggle" type="checkbox"><span class="switch__ui" aria-hidden="true"></span>銭湯を表示</label>
-        <span id="sento-count" class="muted"></span>
+      <div class="filters__group" id="packs-group" hidden>
+        <div class="filters__label">追加レイヤー</div>
+        <div id="packs"></div>
       </div>
+      <div class="filters__group"><div class="filters__label">エリア</div><div class="chips" data-filter="area" data-collapse="12"></div></div>
     </div>
   </header>
 

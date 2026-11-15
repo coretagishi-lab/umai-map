@@ -1,4 +1,4 @@
-// 地図・ピン・銭湯レイヤー・現在地。Leaflet はグローバルの L を使う。
+// 地図・店ピン・現在地（追加レイヤーは layers.js）。Leaflet はグローバルの L を使う。
 import { MAP, COLORS } from './config.js';
 
 export function createMap(el) {
@@ -101,37 +101,6 @@ function clusterIcon(c, cls) {
     className: `cl ${cls}${hasWish ? ' cl--wish' : ''}`,
     iconSize: [size, size],
   });
-}
-
-// ── 銭湯レイヤー（初期OFF・必要になってから作る） ─────────────
-export function createSentoLayer(map, onSelect) {
-  let cluster = null;
-
-  function build(list) {
-    cluster = L.markerClusterGroup({
-      maxClusterRadius: 60,
-      disableClusteringAtZoom: 16,
-      showCoverageOnHover: false,
-      chunkedLoading: true,
-      iconCreateFunction: (c) => clusterIcon(c, 'cl--sento'),
-    });
-    const icons = {
-      sento: L.divIcon({ className: 'pin-wrap', html: `<span class="pin pin--sento" style="--c:${COLORS.sento}"></span>`, iconSize: [22, 22], iconAnchor: [11, 11] }),
-      super: L.divIcon({ className: 'pin-wrap', html: `<span class="pin pin--sento" style="--c:${COLORS.superSento}"></span>`, iconSize: [22, 22], iconAnchor: [11, 11] }),
-    };
-    cluster.addLayers(list.map((s) => {
-      const m = L.marker([s.lat, s.lng], { icon: icons[s.type], keyboard: false, title: s.name });
-      m.on('click', () => onSelect(s));
-      return m;
-    }));
-  }
-
-  return {
-    isBuilt: () => !!cluster,
-    build,
-    show() { cluster && map.addLayer(cluster); },
-    hide() { cluster && map.removeLayer(cluster); },
-  };
 }
 
 // ── 現在地（毎回新しく取得する） ─────────────────────────

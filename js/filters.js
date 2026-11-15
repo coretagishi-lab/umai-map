@@ -1,10 +1,10 @@
 // 検索語と絞り込み条件（エリア／種類／出典）。選択肢はデータから自動で作る。
 import { SEARCH_DEBOUNCE_MS } from './config.js';
-import { kindLabel } from './labels.js';
+import { categoryLabel } from './labels.js';
 
 const FIELDS = {
   area: (p) => p.area || '未分類',
-  kind: (p) => kindLabel(p),
+  kind: (p) => categoryLabel(p), // 種類＝飲食店／その他
   source: (p) => p.source || '未分類',
 };
 
@@ -43,6 +43,20 @@ export function createFilters(places, onChange) {
       box.appendChild(b);
     }
     box.closest('.filters__group').hidden = opts.length <= 1;
+
+    // 選択肢が多いとき（エリアなど）は上位だけ出して「すべて表示」で広げる
+    const limit = Number(box.dataset.collapse || 0);
+    if (limit && opts.length > limit + 3) {
+      box.classList.add('chips--collapsed');
+      box.style.setProperty('--limit', limit);
+      [...box.children].forEach((c, i) => { if (i >= limit) c.classList.add('chip--extra'); });
+      const more = document.createElement('button');
+      more.type = 'button';
+      more.className = 'chip chip--more';
+      more.textContent = `すべて表示（${opts.length}）`;
+      more.addEventListener('click', () => { box.classList.remove('chips--collapsed'); more.remove(); });
+      box.appendChild(more);
+    }
   }
 
   toggle.addEventListener('click', () => setOpen(panel.hidden));

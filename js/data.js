@@ -1,6 +1,6 @@
-// データの読み込み。店は起動時に、銭湯は必要になったときに1回だけ読む。
+// 店データの読み込み（起動時）。追加レイヤーの読み込みは layers.js。
 import { DATA } from './config.js';
-import { normalizePlace, normalizeSento, unwrapList, flattenFeature } from './normalize.js';
+import { normalizePlace, unwrapList, flattenFeature } from './normalize.js';
 
 const useSample = new URLSearchParams(location.search).has('sample');
 const paths = useSample ? { ...DATA, ...DATA.sample } : DATA;
@@ -32,11 +32,7 @@ export async function loadPlaces() {
   return normalizeAll(unwrapList(json), normalizePlace);
 }
 
-let sentoPromise = null;
-export function loadSento() {
-  sentoPromise ??= fetchJson(paths.sento).then((json) => normalizeAll(unwrapList(json), normalizeSento));
-  return sentoPromise;
-}
+export const layersIndexUrl = paths.layers;
 
 /** サムネイルのURL（http から始まればそのまま、ファイル名なら thumbs/ から） */
 export function thumbUrl(thumb) {

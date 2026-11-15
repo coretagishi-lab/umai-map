@@ -12,7 +12,7 @@
   "lat": 35.6581,
   "lng": 139.7017,
   "category": "food",
-  "kind": "ラーメン",
+  "kind": "飲食",
   "area": "渋谷",
   "address": "東京都渋谷区…",
   "memo": "つけ麺が本命",
@@ -30,25 +30,58 @@
 | lat / lng | ○ | 緯度・経度（数値） |
 | id | | 省略可。Instagram投稿のショートコードを推奨。URLの `#id` で直接その店を開ける |
 | category | | `food`（飲食店・赤ピン）か `other`（それ以外・青ピン）。省略時は food |
-| kind | | ジャンル。絞り込みの「種類」に出る。空なら「飲食店／その他」 |
+| kind | | サブタイプ（飲食／スイーツ／施設／宿泊／ショップ／サウナ・スパ など）。一覧とカードに表示。絞り込みの「種類」は category の2分類 |
 | area | | 絞り込みの「エリア」に出る |
 | address / memo | | 詳細カードに表示 |
-| source | | 絞り込みの「出典」に出る。省略時は Instagram |
+| source | | 絞り込みの「出典」に出る。省略時は Instagram（旧データの places-to-go は「行きたい場所リスト」と表示） |
 | instagramUrl | | 「Instagramの元投稿」ボタン |
 | tabelogUrl | | あるときだけ「食べログを開く（電話・予約）」ボタン |
-| thumb | | `data/thumbs/` 内のファイル名（幅240pxのJPEG推奨）か、画像のURL |
+| thumb | | `data/thumbs/` 内のファイル名（幅240pxのJPEG推奨）か画像のURL。省略時は「Instagramのショートコード.jpg」 |
 | wishlist | | `true` で金色リング（行きたい場所リスト枠） |
 
-旧データの別名（`title`、`latitude`、`longitude`、`genre`、`note` など）も読めるが、新しく足す分は上の名前で書く。
+旧データの別名（`instagram_url`、`tabelog_url`、`subtype`、`latitude` など）も読めるが、新しく足す分は上の名前で書く。\n上の表にない項目（`author`、`geocode_confidence`、`caption_date` など）は消さずにそのまま持っておいてよい。`author` はカードに「紹介：@…」、`geocode_confidence: "low"` は「位置はおおよそ」と出る。
 
-## 銭湯（data/sento.json）
+## 追加レイヤー＝パック（data/layers.json）
+
+銭湯のように「ON/OFFで重ねて表示する」レイヤーは、**パック単位**で足す。コードは触らない。
+今あるのは「お風呂」パック（銭湯・スーパー銭湯）の1つ。
 
 ```json
-{ "id": "s001", "name": "○○湯", "lat": 35.71, "lng": 139.79, "type": "sento", "address": "…", "url": "" }
+{
+  "packs": [
+    {
+      "id": "bath",
+      "name": "お風呂",
+      "icon": "♨",
+      "file": "data/layers/bath.json",
+      "credit": "東京都浴場組合・スーパー銭湯全国検索",
+      "types": {
+        "sento": { "label": "銭湯", "color": "#4cc3e8" },
+        "super": { "label": "スーパー銭湯", "color": "#12a594" }
+      },
+      "cluster": { "radius": 60, "disableAtZoom": 16 }
+    }
+  ]
+}
 ```
 
-`type` は `sento`（銭湯・水色）か `super`（スーパー銭湯・青緑）。
-銭湯データは「銭湯を表示」をONにしたときに初めて読み込まれる（初期表示を軽くするため）。
+| 項目 | 説明 |
+|---|---|
+| id | 英数字の短い名前（パックの識別用） |
+| name / icon | 絞り込みパネルのスイッチに出る名前と絵文字 |
+| file | データファイル（1ファイルで足りる規模のとき） |
+| parts | 全国規模のとき。`[{ "file": "data/layers/bookstore/13.json", "bbox": [南, 西, 北, 東] }, …]` のように地域ごとに分けると、**画面にかかる地域の分だけ**読み込む |
+| credit | 詳細カードの下に出す出典 |
+| types | データの `type` ごとの表示名と色。クラスタ（まとまり）は最初の種類の色 |
+| cluster | まとまりの細かさ（省略可） |
+
+パックのデータ1件の形：
+
+```json
+{ "name": "○○湯", "lat": 35.71, "lng": 139.79, "type": "sento", "area": "台東区", "address": "…", "url": "情報元のURL" }
+```
+
+パックはスイッチを**初めてONにしたときに読み込む**（起動時は一覧の layers.json だけ）。
 
 ## 件数
 
