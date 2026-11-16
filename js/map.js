@@ -26,12 +26,13 @@ export function createMap(el) {
 // ── 店ピン ────────────────────────────────────────────
 function placeIcon(p, selected = false) {
   const color = p.category === 'food' ? COLORS.food : COLORS.other;
-  const cls = ['pin', p.wishlist ? 'pin--wish' : '', selected ? 'pin--sel' : ''].join(' ');
+  // 店はしずく形（先端が店の位置）。現在地の丸い点と見分けがつくように
+  const cls = ['drop', p.wishlist ? 'drop--wish' : '', selected ? 'drop--sel' : ''].join(' ');
   return L.divIcon({
     className: 'pin-wrap',
     html: `<span class="${cls}" style="--c:${color};--ring:${COLORS.wishRing}"></span>`,
-    iconSize: [28, 28],
-    iconAnchor: [14, 14],
+    iconSize: [30, 34],
+    iconAnchor: [15, 32],
   });
 }
 
@@ -107,7 +108,7 @@ function clusterIcon(c, cls) {
 export function createLocator(map) {
   let dot = null, ring = null, last = null;
 
-  function locate() {
+  function locate({ zoom = 15 } = {}) {
     return new Promise((resolve, reject) => {
       if (!('geolocation' in navigator)) return reject(new Error('この端末では現在地を取得できません'));
       navigator.geolocation.getCurrentPosition(
@@ -116,12 +117,12 @@ export function createLocator(map) {
           const acc = pos.coords.accuracy;
           if (!dot) {
             ring = L.circle(ll, { radius: acc, className: 'me-ring', interactive: false }).addTo(map);
-            dot = L.marker(ll, { icon: L.divIcon({ className: 'pin-wrap', html: '<span class="me"></span>', iconSize: [20, 20], iconAnchor: [10, 10] }), interactive: false, zIndexOffset: 2000 }).addTo(map);
+            dot = L.marker(ll, { icon: L.divIcon({ className: 'pin-wrap', html: '<span class="me"><span class="me__pulse"></span></span>', iconSize: [22, 22], iconAnchor: [11, 11] }), interactive: false, zIndexOffset: 2000 }).addTo(map);
           } else {
             dot.setLatLng(ll); ring.setLatLng(ll).setRadius(acc);
           }
           last = { lat: ll[0], lng: ll[1], accuracy: acc };
-          map.flyTo(ll, Math.max(map.getZoom(), 15), { duration: 0.6 });
+          map.flyTo(ll, Math.max(map.getZoom(), zoom), { duration: 0.6 });
           resolve(last);
         },
         (err) => reject(new Error(err.code === 1 ? '位置情報の使用が許可されていません' : '現在地を取得できませんでした')),

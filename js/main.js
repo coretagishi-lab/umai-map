@@ -43,8 +43,10 @@ const placeLayer = createPlaceLayer(map, (p) => openPlace(p, { fromMap: true }))
   if (hit) {
     map.setView([hit.lat, hit.lng], 16, { animate: false });
     openPlace(hit);
-  } else if (places.length) {
-    map.fitBounds(mainArea(places), { padding: [40, 40], maxZoom: 14, animate: false });
+  } else {
+    if (places.length) map.fitBounds(mainArea(places), { padding: [40, 40], maxZoom: 14, animate: false });
+    // 開いたらすぐ現在地へ。取れなければ（許可しない・圏外など）そのまま店の多い地域を表示
+    locator.locate({ zoom: 15 }).then(() => renderList()).catch((e) => console.info(e.message));
   }
 })();
 

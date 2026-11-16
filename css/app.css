@@ -116,9 +116,23 @@ button { font: inherit; color: inherit; cursor: pointer; }
   transition: transform .15s;
 }
 .pin--wish { box-shadow: 0 0 0 3px var(--ring), 0 1px 5px rgba(0,0,0,.4); }
-.pin--sel { transform: scale(1.45); }
+
+/* 店ピン：しずく形。先端（下）が店の位置 */
+.drop {
+  position: absolute; left: 4px; top: 2px; width: 22px; height: 22px;
+  background: var(--c); border: 2.5px solid #fff;
+  border-radius: 50% 50% 50% 0; transform: rotate(-45deg); transform-origin: 50% 50%;
+  box-shadow: -1px 2px 4px rgba(0,0,0,.35);
+  transition: transform .15s;
+}
+.drop::after { content: ""; position: absolute; left: 50%; top: 50%; width: 6px; height: 6px; margin: -3px 0 0 -3px; border-radius: 50%; background: #fff; }
+.drop--wish { box-shadow: 0 0 0 3px var(--ring), -1px 2px 5px rgba(0,0,0,.35); }
+.drop--sel { transform: translateY(-5.5px) rotate(-45deg) scale(1.35); } /* 大きくしても先端の位置はそのまま */
 .pin--layer { width: 14px; height: 14px; margin: 4px; border-width: 2px; }
-.me { display: block; width: 18px; height: 18px; border-radius: 50%; background: #2f80ed; border: 3px solid #fff; box-shadow: 0 0 0 1px rgba(0,0,0,.15), 0 0 10px rgba(47,128,237,.6); margin: 1px; }
+.me { position: relative; display: block; width: 20px; height: 20px; border-radius: 50%; background: #2f80ed; border: 3px solid #fff; box-shadow: 0 0 0 1px rgba(0,0,0,.15), 0 1px 6px rgba(0,0,0,.3); margin: 1px; }
+/* 現在地だけ、ふわっと広がる輪で目印にする */
+.me__pulse { position: absolute; inset: -3px; border-radius: 50%; background: rgba(47,128,237,.45); animation: pulse 2s ease-out infinite; z-index: -1; }
+@keyframes pulse { from { transform: scale(1); opacity: .9; } to { transform: scale(3.2); opacity: 0; } }
 .me-ring { fill: #2f80ed; fill-opacity: .12; stroke: #2f80ed; stroke-opacity: .4; stroke-width: 1; }
 
 .cl { display: grid !important; place-items: center; border-radius: 50%; color: #fff; font-weight: 700; font-size: 13px; border: 3px solid rgba(255,255,255,.9); box-shadow: 0 1px 6px rgba(0,0,0,.35); }
