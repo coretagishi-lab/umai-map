@@ -5,7 +5,8 @@ import { categoryLabel } from './labels.js';
 const FIELDS = {
   area: (p) => p.area || '未分類',
   kind: (p) => categoryLabel(p), // 種類＝飲食店／その他
-  source: (p) => p.source || '未分類',
+  // 出典「行きたい場所リスト」＝金色リングの店（wishlist）。タグ・リングと同じ数え方にそろえる
+  source: (p) => (p.wishlist ? '行きたい場所リスト' : p.source || '未分類'),
 };
 
 export function createFilters(places, onChange) {
