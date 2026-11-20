@@ -1,16 +1,14 @@
-// 検索語と絞り込み条件（エリア／種類／出典）。選択肢はデータから自動で作る。
+// 検索語と絞り込み条件（エリア／種類）。選択肢はデータから自動で作る。
 import { SEARCH_DEBOUNCE_MS } from './config.js';
 import { categoryLabel } from './labels.js';
 
 const FIELDS = {
   area: (p) => p.area || '未分類',
   kind: (p) => categoryLabel(p), // 種類＝飲食店／その他
-  // 出典「行きたい場所リスト」＝金色リングの店（wishlist）。タグ・リングと同じ数え方にそろえる
-  source: (p) => (p.wishlist ? '行きたい場所リスト' : p.source || '未分類'),
 };
 
 export function createFilters(places, onChange) {
-  const state = { q: '', area: new Set(), kind: new Set(), source: new Set() };
+  const state = { q: '', area: new Set(), kind: new Set() };
 
   const $ = (id) => document.getElementById(id);
   const panel = $('filters');
@@ -61,6 +59,18 @@ export function createFilters(places, onChange) {
   }
 
   toggle.addEventListener('click', () => setOpen(panel.hidden));
+  // パネルの外（地図など）をタップしたら閉じる。そのタップは地図の操作にしない
+  document.addEventListener('pointerdown', (e) => {
+    if (panel.hidden || e.target.closest('#topbar')) return;
+    setOpen(false);
+    e.stopPropagation();
+    swallowNextClick();
+  }, true);
+  function swallowNextClick() {
+    const stop = (ev) => { ev.stopPropagation(); ev.preventDefault(); };
+    document.addEventListener('click', stop, { capture: true, once: true });
+    setTimeout(() => document.removeEventListener('click', stop, { capture: true }), 400);
+  }
   function setOpen(open) {
     panel.hidden = !open;
     toggle.setAttribute('aria-expanded', String(open));
@@ -79,17 +89,17 @@ export function createFilters(places, onChange) {
 
   $('filters-clear').addEventListener('click', clearAll);
   function clearAll() {
-    ['area', 'kind', 'source'].forEach((f) => state[f].clear());
+    ['area', 'kind'].forEach((f) => state[f].clear());
     panel.querySelectorAll('.chip').forEach((c) => c.setAttribute('aria-pressed', 'false'));
     input.value = ''; qClear.hidden = true; state.q = '';
     changed();
   }
 
   function changed() {
-    const n = state.area.size + state.kind.size + state.source.size;
+    const n = state.area.size + state.kind.size;
     badge.hidden = n === 0;
     badge.textContent = String(n);
-    const parts = ['area', 'kind', 'source'].flatMap((f) => [...state[f]]);
+    const parts = ['area', 'kind'].flatMap((f) => [...state[f]]);
     if (state.q) parts.unshift(`「${state.q}」`);
     active.hidden = parts.length === 0;
     summary.textContent = parts.join('・');
@@ -99,7 +109,7 @@ export function createFilters(places, onChange) {
   function apply() {
     const words = toKey(state.q).split(/\s+/).filter(Boolean);
     return places.filter((p) => {
-      for (const f of ['area', 'kind', 'source']) {
+      for (const f of ['area', 'kind']) {
         if (state[f].size && !state[f].has(FIELDS[f](p))) return false;
       }
       if (words.length) {

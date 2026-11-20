@@ -1,4 +1,5 @@
 // データの読み替え（ブラウザと tools/ のスクリプトの両方から使う純粋関数）。
+import { normalizeHours } from './hours-data.js';
 // 正式な形は data/SCHEMA.md を参照。旧データの別名キーもここで吸収する。
 
 // 項目ごとに受け付ける名前（左が正式名）
@@ -97,6 +98,7 @@ export function normalizePlace(o, index = 0) {
     wishlist,
     author: String(o.author ?? ''),
     approx: o.geocode_confidence === 'low' || toBool(o.approx), // 位置がおおよそ
+    hours: normalizeHours(o.hours ?? o['営業時間']),
   };
 }
 

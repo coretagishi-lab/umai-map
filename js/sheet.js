@@ -8,9 +8,16 @@ export function createSheet(el, handle, { onChange } = {}) {
   let state = 'peek';
   let heights = {};
 
+  // 画面下のホームバー部分の高さ（全画面表示のとき iPhone で 34px 程度）
+  const probe = document.createElement('div');
+  probe.style.cssText = 'position:fixed;bottom:0;height:env(safe-area-inset-bottom,0px);visibility:hidden;pointer-events:none';
+  document.body.appendChild(probe);
+
   function measure() {
     const vh = window.innerHeight;
-    heights = { peek: SHEET.peekPx, mid: Math.round(vh * SHEET.midRatio), full: Math.round(vh * SHEET.fullRatio) };
+    const safe = probe.offsetHeight || 0;
+    document.documentElement.style.setProperty('--peek', `${SHEET.peekPx + safe}px`);
+    heights = { peek: SHEET.peekPx + safe, mid: Math.round(vh * SHEET.midRatio), full: Math.round(vh * SHEET.fullRatio) };
     el.style.height = `${heights.full}px`;
     place(heights[state], false);
   }

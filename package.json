@@ -2,7 +2,7 @@
   "name": "umai-map",
   "private": true,
   "type": "module",
-  "description": "うまい店マップ（個人用）",
+  "description": "うまっぷ（個人用の店マップ）",
   "scripts": {
     "check": "node tools/check.mjs",
     "serve": "python3 -m http.server 8000"

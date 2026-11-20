@@ -7,10 +7,63 @@
       "file": "data/sample/layers/bath.json",
       "credit": "サンプル（動作確認用）",
       "types": {
-        "sento": { "label": "銭湯", "color": "#4cc3e8" },
-        "super": { "label": "スーパー銭湯", "color": "#12a594" }
+        "sento": {
+          "label": "銭湯",
+          "color": "#4cc3e8"
+        },
+        "super": {
+          "label": "スーパー銭湯",
+          "color": "#12a594"
+        }
       },
-      "cluster": { "radius": 60, "disableAtZoom": 16 }
+      "cluster": {
+        "radius": 60,
+        "disableAtZoom": 16
+      }
+    },
+    {
+      "id": "konbini",
+      "name": "コンビニ",
+      "icon": "🏪",
+      "credit": "サンプル",
+      "types": {
+        "seven": {
+          "label": "セブン-イレブン",
+          "color": "#ee7f00"
+        },
+        "lawson": {
+          "label": "ローソン",
+          "color": "#0068b7"
+        },
+        "famima": {
+          "label": "ファミリーマート",
+          "color": "#00a040"
+        },
+        "other": {
+          "label": "その他のコンビニ",
+          "color": "#8b8d98"
+        }
+      },
+      "parts": [
+        {
+          "file": "data/sample/layers/konbini/35_139.json",
+          "bbox": [
+            35,
+            139,
+            36,
+            140
+          ]
+        },
+        {
+          "file": "data/sample/layers/konbini/34_135.json",
+          "bbox": [
+            34,
+            135,
+            35,
+            136
+          ]
+        }
+      ]
     }
   ]
 }

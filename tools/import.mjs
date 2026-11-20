@@ -37,7 +37,7 @@ raw.forEach((r, i) => {
   const n = seen.get(x.id) || 0;
   seen.set(x.id, n + 1);
   if (n) x.id = `${x.id}-${n + 1}`;
-  const canonical = Object.fromEntries(Object.entries(x).filter(([k, v]) => !DERIVED.has(k) && v !== '' && v !== false));
+  const canonical = Object.fromEntries(Object.entries(x).filter(([k, v]) => !DERIVED.has(k) && v !== '' && v !== false && v !== null));
   ok.push({ ...canonical, ...extrasOf(r) });
 });
 

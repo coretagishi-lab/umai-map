@@ -1,6 +1,7 @@
 // 下部の詳細カード（店／銭湯）
 import { thumbUrl } from './data.js';
 import { kindLabel } from './labels.js';
+import { hoursHtml } from './hours.js';
 import { escapeHtml as h } from './filters.js';
 
 const mapsUrl = (x) => `https://www.google.com/maps/search/?api=1&query=${x.lat},${x.lng}`;
@@ -26,16 +27,22 @@ export function createCard(el, body, { onClose } = {}) {
 
   function showPlace(p) {
     const img = thumbUrl(p.thumb);
+    // サムネイルはスマホ縦長の画像なので、縦長の枠で全体を見せる（左に画像、右に情報）
     body.innerHTML = `
-      ${img ? `<div class="card__img"><img src="${h(img)}" alt="" decoding="async" onerror="this.parentNode.remove()"></div>` : ''}
       <div class="card__main">
-        <div class="card__tags">
-          <span class="tag tag--${p.category}">${h(kindLabel(p))}</span>
-          ${p.area ? `<span class="tag">${h(p.area)}</span>` : ''}
-          ${p.wishlist ? '<span class="tag tag--wish">行きたい場所リスト</span>' : ''}
+        <div class="card__top">
+          ${img ? `<div class="card__img"><img src="${h(img)}" alt="" decoding="async" onerror="this.parentNode.remove()"></div>` : ''}
+          <div class="card__info">
+            <div class="card__tags">
+              <span class="tag tag--${p.category}">${h(kindLabel(p))}</span>
+              ${p.area ? `<span class="tag">${h(p.area)}</span>` : ''}
+              ${p.wishlist ? '<span class="tag tag--wish">行きたい場所リスト</span>' : ''}
+            </div>
+            <h2 class="card__name">${h(p.name)}</h2>
+            ${p.address ? `<p class="card__addr">${h(p.address)}${p.approx ? '<span class="approx">（位置はおおよそ）</span>' : ''}</p>` : ''}
+          </div>
         </div>
-        <h2 class="card__name">${h(p.name)}</h2>
-        ${p.address ? `<p class="card__addr">${h(p.address)}${p.approx ? '<span class="approx">（位置はおおよそ）</span>' : ''}</p>` : ''}
+        ${hoursHtml(p.hours)}
         ${p.memo ? `<p class="card__memo">${h(p.memo)}</p>` : ''}
         <div class="card__actions">
           ${p.tabelogUrl ? `<a class="btn btn--primary" href="${h(p.tabelogUrl)}" target="_blank" rel="noopener">食べログを開く（電話・予約）</a>` : ''}
