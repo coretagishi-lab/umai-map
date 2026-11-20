@@ -14,7 +14,8 @@ export function createSheet(el, handle, { onChange } = {}) {
   document.body.appendChild(probe);
 
   function measure() {
-    const vh = window.innerHeight;
+    // ホーム画面から開いたときは画面全体の高さを使う（innerHeight が短く出る端末があるため）
+    const vh = Math.max(window.innerHeight, document.documentElement.clientHeight);
     const safe = probe.offsetHeight || 0;
     document.documentElement.style.setProperty('--peek', `${SHEET.peekPx + safe}px`);
     heights = { peek: SHEET.peekPx + safe, mid: Math.round(vh * SHEET.midRatio), full: Math.round(vh * SHEET.fullRatio) };
