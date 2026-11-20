@@ -7,10 +7,968 @@
       "file": "data/layers/bath.json",
       "credit": "東京都浴場組合（1010.or.jp）・スーパー銭湯全国検索（supersento.com）",
       "types": {
-        "sento": { "label": "銭湯", "color": "#4cc3e8" },
-        "super": { "label": "スーパー銭湯", "color": "#12a594" }
+        "sento": {
+          "label": "銭湯",
+          "color": "#4cc3e8"
+        },
+        "super": {
+          "label": "スーパー銭湯",
+          "color": "#12a594"
+        }
       },
-      "cluster": { "radius": 60, "disableAtZoom": 16 }
+      "cluster": {
+        "radius": 60,
+        "disableAtZoom": 16
+      }
+    },
+    {
+      "id": "toilet",
+      "name": "公衆トイレ",
+      "icon": "🚻",
+      "credit": "© OpenStreetMap contributors（ODbL）",
+      "types": {
+        "toilet": {
+          "label": "公衆トイレ",
+          "color": "#8e4ec6"
+        },
+        "accessible": {
+          "label": "公衆トイレ（車いす対応）",
+          "color": "#6e56cf"
+        }
+      },
+      "cluster": {
+        "radius": 50,
+        "disableAtZoom": 17
+      },
+      "parts": [
+        {
+          "file": "data/layers/toilet/24_122.json",
+          "bbox": [
+            24,
+            122,
+            25,
+            123
+          ]
+        },
+        {
+          "file": "data/layers/toilet/24_123.json",
+          "bbox": [
+            24,
+            123,
+            25,
+            124
+          ]
+        },
+        {
+          "file": "data/layers/toilet/24_124.json",
+          "bbox": [
+            24,
+            124,
+            25,
+            125
+          ]
+        },
+        {
+          "file": "data/layers/toilet/24_125.json",
+          "bbox": [
+            24,
+            125,
+            25,
+            126
+          ]
+        },
+        {
+          "file": "data/layers/toilet/25_131.json",
+          "bbox": [
+            25,
+            131,
+            26,
+            132
+          ]
+        },
+        {
+          "file": "data/layers/toilet/26_126.json",
+          "bbox": [
+            26,
+            126,
+            27,
+            127
+          ]
+        },
+        {
+          "file": "data/layers/toilet/26_127.json",
+          "bbox": [
+            26,
+            127,
+            27,
+            128
+          ]
+        },
+        {
+          "file": "data/layers/toilet/26_128.json",
+          "bbox": [
+            26,
+            128,
+            27,
+            129
+          ]
+        },
+        {
+          "file": "data/layers/toilet/26_142.json",
+          "bbox": [
+            26,
+            142,
+            27,
+            143
+          ]
+        },
+        {
+          "file": "data/layers/toilet/27_127.json",
+          "bbox": [
+            27,
+            127,
+            28,
+            128
+          ]
+        },
+        {
+          "file": "data/layers/toilet/27_128.json",
+          "bbox": [
+            27,
+            128,
+            28,
+            129
+          ]
+        },
+        {
+          "file": "data/layers/toilet/27_129.json",
+          "bbox": [
+            27,
+            129,
+            28,
+            130
+          ]
+        },
+        {
+          "file": "data/layers/toilet/27_142.json",
+          "bbox": [
+            27,
+            142,
+            28,
+            143
+          ]
+        },
+        {
+          "file": "data/layers/toilet/28_129.json",
+          "bbox": [
+            28,
+            129,
+            29,
+            130
+          ]
+        },
+        {
+          "file": "data/layers/toilet/28_130.json",
+          "bbox": [
+            28,
+            130,
+            29,
+            131
+          ]
+        },
+        {
+          "file": "data/layers/toilet/30_130.json",
+          "bbox": [
+            30,
+            130,
+            31,
+            131
+          ]
+        },
+        {
+          "file": "data/layers/toilet/30_131.json",
+          "bbox": [
+            30,
+            131,
+            31,
+            132
+          ]
+        },
+        {
+          "file": "data/layers/toilet/31_130.json",
+          "bbox": [
+            31,
+            130,
+            32,
+            131
+          ]
+        },
+        {
+          "file": "data/layers/toilet/31_131.json",
+          "bbox": [
+            31,
+            131,
+            32,
+            132
+          ]
+        },
+        {
+          "file": "data/layers/toilet/32_128.json",
+          "bbox": [
+            32,
+            128,
+            33,
+            129
+          ]
+        },
+        {
+          "file": "data/layers/toilet/32_129.json",
+          "bbox": [
+            32,
+            129,
+            33,
+            130
+          ]
+        },
+        {
+          "file": "data/layers/toilet/32_130.json",
+          "bbox": [
+            32,
+            130,
+            33,
+            131
+          ]
+        },
+        {
+          "file": "data/layers/toilet/32_131.json",
+          "bbox": [
+            32,
+            131,
+            33,
+            132
+          ]
+        },
+        {
+          "file": "data/layers/toilet/32_132.json",
+          "bbox": [
+            32,
+            132,
+            33,
+            133
+          ]
+        },
+        {
+          "file": "data/layers/toilet/32_133.json",
+          "bbox": [
+            32,
+            133,
+            33,
+            134
+          ]
+        },
+        {
+          "file": "data/layers/toilet/32_139.json",
+          "bbox": [
+            32,
+            139,
+            33,
+            140
+          ]
+        },
+        {
+          "file": "data/layers/toilet/33_129.json",
+          "bbox": [
+            33,
+            129,
+            34,
+            130
+          ]
+        },
+        {
+          "file": "data/layers/toilet/33_130.json",
+          "bbox": [
+            33,
+            130,
+            34,
+            131
+          ]
+        },
+        {
+          "file": "data/layers/toilet/33_131.json",
+          "bbox": [
+            33,
+            131,
+            34,
+            132
+          ]
+        },
+        {
+          "file": "data/layers/toilet/33_132.json",
+          "bbox": [
+            33,
+            132,
+            34,
+            133
+          ]
+        },
+        {
+          "file": "data/layers/toilet/33_133.json",
+          "bbox": [
+            33,
+            133,
+            34,
+            134
+          ]
+        },
+        {
+          "file": "data/layers/toilet/33_134.json",
+          "bbox": [
+            33,
+            134,
+            34,
+            135
+          ]
+        },
+        {
+          "file": "data/layers/toilet/33_135.json",
+          "bbox": [
+            33,
+            135,
+            34,
+            136
+          ]
+        },
+        {
+          "file": "data/layers/toilet/33_136.json",
+          "bbox": [
+            33,
+            136,
+            34,
+            137
+          ]
+        },
+        {
+          "file": "data/layers/toilet/33_139.json",
+          "bbox": [
+            33,
+            139,
+            34,
+            140
+          ]
+        },
+        {
+          "file": "data/layers/toilet/34_129.json",
+          "bbox": [
+            34,
+            129,
+            35,
+            130
+          ]
+        },
+        {
+          "file": "data/layers/toilet/34_130.json",
+          "bbox": [
+            34,
+            130,
+            35,
+            131
+          ]
+        },
+        {
+          "file": "data/layers/toilet/34_131.json",
+          "bbox": [
+            34,
+            131,
+            35,
+            132
+          ]
+        },
+        {
+          "file": "data/layers/toilet/34_132.json",
+          "bbox": [
+            34,
+            132,
+            35,
+            133
+          ]
+        },
+        {
+          "file": "data/layers/toilet/34_133.json",
+          "bbox": [
+            34,
+            133,
+            35,
+            134
+          ]
+        },
+        {
+          "file": "data/layers/toilet/34_134.json",
+          "bbox": [
+            34,
+            134,
+            35,
+            135
+          ]
+        },
+        {
+          "file": "data/layers/toilet/34_135.json",
+          "bbox": [
+            34,
+            135,
+            35,
+            136
+          ]
+        },
+        {
+          "file": "data/layers/toilet/34_136.json",
+          "bbox": [
+            34,
+            136,
+            35,
+            137
+          ]
+        },
+        {
+          "file": "data/layers/toilet/34_137.json",
+          "bbox": [
+            34,
+            137,
+            35,
+            138
+          ]
+        },
+        {
+          "file": "data/layers/toilet/34_138.json",
+          "bbox": [
+            34,
+            138,
+            35,
+            139
+          ]
+        },
+        {
+          "file": "data/layers/toilet/34_139.json",
+          "bbox": [
+            34,
+            139,
+            35,
+            140
+          ]
+        },
+        {
+          "file": "data/layers/toilet/35_132.json",
+          "bbox": [
+            35,
+            132,
+            36,
+            133
+          ]
+        },
+        {
+          "file": "data/layers/toilet/35_133.json",
+          "bbox": [
+            35,
+            133,
+            36,
+            134
+          ]
+        },
+        {
+          "file": "data/layers/toilet/35_134.json",
+          "bbox": [
+            35,
+            134,
+            36,
+            135
+          ]
+        },
+        {
+          "file": "data/layers/toilet/35_135.json",
+          "bbox": [
+            35,
+            135,
+            36,
+            136
+          ]
+        },
+        {
+          "file": "data/layers/toilet/35_136.json",
+          "bbox": [
+            35,
+            136,
+            36,
+            137
+          ]
+        },
+        {
+          "file": "data/layers/toilet/35_137.json",
+          "bbox": [
+            35,
+            137,
+            36,
+            138
+          ]
+        },
+        {
+          "file": "data/layers/toilet/35_138.json",
+          "bbox": [
+            35,
+            138,
+            36,
+            139
+          ]
+        },
+        {
+          "file": "data/layers/toilet/35_139.json",
+          "bbox": [
+            35,
+            139,
+            36,
+            140
+          ]
+        },
+        {
+          "file": "data/layers/toilet/35_140.json",
+          "bbox": [
+            35,
+            140,
+            36,
+            141
+          ]
+        },
+        {
+          "file": "data/layers/toilet/36_132.json",
+          "bbox": [
+            36,
+            132,
+            37,
+            133
+          ]
+        },
+        {
+          "file": "data/layers/toilet/36_133.json",
+          "bbox": [
+            36,
+            133,
+            37,
+            134
+          ]
+        },
+        {
+          "file": "data/layers/toilet/36_135.json",
+          "bbox": [
+            36,
+            135,
+            37,
+            136
+          ]
+        },
+        {
+          "file": "data/layers/toilet/36_136.json",
+          "bbox": [
+            36,
+            136,
+            37,
+            137
+          ]
+        },
+        {
+          "file": "data/layers/toilet/36_137.json",
+          "bbox": [
+            36,
+            137,
+            37,
+            138
+          ]
+        },
+        {
+          "file": "data/layers/toilet/36_138.json",
+          "bbox": [
+            36,
+            138,
+            37,
+            139
+          ]
+        },
+        {
+          "file": "data/layers/toilet/36_139.json",
+          "bbox": [
+            36,
+            139,
+            37,
+            140
+          ]
+        },
+        {
+          "file": "data/layers/toilet/36_140.json",
+          "bbox": [
+            36,
+            140,
+            37,
+            141
+          ]
+        },
+        {
+          "file": "data/layers/toilet/37_136.json",
+          "bbox": [
+            37,
+            136,
+            38,
+            137
+          ]
+        },
+        {
+          "file": "data/layers/toilet/37_137.json",
+          "bbox": [
+            37,
+            137,
+            38,
+            138
+          ]
+        },
+        {
+          "file": "data/layers/toilet/37_138.json",
+          "bbox": [
+            37,
+            138,
+            38,
+            139
+          ]
+        },
+        {
+          "file": "data/layers/toilet/37_139.json",
+          "bbox": [
+            37,
+            139,
+            38,
+            140
+          ]
+        },
+        {
+          "file": "data/layers/toilet/37_140.json",
+          "bbox": [
+            37,
+            140,
+            38,
+            141
+          ]
+        },
+        {
+          "file": "data/layers/toilet/37_141.json",
+          "bbox": [
+            37,
+            141,
+            38,
+            142
+          ]
+        },
+        {
+          "file": "data/layers/toilet/38_138.json",
+          "bbox": [
+            38,
+            138,
+            39,
+            139
+          ]
+        },
+        {
+          "file": "data/layers/toilet/38_139.json",
+          "bbox": [
+            38,
+            139,
+            39,
+            140
+          ]
+        },
+        {
+          "file": "data/layers/toilet/38_140.json",
+          "bbox": [
+            38,
+            140,
+            39,
+            141
+          ]
+        },
+        {
+          "file": "data/layers/toilet/38_141.json",
+          "bbox": [
+            38,
+            141,
+            39,
+            142
+          ]
+        },
+        {
+          "file": "data/layers/toilet/39_139.json",
+          "bbox": [
+            39,
+            139,
+            40,
+            140
+          ]
+        },
+        {
+          "file": "data/layers/toilet/39_140.json",
+          "bbox": [
+            39,
+            140,
+            40,
+            141
+          ]
+        },
+        {
+          "file": "data/layers/toilet/39_141.json",
+          "bbox": [
+            39,
+            141,
+            40,
+            142
+          ]
+        },
+        {
+          "file": "data/layers/toilet/39_142.json",
+          "bbox": [
+            39,
+            142,
+            40,
+            143
+          ]
+        },
+        {
+          "file": "data/layers/toilet/40_139.json",
+          "bbox": [
+            40,
+            139,
+            41,
+            140
+          ]
+        },
+        {
+          "file": "data/layers/toilet/40_140.json",
+          "bbox": [
+            40,
+            140,
+            41,
+            141
+          ]
+        },
+        {
+          "file": "data/layers/toilet/40_141.json",
+          "bbox": [
+            40,
+            141,
+            41,
+            142
+          ]
+        },
+        {
+          "file": "data/layers/toilet/41_140.json",
+          "bbox": [
+            41,
+            140,
+            42,
+            141
+          ]
+        },
+        {
+          "file": "data/layers/toilet/41_141.json",
+          "bbox": [
+            41,
+            141,
+            42,
+            142
+          ]
+        },
+        {
+          "file": "data/layers/toilet/41_143.json",
+          "bbox": [
+            41,
+            143,
+            42,
+            144
+          ]
+        },
+        {
+          "file": "data/layers/toilet/42_139.json",
+          "bbox": [
+            42,
+            139,
+            43,
+            140
+          ]
+        },
+        {
+          "file": "data/layers/toilet/42_140.json",
+          "bbox": [
+            42,
+            140,
+            43,
+            141
+          ]
+        },
+        {
+          "file": "data/layers/toilet/42_141.json",
+          "bbox": [
+            42,
+            141,
+            43,
+            142
+          ]
+        },
+        {
+          "file": "data/layers/toilet/42_142.json",
+          "bbox": [
+            42,
+            142,
+            43,
+            143
+          ]
+        },
+        {
+          "file": "data/layers/toilet/42_143.json",
+          "bbox": [
+            42,
+            143,
+            43,
+            144
+          ]
+        },
+        {
+          "file": "data/layers/toilet/42_144.json",
+          "bbox": [
+            42,
+            144,
+            43,
+            145
+          ]
+        },
+        {
+          "file": "data/layers/toilet/43_140.json",
+          "bbox": [
+            43,
+            140,
+            44,
+            141
+          ]
+        },
+        {
+          "file": "data/layers/toilet/43_141.json",
+          "bbox": [
+            43,
+            141,
+            44,
+            142
+          ]
+        },
+        {
+          "file": "data/layers/toilet/43_142.json",
+          "bbox": [
+            43,
+            142,
+            44,
+            143
+          ]
+        },
+        {
+          "file": "data/layers/toilet/43_143.json",
+          "bbox": [
+            43,
+            143,
+            44,
+            144
+          ]
+        },
+        {
+          "file": "data/layers/toilet/43_144.json",
+          "bbox": [
+            43,
+            144,
+            44,
+            145
+          ]
+        },
+        {
+          "file": "data/layers/toilet/43_145.json",
+          "bbox": [
+            43,
+            145,
+            44,
+            146
+          ]
+        },
+        {
+          "file": "data/layers/toilet/44_141.json",
+          "bbox": [
+            44,
+            141,
+            45,
+            142
+          ]
+        },
+        {
+          "file": "data/layers/toilet/44_142.json",
+          "bbox": [
+            44,
+            142,
+            45,
+            143
+          ]
+        },
+        {
+          "file": "data/layers/toilet/44_143.json",
+          "bbox": [
+            44,
+            143,
+            45,
+            144
+          ]
+        },
+        {
+          "file": "data/layers/toilet/44_144.json",
+          "bbox": [
+            44,
+            144,
+            45,
+            145
+          ]
+        },
+        {
+          "file": "data/layers/toilet/44_145.json",
+          "bbox": [
+            44,
+            145,
+            45,
+            146
+          ]
+        },
+        {
+          "file": "data/layers/toilet/45_140.json",
+          "bbox": [
+            45,
+            140,
+            46,
+            141
+          ]
+        },
+        {
+          "file": "data/layers/toilet/45_141.json",
+          "bbox": [
+            45,
+            141,
+            46,
+            142
+          ]
+        },
+        {
+          "file": "data/layers/toilet/45_142.json",
+          "bbox": [
+            45,
+            142,
+            46,
+            143
+          ]
+        }
+      ]
     }
   ]
 }

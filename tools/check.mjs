@@ -52,7 +52,7 @@ for (const pack of packs) {
     try { all = all.concat(unwrapList(await readJson(f.startsWith(dir + "/") ? f : f.replace(/^data\//, `${dir}/`)))); }
     catch { warn(`パック「${pack.name}」のファイル ${f} が読めません`); }
   }
-  console.log(`\n■ レイヤー「${pack.name}」（${files.join(', ')}）: ${all.length}件`);
+  console.log(`\n■ レイヤー「${pack.name}」（${files.length > 3 ? `${files.length}ファイル` : files.join(', ')}）: ${all.length}件`);
   const items = checkList(all, (r, i) => normalizeLayerItem(r, i, pack.id));
   const byType = {};
   items.forEach((x) => { byType[x.type] = (byType[x.type] || 0) + 1; });
