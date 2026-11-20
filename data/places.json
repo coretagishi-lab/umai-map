@@ -72,7 +72,11 @@
   "thumb": "DeWEmqwzO83.jpg",
   "author": "sauna.expo",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認",
+   "確認日": "2026-11-20"
+  }
  },
  {
   "id": "DfRuTypAvzZ",
@@ -86,6 +90,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DfRuTypAvzZ/",
   "thumb": "DfRuTypAvzZ.jpg",
+  "hours": {
+   "備考": "最終入店20:00。日曜定休のほか不定休あり",
+   "出典": "公式サイト",
+   "土": "17:00〜23:00",
+   "日": "定休日",
+   "月": "17:00〜23:00",
+   "木": "17:00〜23:00",
+   "水": "17:00〜23:00",
+   "火": "17:00〜23:00",
+   "確認日": "2026-11-20",
+   "祝": "17:00〜23:00",
+   "金": "17:00〜23:00"
+  },
   "author": "moto_pt_98",
   "geocode_confidence": "high",
   "caption_date": null
@@ -102,6 +119,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DfCHR2BSK9B/",
   "thumb": "DfCHR2BSK9B.jpg",
+  "hours": {
+   "備考": "完全予約制・2部制（1部18:00〜／2部20:30〜）。2Fの鮨カウンターの営業時間（1Fの居酒屋とは別）",
+   "出典": "公式サイト",
+   "土": "18:00〜20:00 / 20:30〜22:30",
+   "日": "定休日",
+   "月": "18:00〜20:00 / 20:30〜22:30",
+   "木": "18:00〜20:00 / 20:30〜22:30",
+   "水": "定休日",
+   "火": "18:00〜20:00 / 20:30〜22:30",
+   "確認日": "2026-11-20",
+   "祝": "定休日",
+   "金": "定休日"
+  },
   "author": "life__of__tokyo",
   "geocode_confidence": "high",
   "caption_date": null
@@ -118,6 +148,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/De-pyS1yys1/",
   "thumb": "De-pyS1yys1.jpg",
+  "hours": {
+   "備考": "新富町 鴨ゆき。おまかせコースのみ",
+   "出典": "PR TIMES（公式発表）",
+   "土": "18:00〜23:00",
+   "日": "定休日",
+   "月": "18:00〜23:00",
+   "木": "18:00〜23:00",
+   "水": "18:00〜23:00",
+   "火": "18:00〜23:00",
+   "確認日": "2026-11-20",
+   "祝": "定休日",
+   "金": "18:00〜23:00"
+  },
   "author": "nnmgrm_e",
   "geocode_confidence": "low",
   "caption_date": null
@@ -134,6 +177,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DeG-bGss7Jd/",
   "thumb": "DeG-bGss7Jd.jpg",
+  "hours": {
+   "備考": "日・祝のほか市場休市日（主に水曜）も休み。水曜は休市日にあたる場合は定休日。売り切れ次第終了",
+   "出典": "NAVITIME",
+   "土": "6:30〜13:30",
+   "日": "定休日",
+   "月": "6:30〜13:30",
+   "木": "6:30〜13:30",
+   "水": "6:30〜13:30",
+   "火": "6:30〜13:30",
+   "確認日": "2026-11-20",
+   "祝": "定休日",
+   "金": "6:30〜13:30"
+  },
   "author": "life__of__tokyo",
   "geocode_confidence": "high",
   "caption_date": null
@@ -150,6 +206,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DcfyKZ6TE_n/",
   "thumb": "DcfyKZ6TE_n.jpg",
+  "hours": {
+   "出典": "食べログ",
+   "土": "15:00〜00:00 LO.23:30",
+   "日": "15:00〜00:00 LO.23:30",
+   "月": "16:00〜00:00 LO.23:30",
+   "木": "16:00〜00:00 LO.23:30",
+   "水": "16:00〜00:00 LO.23:30",
+   "火": "16:00〜00:00 LO.23:30",
+   "確認日": "2026-11-20",
+   "祝": "15:00〜00:00 LO.23:30",
+   "金": "16:00〜00:00 LO.23:30"
+  },
   "author": "tokyo_dinner_miship",
   "geocode_confidence": "high",
   "caption_date": null
@@ -166,6 +234,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DdPiB0EzRK1/",
   "thumb": "DdPiB0EzRK1.jpg",
+  "hours": {
+   "備考": "全日営業（公式サイトに定休日の記載なし）",
+   "出典": "公式サイト",
+   "土": "11:00〜21:00 LO.20:30",
+   "日": "11:00〜21:00 LO.20:30",
+   "月": "11:00〜21:00 LO.20:30",
+   "木": "11:00〜21:00 LO.20:30",
+   "水": "11:00〜21:00 LO.20:30",
+   "火": "11:00〜21:00 LO.20:30",
+   "確認日": "2026-11-20",
+   "祝": "11:00〜21:00 LO.20:30",
+   "金": "11:00〜21:00 LO.20:30"
+  },
   "author": "hitsuji__gohan",
   "geocode_confidence": "high",
   "caption_date": null
@@ -182,6 +263,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/Dc3B52sxEZR/",
   "thumb": "Dc3B52sxEZR.jpg",
+  "hours": {
+   "備考": "火曜定休のほか不定休あり（Instagram・Google要確認）",
+   "出典": "食べログ",
+   "土": "11:30〜15:00 / 17:00〜22:00",
+   "日": "11:30〜15:00 / 17:00〜22:00",
+   "月": "17:00〜22:00",
+   "木": "17:00〜22:00",
+   "水": "17:00〜22:00",
+   "火": "定休日",
+   "確認日": "2026-11-20",
+   "祝": "11:30〜15:00 / 17:00〜22:00",
+   "金": "17:00〜22:00"
+  },
   "author": "datebiyori_tokyo",
   "geocode_confidence": "high",
   "caption_date": null
@@ -200,7 +294,11 @@
   "thumb": "DdQ3P1DJT4x.jpg",
   "author": "gurumejoshi.tokyo",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認",
+   "確認日": "2026-11-20"
+  }
  },
  {
   "id": "DdOWun7vDaK",
@@ -214,6 +312,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DdOWun7vDaK/",
   "thumb": "DdOWun7vDaK.jpg",
+  "hours": {
+   "備考": "12/30〜1/4は休み",
+   "出典": "公式サイト",
+   "土": "11:30〜23:00",
+   "日": "11:30〜22:00",
+   "月": "11:30〜22:00",
+   "木": "11:30〜22:00",
+   "水": "11:30〜22:00",
+   "火": "11:30〜22:00",
+   "確認日": "2026-11-20",
+   "祝": "11:30〜22:00",
+   "金": "11:30〜23:00"
+  },
   "author": "koji__gourmet",
   "geocode_confidence": "high",
   "caption_date": null
@@ -230,6 +341,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DdGc-QsTd-J/",
   "thumb": "DdGc-QsTd-J.jpg",
+  "hours": {
+   "月": "17:00〜23:00 LO.22:00",
+   "火": "17:00〜23:00 LO.22:00",
+   "水": "17:00〜23:00 LO.22:00",
+   "木": "17:00〜23:00 LO.22:00",
+   "金": "17:00〜23:00 LO.22:00",
+   "土": "11:30〜15:00 LO.14:00 / 16:00〜23:00 LO.22:00",
+   "日": "11:30〜15:00 LO.14:00 / 16:00〜23:00 LO.22:00",
+   "祝": "16:00〜23:00 LO.22:00",
+   "備考": "LOは料理LO。ドリンクLOはランチ14:30／夜22:30。不定休",
+   "出典": "食べログ",
+   "確認日": "2026-11-20"
+  },
   "author": "yaokiya_78",
   "geocode_confidence": "high",
   "caption_date": null
@@ -248,7 +372,11 @@
   "thumb": "Dc5elpRyi7c.jpg",
   "author": "shiso_tokyo",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認",
+   "確認日": "2026-11-20"
+  }
  },
  {
   "id": "DVA9nXAkQxo",
@@ -262,6 +390,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DVA9nXAkQxo/",
   "thumb": "DVA9nXAkQxo.jpg",
+  "hours": {
+   "月": "11:00〜22:00 LO.21:00",
+   "火": "11:00〜22:00 LO.21:00",
+   "水": "11:00〜22:00 LO.21:00",
+   "木": "11:00〜22:00 LO.21:00",
+   "金": "11:00〜22:00 LO.21:00",
+   "土": "11:00〜22:00 LO.21:00",
+   "日": "11:00〜22:00 LO.21:00",
+   "祝": "11:00〜22:00 LO.21:00",
+   "備考": "LOはフードLO。ドリンクLO.21:30。定休日は不定休（公式サイト）",
+   "出典": "公式サイト",
+   "確認日": "2026-11-20"
+  },
   "author": "yaokiya_78",
   "geocode_confidence": "high",
   "caption_date": null
@@ -278,6 +419,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/p/DLKXzEnT10e/",
   "thumb": "DLKXzEnT10e.jpg",
+  "hours": {
+   "月": "11:00〜23:30",
+   "火": "定休日",
+   "水": "11:00〜23:30",
+   "木": "11:00〜23:30",
+   "金": "11:00〜23:30",
+   "土": "11:00〜23:30",
+   "日": "11:00〜22:30",
+   "備考": "定休日は火曜日。ワイン居酒屋は17:00〜（公式サイト）。祝日の営業時間は公式サイトに記載なし",
+   "出典": "公式サイト",
+   "確認日": "2026-11-20"
+  },
   "author": "gohan_no_zukan",
   "geocode_confidence": "high",
   "caption_date": null
@@ -294,6 +447,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DbksY9bzPn-/",
   "thumb": "DbksY9bzPn-.jpg",
+  "hours": {
+   "月": "17:00〜23:00 LO.22:00",
+   "火": "17:00〜23:00 LO.22:00",
+   "水": "17:00〜23:00 LO.22:00",
+   "木": "17:00〜23:00 LO.22:00",
+   "金": "17:00〜23:00 LO.22:00",
+   "土": "12:00〜23:00 LO.22:00",
+   "日": "12:00〜23:00 LO.22:00",
+   "祝": "12:00〜23:00 LO.22:00",
+   "備考": "LOは料理LO。ドリンクLO.22:30。土・日・祝のランチLO.14:59。定休日は年末年始（12/31・1/1）のみ",
+   "出典": "食べログ",
+   "確認日": "2026-11-20"
+  },
   "author": "tokyo_dinner_miship",
   "geocode_confidence": "high",
   "caption_date": null
@@ -310,6 +476,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DavBCJ-qMwo/",
   "thumb": "DavBCJ-qMwo.jpg",
+  "hours": {
+   "月": "11:30〜23:00 LO.22:00",
+   "火": "11:30〜23:00 LO.22:00",
+   "水": "11:30〜23:00 LO.22:00",
+   "木": "11:30〜23:00 LO.22:00",
+   "金": "11:30〜23:00 LO.22:00",
+   "土": "11:30〜23:00 LO.22:00",
+   "日": "11:30〜23:00 LO.22:00",
+   "祝": "11:30〜23:00 LO.22:00",
+   "備考": "食べログでは全曜日・祝日とも同時間で、定休日の記載なし",
+   "出典": "食べログ",
+   "確認日": "2026-11-20"
+  },
   "author": "manpuku_gourmet24",
   "geocode_confidence": "high",
   "caption_date": null
@@ -326,6 +505,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DbZtKMrIvI7/",
   "thumb": "DbZtKMrIvI7.jpg",
+  "hours": {
+   "月": "定休日",
+   "火": "定休日",
+   "水": "17:00〜22:30 LO.21:30",
+   "木": "17:00〜22:30 LO.21:30",
+   "金": "17:00〜22:30 LO.21:30",
+   "土": "11:00〜22:00 LO.21:00",
+   "日": "11:00〜22:00 LO.21:00",
+   "祝": "11:00〜22:00 LO.21:00",
+   "備考": "LOは料理LO。ドリンクLOは水〜金22:00／土・日・祝21:30。月・火が祝日の場合は営業。年末年始は休み",
+   "出典": "食べログ",
+   "確認日": "2026-11-20"
+  },
   "author": "shinumade_gourmet",
   "geocode_confidence": "high",
   "caption_date": null
@@ -342,6 +534,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DaZ9T4mTsSf/",
   "thumb": "DaZ9T4mTsSf.jpg",
+  "hours": {
+   "月": "11:30〜15:00 LO.14:30 / 17:00〜23:00 LO.21:00",
+   "火": "11:30〜15:00 LO.14:30 / 17:00〜23:00 LO.21:00",
+   "水": "11:30〜15:00 LO.14:30 / 17:00〜23:00 LO.21:00",
+   "木": "11:30〜15:00 LO.14:30 / 17:00〜23:00",
+   "金": "11:30〜15:00 LO.14:30 / 17:00〜23:00",
+   "土": "11:00〜15:30 LO.15:00 / 17:00〜23:00 LO.21:00",
+   "日": "11:00〜15:30 LO.15:00 / 17:00〜22:00 LO.21:00",
+   "祝": "11:00〜15:30 LO.15:00 / 17:00〜23:00 LO.21:00",
+   "備考": "LOは料理LO。定休日なし（年中無休）。木・金のディナーは食べログにLOの記載なし",
+   "出典": "食べログ",
+   "確認日": "2026-11-20"
+  },
   "author": "qk0501",
   "geocode_confidence": "high",
   "caption_date": null
@@ -358,6 +563,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DacUFrERSEE/",
   "thumb": "DacUFrERSEE.jpg",
+  "hours": {
+   "月": "17:00〜23:30",
+   "火": "17:00〜23:30",
+   "水": "17:00〜23:30",
+   "木": "17:00〜23:30",
+   "金": "17:00〜23:30",
+   "土": "17:00〜23:30",
+   "日": "17:00〜23:30",
+   "祝": "17:00〜23:30",
+   "備考": "年中無休（食べログ）。店舗表記は「17:00頃〜燃え尽きるまで（23:30）」。LOの記載なし",
+   "出典": "食べログ",
+   "確認日": "2026-11-20"
+  },
   "author": "tokyogourmet_secret",
   "geocode_confidence": "high",
   "caption_date": null
@@ -376,7 +594,11 @@
   "thumb": "DaSp9RzpVat.jpg",
   "author": "non.gourmet_",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認",
+   "確認日": "2026-11-20"
+  }
  },
  {
   "id": "DZZadbhS7O8",
@@ -392,7 +614,10 @@
   "thumb": "DZZadbhS7O8.jpg",
   "author": "pe_co_gourmet",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認"
+  }
  },
  {
   "id": "DZpKhfgTpEK",
@@ -406,6 +631,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DZpKhfgTpEK/",
   "thumb": "DZpKhfgTpEK.jpg",
+  "hours": {
+   "備考": "料理LO.22:00、ドリンクLO.22:30",
+   "出典": "食べログ",
+   "土": "11:00〜23:00 LO.22:30",
+   "日": "11:00〜23:00 LO.22:30",
+   "月": "11:00〜23:00 LO.22:30",
+   "木": "11:00〜23:00 LO.22:30",
+   "水": "11:00〜23:00 LO.22:30",
+   "火": "11:00〜23:00 LO.22:30",
+   "確認日": "2026-11-20",
+   "祝": "11:00〜23:00 LO.22:30",
+   "金": "11:00〜23:00 LO.22:30"
+  },
   "author": "tokyo_dinner_miship",
   "geocode_confidence": "high",
   "caption_date": null
@@ -422,6 +660,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DZSPCeryGSI/",
   "thumb": "DZSPCeryGSI.jpg",
+  "hours": {
+   "備考": "一部媒体では不定休と表記あり",
+   "出典": "オーヴォ（OVO）",
+   "土": "8:00〜16:00",
+   "日": "定休日",
+   "月": "8:00〜16:00",
+   "木": "8:00〜16:00",
+   "水": "8:00〜16:00",
+   "火": "8:00〜16:00",
+   "確認日": "2026-11-20",
+   "金": "8:00〜16:00"
+  },
   "author": "rei__tokyo",
   "geocode_confidence": "high",
   "caption_date": null
@@ -440,7 +690,10 @@
   "thumb": "DYKEQAAE1wz.jpg",
   "author": "rinken.dorayaki",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認"
+  }
  },
  {
   "id": "DZI2VizzVHl",
@@ -454,6 +707,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DZI2VizzVHl/",
   "thumb": "DZI2VizzVHl.jpg",
+  "hours": {
+   "備考": "月曜が祝日の場合は営業し、翌火曜日が店休日",
+   "出典": "ホットペッパーグルメ",
+   "土": "17:00〜23:00 LO.22:00",
+   "日": "17:00〜23:00 LO.22:00",
+   "月": "定休日",
+   "木": "17:00〜23:00 LO.22:00",
+   "水": "17:00〜23:00 LO.22:00",
+   "火": "17:00〜23:00 LO.22:00",
+   "確認日": "2026-11-20",
+   "祝": "17:00〜23:00 LO.22:00",
+   "金": "17:00〜23:00 LO.22:00"
+  },
   "author": "noe_san70",
   "geocode_confidence": "high",
   "caption_date": null
@@ -470,6 +736,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DYgwZC1JP5i/",
   "thumb": "DYgwZC1JP5i.jpg",
+  "hours": {
+   "備考": "火曜が祝日の場合は通常営業",
+   "出典": "公式サイト",
+   "土": "12:00〜20:00",
+   "日": "12:00〜20:00",
+   "月": "12:00〜20:00",
+   "木": "12:00〜20:00",
+   "水": "12:00〜20:00",
+   "火": "定休日",
+   "確認日": "2026-11-20",
+   "祝": "12:00〜20:00",
+   "金": "12:00〜20:00"
+  },
   "author": "bloom_ebis.plus",
   "geocode_confidence": "high",
   "caption_date": null
@@ -486,6 +765,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DZJQ90WBQWL/",
   "thumb": "DZJQ90WBQWL.jpg",
+  "hours": {
+   "備考": "定休日なし。祝前日は月〜土と同じ翌3:00まで。料理LOは月〜土2:00、日・祝23:00（ドリンクLOは月〜土2:30、日・祝23:30）",
+   "出典": "ぐるなび（公式ページ）",
+   "土": "17:00〜翌3:00 LO.2:30",
+   "日": "17:00〜24:00 LO.23:30",
+   "月": "17:00〜翌3:00 LO.2:30",
+   "木": "17:00〜翌3:00 LO.2:30",
+   "水": "17:00〜翌3:00 LO.2:30",
+   "火": "17:00〜翌3:00 LO.2:30",
+   "確認日": "2026-11-20",
+   "祝": "17:00〜24:00 LO.23:30",
+   "金": "17:00〜翌3:00 LO.2:30"
+  },
   "author": "_kanagourmet",
   "geocode_confidence": "high",
   "caption_date": null
@@ -502,6 +794,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DYZ0NYyzCLK/",
   "thumb": "DYZ0NYyzCLK.jpg",
+  "hours": {
+   "出典": "食べログ",
+   "土": "11:30〜14:30 / 17:00〜23:00",
+   "日": "11:30〜14:30 / 17:00〜22:30",
+   "月": "11:30〜14:30 / 17:00〜23:00",
+   "木": "11:30〜14:30 / 17:00〜23:00",
+   "水": "11:30〜14:30 / 17:00〜23:00",
+   "火": "11:30〜14:30 / 17:00〜23:00",
+   "確認日": "2026-11-20",
+   "祝": "11:30〜14:30 / 17:00〜23:00",
+   "金": "11:30〜14:30 / 17:00〜23:00"
+  },
   "author": "kandou_gourmet_",
   "geocode_confidence": "high",
   "caption_date": null
@@ -520,7 +824,10 @@
   "thumb": "DY9weoxToNk.jpg",
   "author": "tokyo_ramen_sho",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認"
+  }
  },
  {
   "id": "DYwIBzwvtNE",
@@ -534,6 +841,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DYwIBzwvtNE/",
   "thumb": "DYwIBzwvtNE.jpg",
+  "hours": {
+   "備考": "不定休（店休日は月ごとに公式Instagram・TableCheckで告知、主に火曜）",
+   "出典": "TableCheck（公式予約ページ）",
+   "土": "11:00〜18:10",
+   "日": "11:00〜18:10",
+   "月": "11:00〜18:10",
+   "木": "11:00〜18:10",
+   "水": "11:00〜18:10",
+   "火": "11:00〜18:10",
+   "確認日": "2026-11-20",
+   "祝": "11:00〜18:10",
+   "金": "11:00〜18:10"
+  },
   "author": "tokyo.sakaba____",
   "geocode_confidence": "high",
   "caption_date": null
@@ -550,6 +870,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DX3zMvwPjxl/",
   "thumb": "DX3zMvwPjxl.jpg",
+  "hours": {
+   "出典": "Googleマップ",
+   "土": "11:30〜15:00 / 17:30〜22:00",
+   "日": "11:30〜15:00 / 17:30〜22:00",
+   "月": "定休日",
+   "木": "11:30〜15:00 / 17:30〜22:00",
+   "水": "11:30〜15:00 / 17:30〜22:00",
+   "火": "11:30〜15:00 / 17:30〜22:00",
+   "確認日": "2026-11-20",
+   "金": "11:30〜15:00 / 17:30〜22:00"
+  },
   "author": "tokyo_bishoku_restaurant",
   "geocode_confidence": "high",
   "caption_date": null
@@ -566,6 +897,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DYtlEXrzFIC/",
   "thumb": "DYtlEXrzFIC.jpg",
+  "hours": {
+   "備考": "年末年始（12月31日・1月1日）は休み",
+   "出典": "公式TikTok",
+   "土": "11:30〜23:00",
+   "日": "11:30〜23:00",
+   "月": "11:30〜14:00 / 17:00〜23:00",
+   "木": "11:30〜14:00 / 17:00〜23:00",
+   "水": "11:30〜14:00 / 17:00〜23:00",
+   "火": "11:30〜14:00 / 17:00〜23:00",
+   "確認日": "2026-11-20",
+   "金": "11:30〜14:00 / 17:00〜23:00"
+  },
   "author": "tokyo_dinner_miship",
   "geocode_confidence": "high",
   "caption_date": null
@@ -582,6 +925,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DYrjiRRzkuf/",
   "thumb": "DYrjiRRzkuf.jpg",
+  "hours": {
+   "備考": "1月1日は休み",
+   "出典": "その他媒体",
+   "土": "7:00〜22:00",
+   "日": "7:00〜22:00",
+   "月": "7:00〜22:00",
+   "木": "7:00〜22:00",
+   "水": "7:00〜22:00",
+   "火": "7:00〜22:00",
+   "確認日": "2026-11-20",
+   "金": "7:00〜22:00"
+  },
   "author": "hiroto_trendtravel",
   "geocode_confidence": "high",
   "caption_date": null
@@ -598,6 +953,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DYo3HgThREu/",
   "thumb": "DYo3HgThREu.jpg",
+  "hours": {
+   "出典": "NAVITIME",
+   "土": "11:00〜20:00",
+   "日": "11:00〜20:00",
+   "月": "11:00〜22:00",
+   "木": "11:00〜22:00",
+   "水": "11:00〜22:00",
+   "火": "11:00〜22:00",
+   "確認日": "2026-11-20",
+   "祝": "11:00〜20:00",
+   "金": "11:00〜22:00"
+  },
   "author": "archive_tokyo41",
   "geocode_confidence": "high",
   "caption_date": null
@@ -616,7 +983,10 @@
   "thumb": "DYpGh0fzYYI.jpg",
   "author": "kandou_gourmet_",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認"
+  }
  },
  {
   "id": "DYevLK5vGXC",
@@ -632,7 +1002,10 @@
   "thumb": "DYevLK5vGXC.jpg",
   "author": "odekakelife_tokyo",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認"
+  }
  },
  {
   "id": "DYO1PsNP2Zy",
@@ -648,7 +1021,10 @@
   "thumb": "DYO1PsNP2Zy.jpg",
   "author": "rin__dining",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認"
+  }
  },
  {
   "id": "DYPIZCmTDct",
@@ -662,6 +1038,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DYPIZCmTDct/",
   "thumb": "DYPIZCmTDct.jpg",
+  "hours": {
+   "出典": "東京健康UPlus",
+   "土": "11:00〜22:00 LO.21:00",
+   "日": "11:00〜22:00 LO.21:00",
+   "月": "11:00〜19:00 LO.18:30",
+   "木": "11:00〜22:00 LO.21:00",
+   "水": "11:00〜19:00 LO.18:30",
+   "火": "定休日",
+   "確認日": "2026-11-20",
+   "金": "11:00〜22:00 LO.21:00"
+  },
   "author": "miraisuisan",
   "geocode_confidence": "high",
   "caption_date": null
@@ -678,6 +1065,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DYCceBZTVmN/",
   "thumb": "DYCceBZTVmN.jpg",
+  "hours": {
+   "出典": "Googleマップ",
+   "土": "16:00〜23:00",
+   "日": "16:00〜23:00",
+   "月": "11:00〜15:00 / 17:00〜23:00",
+   "木": "11:00〜15:00 / 17:00〜23:00",
+   "水": "11:00〜15:00 / 17:00〜23:00",
+   "火": "11:00〜15:00 / 17:00〜23:00",
+   "確認日": "2026-11-20",
+   "金": "11:00〜15:00 / 17:00〜23:00"
+  },
   "author": "kandou_gourmet_",
   "geocode_confidence": "high",
   "caption_date": null
@@ -696,7 +1094,10 @@
   "thumb": "DYPi9AAyLZz.jpg",
   "author": "tokyogourmet3",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認"
+  }
  },
  {
   "id": "DYPi9AAyLZz-2",
@@ -710,6 +1111,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DYPi9AAyLZz/",
   "thumb": "DYPi9AAyLZz.jpg",
+  "hours": {
+   "出典": "公式サイト",
+   "土": "16:00〜22:00",
+   "日": "17:00〜22:00",
+   "月": "17:00〜22:00",
+   "木": "17:00〜22:00",
+   "水": "17:00〜22:00",
+   "火": "定休日",
+   "確認日": "2026-11-20",
+   "金": "17:00〜22:00"
+  },
   "author": "tokyogourmet3",
   "geocode_confidence": "high",
   "caption_date": null
@@ -726,6 +1138,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DYJjUKlxa9i/",
   "thumb": "DYJjUKlxa9i.jpg",
+  "hours": {
+   "備考": "第1・第3月曜は定休日／ドリンクLO.21:00（日・祝除く）",
+   "出典": "食べログ",
+   "土": "11:30〜22:00 LO.20:45",
+   "日": "11:30〜21:30 LO.20:30",
+   "月": "11:30〜22:00 LO.20:45",
+   "木": "11:30〜22:00 LO.20:45",
+   "水": "11:30〜22:00 LO.20:45",
+   "火": "11:30〜22:00 LO.20:45",
+   "確認日": "2026-11-20",
+   "祝": "11:30〜21:30 LO.20:30",
+   "金": "11:30〜22:00 LO.20:45"
+  },
   "author": "kohyoka_gourmet",
   "geocode_confidence": "high",
   "caption_date": null
@@ -742,6 +1167,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DX4EtAfi_oD/",
   "thumb": "DX4EtAfi_oD.jpg",
+  "hours": {
+   "出典": "Googleマップ",
+   "土": "12:00〜15:00 / 17:00〜23:30",
+   "日": "12:00〜15:00 / 17:00〜23:30",
+   "月": "17:00〜23:30",
+   "木": "17:00〜23:30",
+   "水": "17:00〜23:30",
+   "火": "17:00〜23:30",
+   "確認日": "2026-11-20",
+   "金": "17:00〜23:30"
+  },
   "author": "manpuku_gourmet24",
   "geocode_confidence": "high",
   "caption_date": null
@@ -758,6 +1194,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DX_bP-huBXR/",
   "thumb": "DX_bP-huBXR.jpg",
+  "hours": {
+   "出典": "Googleマップ",
+   "土": "11:30〜23:00",
+   "日": "11:30〜23:00",
+   "月": "17:00〜23:00",
+   "木": "11:30〜15:00 / 17:00〜23:00",
+   "水": "11:30〜15:00 / 17:00〜23:00",
+   "火": "11:30〜15:00 / 17:00〜23:00",
+   "確認日": "2026-11-20",
+   "金": "11:30〜15:00 / 17:00〜23:00"
+  },
   "author": "gensen_gurume",
   "geocode_confidence": "high",
   "caption_date": null
@@ -776,7 +1223,10 @@
   "thumb": "DVkZLJlkdjv.jpg",
   "author": "tokyooishii",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認"
+  }
  },
  {
   "id": "DXotTBagTuE",
@@ -790,6 +1240,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DXotTBagTuE/",
   "thumb": "DXotTBagTuE.jpg",
+  "hours": {
+   "出典": "Googleマップ",
+   "土": "12:00〜15:00 / 18:00〜21:00",
+   "日": "定休日",
+   "月": "12:00〜15:00 / 18:00〜21:00",
+   "木": "12:00〜14:00 / 18:00〜21:00",
+   "水": "12:00〜15:00 / 18:00〜21:00",
+   "火": "12:00〜14:00 / 18:00〜21:00",
+   "確認日": "2026-11-20",
+   "金": "12:00〜15:00 / 18:00〜21:00"
+  },
   "author": "tokyo_ramen_sho",
   "geocode_confidence": "high",
   "caption_date": null
@@ -808,7 +1269,10 @@
   "thumb": "DXgd75Gicuf.jpg",
   "author": "kanagawa_gourmet1",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認"
+  }
  },
  {
   "id": "DXWRi7zBgwq",
@@ -822,6 +1286,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DXWRi7zBgwq/",
   "thumb": "DXWRi7zBgwq.jpg",
+  "hours": {
+   "備考": "ソフトクリーム店「Luna soft」",
+   "出典": "Googleマップ",
+   "土": "11:30〜17:00",
+   "日": "11:30〜17:00",
+   "月": "11:30〜17:00",
+   "木": "11:30〜17:00",
+   "水": "定休日",
+   "火": "11:30〜17:00",
+   "確認日": "2026-11-20",
+   "金": "11:30〜17:00"
+  },
   "author": "code1_993",
   "geocode_confidence": "high",
   "caption_date": null
@@ -838,6 +1314,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DV-t0Esj_4l/",
   "thumb": "DV-t0Esj_4l.jpg",
+  "hours": {
+   "出典": "PR TIMES",
+   "土": "11:30〜14:30 LO.14:00",
+   "日": "11:30〜14:30 LO.14:00",
+   "月": "11:30〜14:30 LO.14:00 / 17:00〜23:00 LO.22:30",
+   "木": "11:30〜14:30 LO.14:00 / 17:00〜23:00 LO.22:30",
+   "水": "11:30〜14:30 LO.14:00 / 17:00〜23:00 LO.22:30",
+   "火": "11:30〜14:30 LO.14:00 / 17:00〜23:00 LO.22:30",
+   "確認日": "2026-11-20",
+   "祝": "定休日",
+   "金": "11:30〜14:30 LO.14:00 / 17:00〜23:00 LO.22:30"
+  },
   "author": "koji_gourmate",
   "geocode_confidence": "high",
   "caption_date": null
@@ -854,6 +1342,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DXPIiQWE8Uu/",
   "thumb": "DXPIiQWE8Uu.jpg",
+  "hours": {
+   "出典": "公式サイト",
+   "土": "17:00〜22:00 LO.21:30",
+   "日": "定休日",
+   "月": "定休日",
+   "木": "17:00〜22:00 LO.21:30",
+   "水": "17:00〜22:00 LO.21:30",
+   "火": "17:00〜22:00 LO.21:30",
+   "確認日": "2026-11-20",
+   "金": "17:00〜22:00 LO.21:30"
+  },
   "author": "kandou_gourmet_",
   "geocode_confidence": "high",
   "caption_date": null
@@ -870,6 +1369,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DXOnWaLku4z/",
   "thumb": "DXOnWaLku4z.jpg",
+  "hours": {
+   "出典": "Googleマップ",
+   "土": "11:00〜22:30",
+   "日": "11:00〜22:30",
+   "月": "11:00〜22:30",
+   "木": "11:00〜16:00 / 17:00〜22:30",
+   "水": "11:00〜22:30",
+   "火": "11:00〜16:00 / 17:00〜22:30",
+   "確認日": "2026-11-20",
+   "金": "11:00〜16:00 / 17:00〜22:30"
+  },
   "author": "tokyogourmet3",
   "geocode_confidence": "high",
   "caption_date": null
@@ -886,6 +1396,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DW0x2QuAguj/",
   "thumb": "DW0x2QuAguj.jpg",
+  "hours": {
+   "備考": "定休日（月・日）は動画説明欄の情報による",
+   "出典": "食べログマガジン",
+   "土": "12:00〜翌4:00",
+   "日": "定休日",
+   "月": "定休日",
+   "木": "12:00〜翌4:00",
+   "水": "12:00〜翌4:00",
+   "火": "12:00〜翌4:00",
+   "確認日": "2026-11-20",
+   "金": "12:00〜翌4:00"
+  },
   "author": "0141_tokyo",
   "geocode_confidence": "high",
   "caption_date": null
@@ -902,6 +1424,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DWoYv_IDLV6/",
   "thumb": "DWoYv_IDLV6.jpg",
+  "hours": {
+   "出典": "Googleマップ",
+   "土": "12:00〜23:00",
+   "日": "12:00〜23:00",
+   "月": "15:00〜23:00",
+   "木": "15:00〜23:00",
+   "水": "15:00〜23:00",
+   "火": "15:00〜23:00",
+   "確認日": "2026-11-20",
+   "金": "15:00〜23:00"
+  },
   "author": "kimi_gurume",
   "geocode_confidence": "high",
   "caption_date": null
@@ -918,6 +1451,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DWdsS2hj66E/",
   "thumb": "DWdsS2hj66E.jpg",
+  "hours": {
+   "出典": "公式サイト",
+   "土": "11:30〜15:00 LO.14:30 / 17:30〜21:30 LO.21:00",
+   "日": "11:30〜15:00 LO.14:30 / 17:30〜21:30 LO.21:00",
+   "月": "11:30〜15:00 LO.14:30 / 17:30〜22:00 LO.21:30",
+   "木": "11:30〜15:00 LO.14:30 / 17:30〜22:00 LO.21:30",
+   "水": "11:30〜15:00 LO.14:30 / 17:30〜22:00 LO.21:30",
+   "火": "11:30〜15:00 LO.14:30 / 17:30〜22:00 LO.21:30",
+   "確認日": "2026-11-20",
+   "祝": "11:30〜15:00 LO.14:30 / 17:30〜21:30 LO.21:00",
+   "金": "11:30〜15:00 LO.14:30 / 17:30〜22:00 LO.21:30"
+  },
   "author": "ma_sa_cafe",
   "geocode_confidence": "high",
   "caption_date": null
@@ -936,7 +1481,12 @@
   "thumb": "DWa67eoEvEb.jpg",
   "author": "nacha_tabi",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "複合施設のため、店舗により営業時間が異なる",
+   "出典": "各店舗の公式発表",
+   "確認日": "2026-11-20"
+  }
  },
  {
   "id": "DUsfaf4Dzea",
@@ -950,6 +1500,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DUsfaf4Dzea/",
   "thumb": "DUsfaf4Dzea.jpg",
+  "hours": {
+   "備考": "不定休",
+   "出典": "Googleマップ",
+   "土": "11:30〜15:00 LO.14:00 / 17:30〜22:30 LO.21:30",
+   "日": "11:30〜15:00 LO.14:00 / 17:30〜22:30 LO.21:30",
+   "月": "11:30〜15:00 LO.14:00 / 17:30〜22:30 LO.21:30",
+   "木": "11:30〜15:00 LO.14:00 / 17:30〜22:30 LO.21:30",
+   "水": "11:30〜15:00 LO.14:00 / 17:30〜22:30 LO.21:30",
+   "火": "11:30〜15:00 LO.14:00 / 17:30〜22:30 LO.21:30",
+   "確認日": "2026-11-20",
+   "金": "11:30〜15:00 LO.14:00 / 17:30〜22:30 LO.21:30"
+  },
   "author": "tokyo_bishoku_restaurant",
   "geocode_confidence": "high",
   "caption_date": null
@@ -966,6 +1528,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DWJALVjgTBh/",
   "thumb": "DWJALVjgTBh.jpg",
+  "hours": {
+   "出典": "その他媒体",
+   "土": "18:00〜翌1:00",
+   "日": "18:00〜24:00",
+   "月": "定休日",
+   "木": "18:00〜翌1:00",
+   "水": "18:00〜翌1:00",
+   "火": "18:00〜翌1:00",
+   "確認日": "2026-11-20",
+   "金": "18:00〜翌1:00"
+  },
   "author": "poyo__log",
   "geocode_confidence": "high",
   "caption_date": null
@@ -982,6 +1555,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DVUxG4Qk_Zm/",
   "thumb": "DVUxG4Qk_Zm.jpg",
+  "hours": {
+   "出典": "Googleマップ",
+   "土": "12:00〜23:00",
+   "日": "12:00〜23:00",
+   "月": "17:00〜23:00",
+   "木": "17:00〜23:00",
+   "水": "17:00〜23:00",
+   "火": "17:00〜23:00",
+   "確認日": "2026-11-20",
+   "金": "17:00〜23:00"
+  },
   "author": "tokyo_dinner_miship",
   "geocode_confidence": "high",
   "caption_date": null
@@ -998,6 +1582,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DV5-_6Qk098/",
   "thumb": "DV5-_6Qk098.jpg",
+  "hours": {
+   "出典": "公式サイト",
+   "土": "11:00〜23:00 LO.22:00",
+   "日": "11:00〜23:00 LO.22:00",
+   "月": "11:30〜23:00 LO.22:00",
+   "木": "11:30〜23:00 LO.22:00",
+   "水": "11:30〜23:00 LO.22:00",
+   "火": "11:30〜23:00 LO.22:00",
+   "確認日": "2026-11-20",
+   "祝": "11:00〜23:00 LO.22:00",
+   "金": "11:30〜23:00 LO.22:00"
+  },
   "author": "kanagawa.lover",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1014,6 +1610,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DV06H0ikoN7/",
   "thumb": "DV06H0ikoN7.jpg",
+  "hours": {
+   "出典": "食べログ",
+   "土": "10:00〜22:00",
+   "日": "10:00〜22:00",
+   "月": "10:00〜22:00",
+   "木": "10:00〜22:00",
+   "水": "10:00〜22:00",
+   "火": "10:00〜22:00",
+   "確認日": "2026-11-20",
+   "金": "10:00〜22:00"
+  },
   "author": "shinjuku_foods",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1032,7 +1639,10 @@
   "thumb": "DVvTnoMEy-2.jpg",
   "author": "yoshio_sake",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認"
+  }
  },
  {
   "id": "DVxq7FUEpS_",
@@ -1046,6 +1656,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DVxq7FUEpS_/",
   "thumb": "DVxq7FUEpS_.jpg",
+  "hours": {
+   "出典": "食べログ",
+   "土": "11:00〜22:00 LO.21:30",
+   "日": "11:00〜22:00 LO.21:30",
+   "月": "11:00〜15:00 LO.14:30 / 16:00〜22:00 LO.21:30",
+   "木": "11:00〜15:00 LO.14:30 / 16:00〜22:00 LO.21:30",
+   "水": "11:00〜15:00 LO.14:30 / 16:00〜22:00 LO.21:30",
+   "火": "11:00〜15:00 LO.14:30 / 16:00〜22:00 LO.21:30",
+   "確認日": "2026-11-20",
+   "金": "11:00〜15:00 LO.14:30 / 16:00〜22:00 LO.21:30"
+  },
   "author": "shiso_tokyo",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1062,6 +1683,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DU0DuC5j2ba/",
   "thumb": "DU0DuC5j2ba.jpg",
+  "hours": {
+   "備考": "10月〜3月は平日の夜営業が16:30開始",
+   "出典": "ぐるなび",
+   "土": "16:00〜22:00 LO.21:00",
+   "日": "定休日",
+   "月": "11:30〜14:00 LO.13:30 / 17:00〜22:30 LO.21:30",
+   "木": "11:30〜14:00 LO.13:30 / 17:00〜22:30 LO.21:30",
+   "水": "11:30〜14:00 LO.13:30 / 17:00〜22:30 LO.21:30",
+   "火": "11:30〜14:00 LO.13:30 / 17:00〜22:30 LO.21:30",
+   "確認日": "2026-11-20",
+   "祝": "16:00〜22:00 LO.21:00",
+   "金": "11:30〜14:00 LO.13:30 / 17:00〜22:30 LO.21:30"
+  },
   "author": "tokyo_bishoku_restaurant",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1078,6 +1712,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DVGNFVYE96J/",
   "thumb": "DVGNFVYE96J.jpg",
+  "hours": {
+   "備考": "二部制・完全予約制",
+   "出典": "TableCheck",
+   "土": "18:00〜20:00 / 20:30〜22:30",
+   "日": "17:00〜19:30 / 19:30〜21:30",
+   "月": "18:00〜20:00 / 20:30〜22:30",
+   "木": "18:00〜20:00 / 20:30〜22:30",
+   "水": "18:00〜20:00 / 20:30〜22:30",
+   "火": "18:00〜20:00 / 20:30〜22:30",
+   "確認日": "2026-11-20",
+   "金": "18:00〜20:00 / 20:30〜22:30"
+  },
   "author": "manpuku_gourmet24",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1096,7 +1742,10 @@
   "thumb": "DU8Bi9aEgTH.jpg",
   "author": "akane0726",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認"
+  }
  },
  {
   "id": "DU0L0tHkjIx",
@@ -1110,6 +1759,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DU0L0tHkjIx/",
   "thumb": "DU0L0tHkjIx.jpg",
+  "hours": {
+   "備考": "不定休",
+   "出典": "ファンファン福岡",
+   "土": "11:30〜14:00 / 17:00〜20:15",
+   "日": "11:30〜14:00 / 17:00〜20:15",
+   "月": "11:30〜14:00 / 17:00〜20:15",
+   "木": "11:30〜14:00 / 17:00〜20:15",
+   "水": "11:30〜14:00 / 17:00〜20:15",
+   "火": "11:30〜14:00 / 17:00〜20:15",
+   "確認日": "2026-11-20",
+   "金": "11:30〜14:00 / 17:00〜20:15"
+  },
   "author": "chippachapus",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1126,6 +1787,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DUyJ_LOEiiZ/",
   "thumb": "DUyJ_LOEiiZ.jpg",
+  "hours": {
+   "備考": "みそ汁カフェ味苑は11:00〜15:00（LO.）。年中無休（1月1日〜3日を除く）",
+   "出典": "公式サイト",
+   "土": "10:00〜18:30",
+   "日": "10:00〜18:30",
+   "月": "10:00〜18:30",
+   "木": "10:00〜18:30",
+   "水": "10:00〜18:30",
+   "火": "10:00〜18:30",
+   "確認日": "2026-11-20",
+   "金": "10:00〜18:30"
+  },
   "author": "gensen_gurume",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1142,6 +1815,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DUseUsREySH/",
   "thumb": "DUseUsREySH.jpg",
+  "hours": {
+   "出典": "公式サイト",
+   "土": "9:00〜18:00",
+   "日": "9:00〜18:00",
+   "月": "9:00〜18:00",
+   "木": "9:00〜18:00",
+   "水": "9:00〜18:00",
+   "火": "9:00〜18:00",
+   "確認日": "2026-11-20",
+   "金": "9:00〜18:00"
+  },
   "author": "tokyo_dateconsulting",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1160,7 +1844,10 @@
   "thumb": "DUAfT7gE86w.jpg",
   "author": "tokyo_dinner_miship",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認"
+  }
  },
  {
   "id": "DT7X6RFgQoO",
@@ -1174,6 +1861,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DT7X6RFgQoO/",
   "thumb": "DT7X6RFgQoO.jpg",
+  "hours": {
+   "備考": "定休日はアトレ恵比寿に準ずる。Googleマップでは21:30閉店の表記あり",
+   "出典": "HAMONI",
+   "土": "7:00〜22:30",
+   "日": "7:00〜22:30",
+   "月": "7:00〜22:30",
+   "木": "7:00〜22:30",
+   "水": "7:00〜22:30",
+   "火": "7:00〜22:30",
+   "確認日": "2026-11-20",
+   "金": "7:00〜22:30"
+  },
   "author": "rinrin99999",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1190,6 +1889,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DTPnhbREjWJ/",
   "thumb": "DTPnhbREjWJ.jpg",
+  "hours": {
+   "出典": "公式サイト",
+   "土": "11:30〜15:00 LO.14:00 / 17:00〜23:00 LO.21:30",
+   "日": "11:30〜15:00 LO.14:00 / 17:00〜22:00 LO.21:00",
+   "月": "11:30〜15:00 LO.14:00 / 17:00〜23:00 LO.21:30",
+   "木": "11:30〜15:00 LO.14:00 / 17:00〜23:00 LO.21:30",
+   "水": "11:30〜15:00 LO.14:00 / 17:00〜23:00 LO.21:30",
+   "火": "11:30〜15:00 LO.14:00 / 17:00〜23:00 LO.21:30",
+   "確認日": "2026-11-20",
+   "祝": "11:30〜15:00 LO.14:00 / 17:00〜22:00 LO.21:00",
+   "金": "11:30〜15:00 LO.14:00 / 17:00〜23:00 LO.21:30"
+  },
   "author": "hamoni_jp",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1206,6 +1917,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DQ1CKC0EnQJ/",
   "thumb": "DQ1CKC0EnQJ.jpg",
+  "hours": {
+   "備考": "昼はLO.14:50。夜の営業時間は日により変更あり（公式Xで案内）",
+   "出典": "Google",
+   "土": "11:30〜15:00 / 18:00〜22:00",
+   "日": "11:30〜15:00 / 18:00〜21:00",
+   "月": "11:30〜15:00 / 18:00〜22:00",
+   "木": "11:30〜15:00 / 18:00〜22:00",
+   "水": "11:30〜15:00 / 18:00〜22:00",
+   "火": "11:30〜15:00 / 18:00〜22:00",
+   "確認日": "2026-11-20",
+   "金": "11:30〜15:00 / 18:00〜22:00"
+  },
   "author": "harapeko_jpn",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1222,6 +1945,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DTFTzRSExwg/",
   "thumb": "DTFTzRSExwg.jpg",
+  "hours": {
+   "出典": "食べログ",
+   "土": "11:00〜17:00 LO.16:30",
+   "日": "定休日",
+   "月": "11:00〜15:30 LO.15:00",
+   "木": "11:00〜17:00 LO.16:30",
+   "水": "11:00〜17:00 LO.16:30",
+   "火": "11:00〜17:00 LO.16:30",
+   "確認日": "2026-11-20",
+   "祝": "定休日",
+   "金": "11:00〜17:00 LO.16:30"
+  },
   "author": "_food510",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1240,7 +1975,10 @@
   "thumb": "DHdM3W-Tc_0.jpg",
   "author": "agamogu",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認"
+  }
  },
  {
   "id": "DQL10KtEmkM",
@@ -1254,6 +1992,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DQL10KtEmkM/",
   "thumb": "DQL10KtEmkM.jpg",
+  "hours": {
+   "備考": "月曜が祝日の場合は開館し、翌平日が休館。入館無料",
+   "出典": "千代田区観光協会",
+   "土": "11:00〜20:00",
+   "日": "11:00〜18:00",
+   "月": "定休日",
+   "木": "11:00〜18:00",
+   "水": "11:00〜18:00",
+   "火": "11:00〜18:00",
+   "確認日": "2026-11-20",
+   "祝": "11:00〜18:00",
+   "金": "11:00〜20:00"
+  },
   "author": "ichizo_travel",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1270,6 +2021,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DRZp8TlkrET/",
   "thumb": "DRZp8TlkrET.jpg",
+  "hours": {
+   "備考": "最終入館21:00。利用は2時間30分制",
+   "出典": "PR TIMES",
+   "土": "10:00〜22:00",
+   "日": "10:00〜22:00",
+   "月": "10:00〜22:00",
+   "木": "10:00〜22:00",
+   "水": "10:00〜22:00",
+   "火": "10:00〜22:00",
+   "確認日": "2026-11-20",
+   "金": "10:00〜22:00"
+  },
   "author": "spa_works.co",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1286,6 +2049,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DRRVIVWiUBe/",
   "thumb": "DRRVIVWiUBe.jpg",
+  "hours": {
+   "備考": "フロア・店舗により異なる場合あり",
+   "出典": "公式サイト",
+   "土": "10:00〜20:00",
+   "日": "10:00〜20:00",
+   "月": "10:00〜20:00",
+   "木": "10:00〜20:00",
+   "水": "10:00〜20:00",
+   "火": "10:00〜20:00",
+   "確認日": "2026-11-20",
+   "金": "10:00〜20:00"
+  },
   "author": "rahi_odekake",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1302,6 +2077,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DP_XMoWkufd/",
   "thumb": "DP_XMoWkufd.jpg",
+  "hours": {
+   "出典": "Google",
+   "土": "10:00〜翌4:00",
+   "日": "10:00〜翌4:00",
+   "月": "10:00〜翌4:00",
+   "木": "10:00〜翌4:00",
+   "水": "10:00〜翌4:00",
+   "火": "10:00〜翌4:00",
+   "確認日": "2026-11-20",
+   "金": "10:00〜翌4:00"
+  },
   "author": "araretan_24",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1318,6 +2104,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DQjTvwqkWqq/",
   "thumb": "DQjTvwqkWqq.jpg",
+  "hours": {
+   "備考": "最終入場18:00。営業時間は季節により変動し、公式HPで週ごとに告知。1月1日は休業",
+   "出典": "魚速報",
+   "土": "9:00〜19:00",
+   "日": "9:00〜19:00",
+   "月": "11:00〜19:00",
+   "木": "11:00〜19:00",
+   "水": "11:00〜19:00",
+   "火": "11:00〜19:00",
+   "確認日": "2026-11-20",
+   "祝": "9:00〜19:00",
+   "金": "11:00〜19:00"
+  },
   "author": "ayatabi.log",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1334,6 +2133,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DOvQoSBEfw4/",
   "thumb": "DOvQoSBEfw4.jpg",
+  "hours": {
+   "備考": "売り切れ次第終了",
+   "出典": "NAVITIME",
+   "土": "11:00〜14:30 / 17:00〜21:00",
+   "日": "11:00〜14:30 / 17:00〜21:00",
+   "月": "11:00〜14:30 / 17:00〜21:00",
+   "木": "定休日",
+   "水": "11:00〜14:30 / 17:00〜21:00",
+   "火": "11:00〜14:30 / 17:00〜21:00",
+   "確認日": "2026-11-20",
+   "金": "11:00〜14:30 / 17:00〜21:00"
+  },
   "author": "1000yen_gurume_",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1350,6 +2161,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DOvQoSBEfw4/",
   "thumb": "DOvQoSBEfw4.jpg",
+  "hours": {
+   "備考": "営業時間は変動あり。公式X（@no11ramen）で当日の案内を確認推奨",
+   "出典": "NAVITIME",
+   "土": "11:00〜15:00 / 17:30〜22:00",
+   "日": "11:00〜16:00",
+   "月": "11:00〜15:00 / 17:30〜22:00",
+   "木": "11:00〜15:00 / 17:30〜22:00",
+   "水": "11:00〜15:00 / 17:30〜22:00",
+   "火": "17:00〜22:00",
+   "確認日": "2026-11-20",
+   "金": "11:00〜15:00 / 17:30〜22:00"
+  },
   "author": "1000yen_gurume_",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1366,6 +2189,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DOvQoSBEfw4/",
   "thumb": "DOvQoSBEfw4.jpg",
+  "hours": {
+   "備考": "第2・第4・第5日曜日は定休日",
+   "出典": "その他",
+   "土": "11:00〜14:10 / 17:30〜20:30",
+   "日": "11:00〜15:00",
+   "月": "定休日",
+   "木": "11:00〜14:10 / 17:30〜20:30",
+   "水": "11:00〜14:10 / 17:30〜20:30",
+   "火": "11:00〜14:10 / 17:30〜20:30",
+   "確認日": "2026-11-20",
+   "金": "11:00〜14:10 / 17:30〜20:30"
+  },
   "author": "1000yen_gurume_",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1382,6 +2217,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DPta863E7A_/",
   "thumb": "DPta863E7A_.jpg",
+  "hours": {
+   "出典": "Google",
+   "土": "8:00〜15:00",
+   "日": "8:00〜15:00",
+   "月": "8:00〜15:00",
+   "木": "8:00〜15:00",
+   "水": "定休日",
+   "火": "8:00〜15:00",
+   "確認日": "2026-11-20",
+   "金": "8:00〜15:00"
+  },
   "author": "sakuraisama_hungry",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1398,6 +2244,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DOQL8K2D3-i/",
   "thumb": "DOQL8K2D3-i.jpg",
+  "hours": {
+   "出典": "Tripadvisor",
+   "土": "11:00〜21:00",
+   "日": "11:00〜21:00",
+   "月": "11:00〜21:00",
+   "木": "11:00〜21:00",
+   "水": "11:00〜21:00",
+   "火": "11:00〜21:00",
+   "確認日": "2026-11-20",
+   "金": "11:00〜21:00"
+  },
   "author": "koji_gourmate",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1414,6 +2271,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DQZm204kgQz/",
   "thumb": "DQZm204kgQz.jpg",
+  "hours": {
+   "備考": "最終入店21:30",
+   "出典": "公式サイト",
+   "土": "11:00〜23:30",
+   "日": "11:00〜23:30",
+   "月": "11:00〜23:15",
+   "木": "11:00〜23:15",
+   "水": "11:00〜23:15",
+   "火": "11:00〜23:15",
+   "確認日": "2026-11-20",
+   "祝": "11:00〜23:30",
+   "金": "11:00〜23:15"
+  },
   "author": "takapi2742",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1430,6 +2300,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DO-71yrkqBv/",
   "thumb": "DO-71yrkqBv.jpg",
+  "hours": {
+   "備考": "ドリンクLO.22:30",
+   "出典": "NAVITIME",
+   "土": "11:30〜23:00 LO.22:00",
+   "日": "11:30〜23:00 LO.22:00",
+   "月": "11:30〜23:00 LO.22:00",
+   "木": "11:30〜23:00 LO.22:00",
+   "水": "11:30〜23:00 LO.22:00",
+   "火": "11:30〜23:00 LO.22:00",
+   "確認日": "2026-11-20",
+   "金": "11:30〜23:00 LO.22:00"
+  },
   "author": "akane0726",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1446,6 +2328,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DQLzuVtEdiJ/",
   "thumb": "DQLzuVtEdiJ.jpg",
+  "hours": {
+   "備考": "最終入店21:30",
+   "出典": "公式サイト",
+   "土": "10:00〜23:15",
+   "日": "10:00〜23:15",
+   "月": "11:00〜23:15",
+   "木": "11:00〜23:15",
+   "水": "11:00〜23:15",
+   "火": "11:00〜23:15",
+   "確認日": "2026-11-20",
+   "祝": "10:00〜23:15",
+   "金": "11:00〜23:15"
+  },
   "author": "kanizanmai_official",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1462,6 +2357,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DQBpiqQCeti/",
   "thumb": "DQBpiqQCeti.jpg",
+  "hours": {
+   "備考": "定休日なし。現金のみ",
+   "出典": "その他",
+   "土": "11:00〜22:00",
+   "日": "11:00〜22:00",
+   "月": "11:00〜22:00",
+   "木": "11:00〜22:00",
+   "水": "11:00〜22:00",
+   "火": "11:00〜22:00",
+   "確認日": "2026-11-20",
+   "金": "11:00〜22:00"
+  },
   "author": "hiragana_no_gana",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1478,6 +2385,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DP1UNf_EyaG/",
   "thumb": "DP1UNf_EyaG.jpg",
+  "hours": {
+   "備考": "不定休（施設に準ずる）",
+   "出典": "食べログ",
+   "土": "11:00〜23:00 LO.22:00",
+   "日": "11:00〜23:00 LO.22:00",
+   "月": "11:00〜23:00 LO.22:00",
+   "木": "11:00〜23:00 LO.22:00",
+   "水": "11:00〜23:00 LO.22:00",
+   "火": "11:00〜23:00 LO.22:00",
+   "確認日": "2026-11-20",
+   "金": "11:00〜23:00 LO.22:00"
+  },
   "author": "kandou_gourmet_",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1494,6 +2413,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DNVPBrNSWda/",
   "thumb": "DNVPBrNSWda.jpg",
+  "hours": {
+   "備考": "祝前日は金・土と同じ営業時間",
+   "出典": "食べログ",
+   "土": "12:00〜15:30 LO.15:00 / 17:30〜23:00 LO.22:00",
+   "日": "12:00〜15:30 LO.15:00 / 17:30〜22:30",
+   "月": "12:00〜15:30 LO.15:00 / 17:30〜22:30",
+   "木": "12:00〜15:30 LO.15:00 / 17:30〜22:30",
+   "水": "12:00〜15:30 LO.15:00 / 17:30〜22:30",
+   "火": "12:00〜15:30 LO.15:00 / 17:30〜22:30",
+   "確認日": "2026-11-20",
+   "金": "12:00〜15:30 LO.15:00 / 17:30〜23:00 LO.22:00"
+  },
   "author": "araretan_24",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1510,6 +2441,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DPdj4a1gY8R/",
   "thumb": "DPdj4a1gY8R.jpg",
+  "hours": {
+   "出典": "公式発表（PR TIMES）",
+   "土": "11:00〜15:00 LO.14:30 / 18:00〜22:00 LO.21:30",
+   "日": "定休日",
+   "月": "11:00〜15:00 LO.14:30 / 18:00〜22:00 LO.21:30",
+   "木": "11:00〜15:00 LO.14:30 / 18:00〜22:00 LO.21:30",
+   "水": "11:00〜15:00 LO.14:30 / 18:00〜22:00 LO.21:30",
+   "火": "11:00〜15:00 LO.14:30 / 18:00〜22:00 LO.21:30",
+   "確認日": "2026-11-20",
+   "金": "11:00〜15:00 LO.14:30 / 18:00〜22:00 LO.21:30"
+  },
   "author": "tokyo._gourmet",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1526,6 +2468,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DPdmq8mE90v/",
   "thumb": "DPdmq8mE90v.jpg",
+  "hours": {
+   "出典": "食べログ",
+   "土": "13:00〜翌0:00",
+   "日": "13:00〜翌0:00",
+   "月": "16:00〜翌0:00",
+   "木": "16:00〜翌0:00",
+   "水": "16:00〜翌0:00",
+   "火": "16:00〜翌0:00",
+   "確認日": "2026-11-20",
+   "祝": "13:00〜翌0:00",
+   "金": "16:00〜翌0:00"
+  },
   "author": "uniko_gurume",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1542,6 +2496,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DM5CGR3TtSF/",
   "thumb": "DM5CGR3TtSF.jpg",
+  "hours": {
+   "出典": "ホットペッパーグルメ",
+   "土": "11:30〜15:00 LO.14:30 / 17:00〜21:30 LO.21:00",
+   "日": "11:30〜15:00 LO.14:30 / 17:00〜21:30 LO.21:00",
+   "月": "11:15〜15:00 LO.14:30 / 17:00〜22:30 LO.22:00",
+   "木": "11:15〜15:00 LO.14:30 / 17:00〜22:30 LO.22:00",
+   "水": "11:15〜15:00 LO.14:30 / 17:00〜22:30 LO.22:00",
+   "火": "11:15〜15:00 LO.14:30 / 17:00〜22:30 LO.22:00",
+   "確認日": "2026-11-20",
+   "祝": "11:30〜15:00 LO.14:30 / 17:00〜21:30 LO.21:00",
+   "金": "11:15〜15:00 LO.14:30 / 17:00〜22:30 LO.22:00"
+  },
   "author": "tokyo_dinner_miship",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1558,6 +2524,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DNiIZuByU_L/",
   "thumb": "DNiIZuByU_L.jpg",
+  "hours": {
+   "出典": "公式発表（PR TIMES）",
+   "土": "11:00〜翌5:00 LO.翌4:30",
+   "日": "11:00〜翌5:00 LO.翌4:30",
+   "月": "11:00〜翌5:00 LO.翌4:30",
+   "木": "11:00〜翌5:00 LO.翌4:30",
+   "水": "11:00〜翌5:00 LO.翌4:30",
+   "火": "11:00〜翌5:00 LO.翌4:30",
+   "確認日": "2026-11-20",
+   "金": "11:00〜翌5:00 LO.翌4:30"
+  },
   "author": "ramen_butakin",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1574,6 +2551,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DN5JukxkmOK/",
   "thumb": "DN5JukxkmOK.jpg",
+  "hours": {
+   "出典": "公式サイト",
+   "土": "11:00〜15:00 / 17:00〜21:00",
+   "日": "11:00〜15:00 / 17:00〜21:00",
+   "月": "11:00〜15:00 / 17:00〜21:00",
+   "木": "11:00〜15:00 / 17:00〜21:00",
+   "水": "11:00〜15:00 / 17:00〜21:00",
+   "火": "11:00〜15:00 / 17:00〜21:00",
+   "確認日": "2026-11-20",
+   "金": "11:00〜15:00 / 17:00〜21:00"
+  },
   "author": "araretan_24",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1590,6 +2578,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DKWcIL6zLAc/",
   "thumb": "DKWcIL6zLAc.jpg",
+  "hours": {
+   "出典": "Googleマップ",
+   "土": "11:30〜15:00",
+   "日": "11:30〜15:00",
+   "月": "11:30〜15:30 / 18:00〜21:00",
+   "木": "11:30〜15:30 / 18:00〜21:00",
+   "水": "11:30〜15:30 / 18:00〜21:00",
+   "火": "11:30〜15:30 / 18:00〜21:00",
+   "確認日": "2026-11-20",
+   "金": "11:30〜15:30 / 18:00〜21:00"
+  },
   "author": "tokyo_dinner_miship",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1608,7 +2607,10 @@
   "thumb": "DKWcIL6zLAc.jpg",
   "author": "tokyo_dinner_miship",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認"
+  }
  },
  {
   "id": "DKWcIL6zLAc-3",
@@ -1622,6 +2624,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DKWcIL6zLAc/",
   "thumb": "DKWcIL6zLAc.jpg",
+  "hours": {
+   "出典": "食べログ",
+   "土": "11:30〜21:45",
+   "日": "11:30〜21:45",
+   "月": "11:30〜22:45",
+   "木": "11:30〜22:45",
+   "水": "11:30〜22:45",
+   "火": "11:30〜22:45",
+   "確認日": "2026-11-20",
+   "祝": "11:30〜21:45",
+   "金": "11:30〜22:45"
+  },
   "author": "tokyo_dinner_miship",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1638,6 +2652,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DO2yMCOk2Ux/",
   "thumb": "DO2yMCOk2Ux.jpg",
+  "hours": {
+   "出典": "ホットペッパーグルメ",
+   "土": "17:00〜23:00 LO.22:30",
+   "日": "17:00〜23:00 LO.22:30",
+   "月": "17:00〜23:00 LO.22:30",
+   "木": "17:00〜23:00 LO.22:30",
+   "水": "17:00〜23:00 LO.22:30",
+   "火": "17:00〜23:00 LO.22:30",
+   "確認日": "2026-11-20",
+   "祝": "17:00〜23:00 LO.22:30",
+   "金": "17:00〜23:00 LO.22:30"
+  },
   "author": "tokyo_dinner_miship",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1654,6 +2680,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DOLClvEEan-/",
   "thumb": "DOLClvEEan-.jpg",
+  "hours": {
+   "備考": "年中無休（元旦のみ休み）",
+   "出典": "tobacco.tokyo",
+   "土": "15:00〜翌5:00",
+   "日": "15:00〜23:30",
+   "月": "15:00〜翌3:00",
+   "木": "15:00〜翌3:00",
+   "水": "15:00〜翌3:00",
+   "火": "15:00〜翌3:00",
+   "確認日": "2026-11-20",
+   "祝": "15:00〜23:30",
+   "金": "15:00〜翌5:00"
+  },
   "author": "mogsuke_tokyo",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1670,6 +2709,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DNI1VBSyffb/",
   "thumb": "DNI1VBSyffb.jpg",
+  "hours": {
+   "備考": "仕入れ状況により休みの場合あり／16:00〜17:00は焼肉席のみの案内",
+   "出典": "食べログ",
+   "土": "16:00〜翌0:00 LO.23:30",
+   "日": "16:00〜翌0:00 LO.23:30",
+   "月": "16:00〜翌0:00 LO.23:30",
+   "木": "16:00〜翌0:00 LO.23:30",
+   "水": "16:00〜翌0:00 LO.23:30",
+   "火": "16:00〜翌0:00 LO.23:30",
+   "確認日": "2026-11-20",
+   "金": "16:00〜翌0:00 LO.23:30"
+  },
   "author": "gensen_gurume",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1686,6 +2737,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DMgmog9BYup/",
   "thumb": "DMgmog9BYup.jpg",
+  "hours": {
+   "出典": "食べログ",
+   "土": "17:00〜翌0:00 LO.23:00",
+   "日": "17:00〜22:30 LO.22:00",
+   "月": "定休日",
+   "木": "17:00〜22:30 LO.22:00",
+   "水": "17:00〜22:30 LO.22:00",
+   "火": "17:00〜22:30 LO.22:00",
+   "確認日": "2026-11-20",
+   "祝": "17:00〜22:30 LO.22:00",
+   "金": "17:00〜翌0:00 LO.23:00"
+  },
   "author": "tokyo.spectre",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1702,6 +2765,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DIy2akUTaNo/",
   "thumb": "DIy2akUTaNo.jpg",
+  "hours": {
+   "備考": "不定休（施設の休館日に準ずる）",
+   "出典": "東急プラザ渋谷 公式サイト",
+   "土": "11:00〜23:00",
+   "日": "11:00〜23:00",
+   "月": "11:00〜15:00 LO.14:30 / 17:00〜23:00 LO.22:00",
+   "木": "11:00〜15:00 LO.14:30 / 17:00〜23:00 LO.22:00",
+   "水": "11:00〜15:00 LO.14:30 / 17:00〜23:00 LO.22:00",
+   "火": "11:00〜15:00 LO.14:30 / 17:00〜23:00 LO.22:00",
+   "確認日": "2026-11-20",
+   "祝": "11:00〜23:00",
+   "金": "11:00〜15:00 LO.14:30 / 17:00〜23:00 LO.22:00"
+  },
   "author": "moto_pt_98",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1718,6 +2794,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DJjAIPnT2ih/",
   "thumb": "DJjAIPnT2ih.jpg",
+  "hours": {
+   "備考": "不定休あり",
+   "出典": "マピオン",
+   "土": "11:30〜15:00",
+   "日": "定休日",
+   "月": "17:00〜22:00",
+   "木": "17:00〜22:00",
+   "水": "17:00〜22:00",
+   "火": "17:00〜22:00",
+   "確認日": "2026-11-20",
+   "祝": "11:30〜15:00",
+   "金": "17:00〜22:00"
+  },
   "author": "umaimise_gyuchan",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1736,7 +2825,10 @@
   "thumb": "DLMxSwRTQP2.jpg",
   "author": "yaokiya_78",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認"
+  }
  },
  {
   "id": "DJ_gEPmzACh",
@@ -1750,6 +2842,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DJ_gEPmzACh/",
   "thumb": "DJ_gEPmzACh.jpg",
+  "hours": {
+   "備考": "第3火曜は定休日",
+   "出典": "男の隠れ家デジタル",
+   "土": "11:00〜17:00 LO.16:30",
+   "日": "11:00〜17:00 LO.16:30",
+   "月": "11:00〜15:00 LO.14:30",
+   "木": "11:00〜15:00 LO.14:30",
+   "水": "定休日",
+   "火": "11:00〜15:00 LO.14:30 / 18:00〜20:00 LO.19:30",
+   "確認日": "2026-11-20",
+   "祝": "11:00〜17:00 LO.16:30",
+   "金": "11:00〜15:00 LO.14:30"
+  },
   "author": "rinrin99999",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1766,6 +2871,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DKWx-MgT5qp/",
   "thumb": "DKWx-MgT5qp.jpg",
+  "hours": {
+   "出典": "公式サイト",
+   "土": "11:00〜15:00 / 17:00〜21:00",
+   "日": "11:00〜15:00 / 17:00〜21:00",
+   "月": "11:00〜15:00 / 17:00〜21:00",
+   "木": "11:00〜15:00 / 17:00〜21:00",
+   "水": "11:00〜15:00 / 17:00〜21:00",
+   "火": "11:00〜15:00 / 17:00〜21:00",
+   "確認日": "2026-11-20",
+   "金": "11:00〜15:00 / 17:00〜21:00"
+  },
   "author": "connect_tokyo_",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1782,6 +2898,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DKBxYSUzbaN/",
   "thumb": "DKBxYSUzbaN.jpg",
+  "hours": {
+   "備考": "不定休あり／休日の翌日はランチ休業",
+   "出典": "公式サイト",
+   "土": "12:00〜14:30 LO.13:30 / 17:00〜23:00 LO.22:30",
+   "日": "定休日",
+   "月": "12:00〜14:30 LO.13:30 / 17:00〜23:30 LO.23:00",
+   "木": "12:00〜14:30 LO.13:30 / 17:00〜23:30 LO.23:00",
+   "水": "12:00〜14:30 LO.13:30 / 17:00〜23:30 LO.23:00",
+   "火": "12:00〜14:30 LO.13:30 / 17:00〜23:30 LO.23:00",
+   "確認日": "2026-11-20",
+   "祝": "定休日",
+   "金": "12:00〜14:30 LO.13:30 / 17:00〜23:30 LO.23:00"
+  },
   "author": "yaokiya_78",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1798,6 +2927,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DHDdhSxy7hY/",
   "thumb": "DHDdhSxy7hY.jpg",
+  "hours": {
+   "備考": "年中無休",
+   "出典": "公式サイト",
+   "土": "10:00〜22:00 LO.21:00",
+   "日": "10:00〜22:00 LO.21:00",
+   "月": "10:00〜22:00 LO.21:00",
+   "木": "10:00〜22:00 LO.21:00",
+   "水": "10:00〜22:00 LO.21:00",
+   "火": "10:00〜22:00 LO.21:00",
+   "確認日": "2026-11-20",
+   "金": "10:00〜22:00 LO.21:00"
+  },
   "author": "gourmet_uni_japan",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1814,6 +2955,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DJ1FhzapyFV/",
   "thumb": "DJ1FhzapyFV.jpg",
+  "hours": {
+   "備考": "不定休",
+   "出典": "公式Instagram",
+   "土": "12:00〜21:00",
+   "日": "12:00〜21:00",
+   "月": "13:00〜21:00",
+   "木": "13:00〜21:00",
+   "水": "12:00〜21:00",
+   "火": "13:00〜21:00",
+   "確認日": "2026-11-20",
+   "祝": "12:00〜21:00",
+   "金": "13:00〜21:00"
+  },
   "author": "yua_select",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1830,6 +2984,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DJ1UwWnS2Gh/",
   "thumb": "DJ1UwWnS2Gh.jpg",
+  "hours": {
+   "備考": "定休日なし",
+   "出典": "ぐるなび",
+   "土": "17:00〜翌3:00 LO.2:00",
+   "日": "17:00〜翌0:00 LO.23:00",
+   "月": "17:00〜翌3:00 LO.2:00",
+   "木": "17:00〜翌3:00 LO.2:00",
+   "水": "17:00〜翌3:00 LO.2:00",
+   "火": "17:00〜翌3:00 LO.2:00",
+   "確認日": "2026-11-20",
+   "祝": "17:00〜翌0:00 LO.23:00",
+   "金": "17:00〜翌3:00 LO.2:00"
+  },
   "author": "gensen_gurume",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1846,6 +3013,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DJ6vrgBypvk/",
   "thumb": "DJ6vrgBypvk.jpg",
+  "hours": {
+   "出典": "hamoni",
+   "土": "15:00〜翌0:00",
+   "日": "15:00〜23:30",
+   "月": "16:30〜翌0:00",
+   "木": "16:30〜翌0:00",
+   "水": "16:30〜翌0:00",
+   "火": "16:30〜翌0:00",
+   "確認日": "2026-11-20",
+   "金": "16:30〜翌0:00"
+  },
   "author": "gensen_gurume",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1864,7 +3042,10 @@
   "thumb": "DI3a80fySkV.jpg",
   "author": "tochigi__gurume",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "宿泊施設（チェックイン15:00／チェックアウト11:00）"
+  }
  },
  {
   "id": "DIyKkXLTqMW",
@@ -1878,6 +3059,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DIyKkXLTqMW/",
   "thumb": "DIyKkXLTqMW.jpg",
+  "hours": {
+   "備考": "日曜は夜営業なし",
+   "出典": "食べログ",
+   "土": "11:00〜15:00 LO.15:00 / 17:00〜21:00 LO.21:00",
+   "日": "11:00〜15:00 LO.15:00",
+   "月": "11:00〜15:00 LO.15:00 / 17:00〜21:00 LO.21:00",
+   "木": "11:00〜15:00 LO.15:00 / 17:00〜21:00 LO.21:00",
+   "水": "11:00〜15:00 LO.15:00 / 17:00〜21:00 LO.21:00",
+   "火": "11:00〜15:00 LO.15:00 / 17:00〜21:00 LO.21:00",
+   "確認日": "2026-11-20",
+   "祝": "11:00〜15:00 LO.15:00 / 17:00〜21:00 LO.21:00",
+   "金": "11:00〜15:00 LO.15:00 / 17:00〜21:00 LO.21:00"
+  },
   "author": "manpuku_gourmet24",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1896,7 +3090,10 @@
   "thumb": "DItBfmpzzhN.jpg",
   "author": "mogsuke_tokyo",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認"
+  }
  },
  {
   "id": "DItBfmpzzhN-2",
@@ -1912,7 +3109,10 @@
   "thumb": "DItBfmpzzhN.jpg",
   "author": "mogsuke_tokyo",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認"
+  }
  },
  {
   "id": "DIgF55FS6dQ",
@@ -1926,6 +3126,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DIgF55FS6dQ/",
   "thumb": "DIgF55FS6dQ.jpg",
+  "hours": {
+   "出典": "hamoni",
+   "土": "17:00〜23:00",
+   "日": "17:00〜23:00",
+   "月": "17:00〜23:00",
+   "木": "17:00〜23:00",
+   "水": "17:00〜23:00",
+   "火": "17:00〜23:00",
+   "確認日": "2026-11-20",
+   "金": "17:00〜23:00"
+  },
   "author": "gensen_gurume",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1942,6 +3153,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DIoBdnVTaCE/",
   "thumb": "DIoBdnVTaCE.jpg",
+  "hours": {
+   "備考": "定休日なし（施設の休館日に準ずる）",
+   "出典": "公式発表（DDグループ）",
+   "土": "11:30〜14:30 / 17:00〜23:00 LO.22:00",
+   "日": "11:30〜14:30 / 17:00〜23:00 LO.22:00",
+   "月": "11:30〜14:30 / 17:00〜23:00 LO.22:00",
+   "木": "11:30〜14:30 / 17:00〜23:00 LO.22:00",
+   "水": "11:30〜14:30 / 17:00〜23:00 LO.22:00",
+   "火": "11:30〜14:30 / 17:00〜23:00 LO.22:00",
+   "確認日": "2026-11-20",
+   "金": "11:30〜14:30 / 17:00〜23:00 LO.22:00"
+  },
   "author": "yu_i_nsta",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1958,6 +3181,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DEml5xzzUab/",
   "thumb": "DEml5xzzUab.jpg",
+  "hours": {
+   "出典": "ホットペッパーグルメ",
+   "土": "17:00〜翌0:00 LO.23:00",
+   "日": "定休日",
+   "月": "17:00〜翌0:00 LO.23:00",
+   "木": "17:00〜翌0:00 LO.23:00",
+   "水": "17:00〜翌0:00 LO.23:00",
+   "火": "17:00〜翌0:00 LO.23:00",
+   "確認日": "2026-11-20",
+   "祝": "定休日",
+   "金": "17:00〜翌0:00 LO.23:00"
+  },
   "author": "chill_gourmet_sauna",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1974,6 +3209,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DIQhK35ugM1/",
   "thumb": "DIQhK35ugM1.jpg",
+  "hours": {
+   "備考": "不定休（公式Instagramで告知）",
+   "出典": "KKday",
+   "土": "17:00〜23:30",
+   "日": "17:00〜23:30",
+   "月": "17:30〜23:30",
+   "木": "17:30〜23:30",
+   "水": "17:30〜23:30",
+   "火": "17:30〜23:30",
+   "確認日": "2026-11-20",
+   "祝": "17:00〜23:30",
+   "金": "17:30〜23:30"
+  },
   "author": "yaokiya_78",
   "geocode_confidence": "high",
   "caption_date": null
@@ -1990,6 +3238,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DBnwnqcMVh0/",
   "thumb": "DBnwnqcMVh0.jpg",
+  "hours": {
+   "出典": "NAVITIME",
+   "土": "16:00〜23:00 LO.22:00",
+   "日": "定休日",
+   "月": "17:00〜23:00 LO.22:00",
+   "木": "17:00〜23:00 LO.22:00",
+   "水": "17:00〜23:00 LO.22:00",
+   "火": "17:00〜23:00 LO.22:00",
+   "確認日": "2026-11-20",
+   "祝": "定休日",
+   "金": "17:00〜23:00 LO.22:00"
+  },
   "author": "p.pote__",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2006,6 +3266,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DBtEJ9XAB0-/",
   "thumb": "DBtEJ9XAB0-.jpg",
+  "hours": {
+   "出典": "Googleマップ",
+   "土": "15:00〜24:00",
+   "日": "15:00〜24:00",
+   "月": "17:00〜24:00",
+   "木": "17:00〜24:00",
+   "水": "17:00〜24:00",
+   "火": "17:00〜24:00",
+   "確認日": "2026-11-20",
+   "金": "17:00〜24:00"
+  },
   "author": "moto_pt_98",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2022,6 +3293,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DIBhpwnTKVY/",
   "thumb": "DIBhpwnTKVY.jpg",
+  "hours": {
+   "備考": "ドリンクLO.22:30／12月31日〜1月2日は休業",
+   "出典": "cocotte",
+   "土": "16:00〜23:00 LO.22:00",
+   "日": "16:00〜23:00 LO.22:00",
+   "月": "16:00〜23:00 LO.22:00",
+   "木": "16:00〜23:00 LO.22:00",
+   "水": "16:00〜23:00 LO.22:00",
+   "火": "16:00〜23:00 LO.22:00",
+   "確認日": "2026-11-20",
+   "金": "16:00〜23:00 LO.22:00"
+  },
   "author": "connect_tokyo_",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2038,6 +3321,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DIMHQGxyk7j/",
   "thumb": "DIMHQGxyk7j.jpg",
+  "hours": {
+   "備考": "月曜が祝日の場合は翌火曜が定休日",
+   "出典": "公式サイト",
+   "土": "12:00〜15:30 LO.13:30 / 18:00〜22:30 LO.20:00",
+   "日": "12:00〜15:30 LO.13:30 / 18:00〜22:30 LO.20:00",
+   "月": "定休日",
+   "木": "12:00〜15:30 LO.13:30 / 18:00〜22:30 LO.20:00",
+   "水": "12:00〜15:30 LO.13:30 / 18:00〜22:30 LO.20:00",
+   "火": "12:00〜15:30 LO.13:30 / 18:00〜22:30 LO.20:00",
+   "確認日": "2026-11-20",
+   "祝": "12:00〜15:30 LO.13:30 / 18:00〜22:30 LO.20:00",
+   "金": "12:00〜15:30 LO.13:30 / 18:00〜22:30 LO.20:00"
+  },
   "author": "gensen_gurume",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2054,6 +3350,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DIGR0omTsgy/",
   "thumb": "DIGR0omTsgy.jpg",
+  "hours": {
+   "出典": "Googleマップ",
+   "土": "17:00〜24:00",
+   "日": "17:00〜24:00",
+   "月": "17:00〜24:00",
+   "木": "17:00〜24:00",
+   "水": "17:00〜24:00",
+   "火": "17:00〜24:00",
+   "確認日": "2026-11-20",
+   "金": "17:00〜24:00"
+  },
   "author": "tomopiii____",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2070,6 +3377,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DH0WjLsTwTp/",
   "thumb": "DH0WjLsTwTp.jpg",
+  "hours": {
+   "備考": "祝前日は15:00〜翌3:00（LO.翌2:30）／年中無休",
+   "出典": "ホットペッパーグルメ",
+   "土": "12:00〜翌3:00 LO.翌2:30",
+   "日": "12:00〜翌2:00 LO.翌1:30",
+   "月": "15:00〜翌2:00 LO.翌1:30",
+   "木": "15:00〜翌2:00 LO.翌1:30",
+   "水": "15:00〜翌2:00 LO.翌1:30",
+   "火": "15:00〜翌2:00 LO.翌1:30",
+   "確認日": "2026-11-20",
+   "祝": "12:00〜翌2:00 LO.翌1:30",
+   "金": "15:00〜翌3:00 LO.翌2:30"
+  },
   "author": "tokyo._gourmet",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2086,6 +3406,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/p/DHBGOzFhoxN/",
   "thumb": "DHBGOzFhoxN.jpg",
+  "hours": {
+   "備考": "火曜日のみ24時閉店（韓国料理ポチャ クァンジャン市場として営業）",
+   "出典": "食べログ",
+   "土": "24時間営業",
+   "日": "24時間営業",
+   "月": "24時間営業",
+   "木": "24時間営業",
+   "水": "24時間営業",
+   "火": "24時間営業",
+   "確認日": "2026-11-20",
+   "祝": "24時間営業",
+   "金": "24時間営業"
+  },
   "author": "minsu_gourmet",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2102,6 +3435,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DGamFF_zt-Y/",
   "thumb": "DGamFF_zt-Y.jpg",
+  "hours": {
+   "備考": "不定休",
+   "出典": "公式Instagram",
+   "土": "11:30〜15:00 LO.14:30 / 17:00〜21:00 LO.20:30",
+   "日": "11:30〜15:00 LO.14:30 / 17:00〜21:00 LO.20:30",
+   "月": "11:30〜15:00 LO.14:30 / 17:00〜21:00 LO.20:30",
+   "木": "11:30〜15:00 LO.14:30 / 17:00〜21:00 LO.20:30",
+   "水": "11:30〜15:00 LO.14:30 / 17:00〜21:00 LO.20:30",
+   "火": "11:30〜15:00 LO.14:30 / 17:00〜21:00 LO.20:30",
+   "確認日": "2026-11-20",
+   "金": "11:30〜15:00 LO.14:30 / 17:00〜21:00 LO.20:30"
+  },
   "author": "gachiumai",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2118,6 +3463,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DE19jzXSIlP/",
   "thumb": "DE19jzXSIlP.jpg",
+  "hours": {
+   "出典": "マピオン",
+   "土": "16:00〜23:00 LO.22:00",
+   "日": "16:00〜23:00 LO.22:00",
+   "月": "16:00〜23:00 LO.22:00",
+   "木": "16:00〜23:00 LO.22:00",
+   "水": "16:00〜23:00 LO.22:00",
+   "火": "16:00〜23:00 LO.22:00",
+   "確認日": "2026-11-20",
+   "金": "16:00〜23:00 LO.22:00"
+  },
   "author": "issho.gourmet",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2134,6 +3490,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DFmtquTzaxQ/",
   "thumb": "DFmtquTzaxQ.jpg",
+  "hours": {
+   "備考": "年中無休",
+   "出典": "公式サイト",
+   "土": "12:00〜23:00",
+   "日": "12:00〜23:00",
+   "月": "12:00〜23:00",
+   "木": "12:00〜23:00",
+   "水": "12:00〜23:00",
+   "火": "12:00〜23:00",
+   "確認日": "2026-11-20",
+   "金": "12:00〜23:00"
+  },
   "author": "tokyo_highcosper_gourmet",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2152,7 +3520,11 @@
   "thumb": "DHiLiqgTapk.jpg",
   "author": "tomopiii____",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認",
+   "確認日": "2026-11-20"
+  }
  },
  {
   "id": "DB8rIiaPEA7",
@@ -2166,6 +3538,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DB8rIiaPEA7/",
   "thumb": "DB8rIiaPEA7.jpg",
+  "hours": {
+   "備考": "年中無休",
+   "出典": "公式サイト",
+   "土": "11:30〜23:00 LO.21:00",
+   "日": "11:30〜23:00 LO.21:00",
+   "月": "11:30〜15:00 LO.14:30 / 17:00〜23:00 LO.22:00",
+   "木": "11:30〜15:00 LO.14:30 / 17:00〜23:00 LO.22:00",
+   "水": "11:30〜15:00 LO.14:30 / 17:00〜23:00 LO.22:00",
+   "火": "11:30〜15:00 LO.14:30 / 17:00〜23:00 LO.22:00",
+   "確認日": "2026-11-20",
+   "祝": "11:30〜23:00 LO.21:00",
+   "金": "11:30〜15:00 LO.14:30 / 17:00〜23:00 LO.22:00"
+  },
   "author": "connect_tokyo_",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2184,7 +3569,11 @@
   "thumb": "DEmosjOSCI5.jpg",
   "author": "tokyogourmet3",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認",
+   "確認日": "2026-11-20"
+  }
  },
  {
   "id": "DCTp2pYquWQ",
@@ -2198,6 +3587,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DCTp2pYquWQ/",
   "thumb": "DCTp2pYquWQ.jpg",
+  "hours": {
+   "備考": "年中無休",
+   "出典": "ぐるなび",
+   "土": "11:00〜22:30",
+   "日": "11:00〜22:30",
+   "月": "11:00〜22:30",
+   "木": "11:00〜22:30",
+   "水": "11:00〜22:30",
+   "火": "11:00〜22:30",
+   "確認日": "2026-11-20",
+   "金": "11:00〜22:30"
+  },
   "author": "koji__gourmet",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2214,6 +3615,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DHsntW3TqIs/",
   "thumb": "DHsntW3TqIs.jpg",
+  "hours": {
+   "出典": "Googleマップ",
+   "土": "12:30〜14:30 / 18:00〜22:30",
+   "日": "12:30〜14:30 / 18:00〜22:30",
+   "月": "18:00〜22:30",
+   "木": "18:00〜22:30",
+   "水": "18:00〜22:30",
+   "火": "18:00〜22:30",
+   "確認日": "2026-11-20",
+   "金": "12:30〜14:30 / 18:00〜22:30"
+  },
   "author": "tokyo_dinner_miship",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2230,6 +3642,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DDb8JDXTBMk/",
   "thumb": "DDb8JDXTBMk.jpg",
+  "hours": {
+   "備考": "ドリンクLOは月〜土翌5:30・日22:30／年中無休",
+   "出典": "食べログ",
+   "土": "12:00〜翌6:00 LO.翌5:00",
+   "日": "12:00〜23:00 LO.22:00",
+   "月": "12:00〜翌6:00 LO.翌5:00",
+   "木": "12:00〜翌6:00 LO.翌5:00",
+   "水": "12:00〜翌6:00 LO.翌5:00",
+   "火": "12:00〜翌6:00 LO.翌5:00",
+   "確認日": "2026-11-20",
+   "金": "12:00〜翌6:00 LO.翌5:00"
+  },
   "author": "connect_tokyo_",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2246,6 +3670,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DDTe7hzTUVQ/",
   "thumb": "DDTe7hzTUVQ.jpg",
+  "hours": {
+   "出典": "mimitable",
+   "土": "11:00〜15:00 / 17:00〜21:00",
+   "日": "11:00〜15:00 / 17:00〜21:00",
+   "月": "11:00〜15:00 / 17:00〜21:00",
+   "木": "11:00〜15:00 / 17:00〜21:00",
+   "水": "定休日",
+   "火": "11:00〜15:00 / 17:00〜21:00",
+   "確認日": "2026-11-20",
+   "金": "11:00〜15:00 / 17:00〜21:00"
+  },
   "author": "captain.o.gourmet",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2262,6 +3697,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DA44Yepv_4-/",
   "thumb": "DA44Yepv_4-.jpg",
+  "hours": {
+   "備考": "不定休",
+   "出典": "Googleマップ",
+   "土": "12:00〜23:00",
+   "日": "12:00〜23:00",
+   "月": "12:00〜23:00",
+   "木": "12:00〜23:00",
+   "水": "12:00〜23:00",
+   "火": "12:00〜23:00",
+   "確認日": "2026-11-20",
+   "金": "12:00〜23:00"
+  },
   "author": "kakitowagyunodorei",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2280,7 +3727,11 @@
   "thumb": "DEo6Za7TBBl.jpg",
   "author": "tokyo_dinner_miship",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認",
+   "確認日": "2026-11-20"
+  }
  },
  {
   "id": "DD6scNyz3Z3",
@@ -2294,6 +3745,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DD6scNyz3Z3/",
   "thumb": "DD6scNyz3Z3.jpg",
+  "hours": {
+   "備考": "定休日なし",
+   "出典": "公式Instagram",
+   "土": "13:00〜翌4:00",
+   "日": "13:00〜翌2:30",
+   "月": "15:00〜翌2:30",
+   "木": "15:00〜翌2:30",
+   "水": "15:00〜翌2:30",
+   "火": "15:00〜翌2:30",
+   "確認日": "2026-11-20",
+   "金": "15:00〜翌4:00"
+  },
   "author": "wani1029_gourmet",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2312,7 +3775,11 @@
   "thumb": "DGfc-ekyqV5.jpg",
   "author": "code1_993",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認",
+   "確認日": "2026-11-20"
+  }
  },
  {
   "id": "DHdhiapyuz_",
@@ -2326,6 +3793,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DHdhiapyuz_/",
   "thumb": "DHdhiapyuz_.jpg",
+  "hours": {
+   "備考": "第1・第3・第5日曜は22:00閉店／ドリンクLOは昼14:30・夜22:30",
+   "出典": "食べログ",
+   "土": "11:30〜15:00 LO.14:00 / 17:00〜23:00 LO.22:00",
+   "日": "11:30〜15:00 LO.14:00 / 17:00〜23:00 LO.22:00",
+   "月": "11:30〜15:00 LO.14:00 / 17:00〜23:00 LO.22:00",
+   "木": "11:30〜15:00 LO.14:00 / 17:00〜23:00 LO.22:00",
+   "水": "11:30〜15:00 LO.14:00 / 17:00〜23:00 LO.22:00",
+   "火": "11:30〜15:00 LO.14:00 / 17:00〜23:00 LO.22:00",
+   "確認日": "2026-11-20",
+   "金": "11:30〜15:00 LO.14:00 / 17:00〜23:00 LO.22:00"
+  },
   "author": "ma_sa_cafe",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2342,6 +3821,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DCbMk9dyS_3/",
   "thumb": "DCbMk9dyS_3.jpg",
+  "hours": {
+   "備考": "不定休",
+   "出典": "公式Instagram",
+   "土": "12:00〜15:00 LO.14:00 / 17:30〜22:00 LO.21:00",
+   "日": "12:00〜15:00 LO.14:00 / 17:30〜22:00 LO.21:00",
+   "月": "11:00〜14:30 LO.14:00 / 17:30〜22:00 LO.21:00",
+   "木": "11:00〜14:30 LO.14:00 / 17:30〜22:00 LO.21:00",
+   "水": "11:00〜14:30 LO.14:00 / 17:30〜22:00 LO.21:00",
+   "火": "11:00〜14:30 LO.14:00 / 17:30〜22:00 LO.21:00",
+   "確認日": "2026-11-20",
+   "祝": "12:00〜15:00 LO.14:00 / 17:30〜22:00 LO.21:00",
+   "金": "11:00〜14:30 LO.14:00 / 17:30〜23:00 LO.22:00"
+  },
   "author": "issho.gourmet",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2358,6 +3850,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DCbMk9dyS_3/",
   "thumb": "DCbMk9dyS_3.jpg",
+  "hours": {
+   "備考": "その他の休みはInstagramで告知",
+   "出典": "公式Instagram",
+   "土": "16:30〜23:00",
+   "日": "定休日",
+   "月": "定休日",
+   "木": "17:00〜23:00",
+   "水": "17:00〜23:00",
+   "火": "17:00〜23:00",
+   "確認日": "2026-11-20",
+   "祝": "定休日",
+   "金": "17:00〜23:00"
+  },
   "author": "issho.gourmet",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2374,6 +3879,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DCbMk9dyS_3/",
   "thumb": "DCbMk9dyS_3.jpg",
+  "hours": {
+   "備考": "不定休（市場の休業日により休みの場合あり）",
+   "出典": "公式Instagram",
+   "土": "16:00〜翌2:00",
+   "日": "16:00〜翌2:00",
+   "月": "18:00〜24:00",
+   "木": "18:00〜24:00",
+   "水": "18:00〜24:00",
+   "火": "18:00〜24:00",
+   "確認日": "2026-11-20",
+   "金": "18:00〜24:00"
+  },
   "author": "issho.gourmet",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2390,6 +3907,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DCbMk9dyS_3/",
   "thumb": "DCbMk9dyS_3.jpg",
+  "hours": {
+   "備考": "祝前日は金・土と同じ（17:00〜翌2:00）／ドリンクLOは料理LOの30分後／不定休",
+   "出典": "公式Instagram",
+   "土": "17:00〜翌2:00 LO.1:00",
+   "日": "17:00〜翌1:00 LO.0:00",
+   "月": "17:00〜翌1:00 LO.0:00",
+   "木": "17:00〜翌1:00 LO.0:00",
+   "水": "17:00〜翌1:00 LO.0:00",
+   "火": "17:00〜翌1:00 LO.0:00",
+   "確認日": "2026-11-20",
+   "祝": "17:00〜翌1:00 LO.0:00",
+   "金": "17:00〜翌2:00 LO.1:00"
+  },
   "author": "issho.gourmet",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2406,6 +3936,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DCbMk9dyS_3/",
   "thumb": "DCbMk9dyS_3.jpg",
+  "hours": {
+   "出典": "食べログ",
+   "土": "17:30〜23:30",
+   "日": "17:30〜23:30",
+   "月": "17:30〜23:30",
+   "木": "17:30〜23:30",
+   "水": "17:30〜23:30",
+   "火": "17:30〜23:30",
+   "確認日": "2026-11-20",
+   "金": "17:30〜23:30"
+  },
   "author": "issho.gourmet",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2422,6 +3963,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DG5KNZxSN3n/",
   "thumb": "DG5KNZxSN3n.jpg",
+  "hours": {
+   "出典": "公式Instagram",
+   "土": "11:45〜15:00 / 17:30〜21:00",
+   "日": "定休日",
+   "月": "11:45〜15:00 / 17:30〜21:00",
+   "木": "11:45〜15:00 / 17:30〜21:00",
+   "水": "11:45〜15:00 / 17:30〜21:00",
+   "火": "11:45〜15:00 / 17:30〜21:00",
+   "確認日": "2026-11-20",
+   "金": "11:45〜15:00 / 17:30〜21:00"
+  },
   "author": "gensen_gurume",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2438,6 +3990,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DGAaq6zTuXi/",
   "thumb": "DGAaq6zTuXi.jpg",
+  "hours": {
+   "出典": "公式サイト",
+   "土": "11:00〜21:00 LO.20:30",
+   "日": "11:00〜21:00 LO.20:30",
+   "月": "11:30〜21:00 LO.20:30",
+   "木": "11:30〜21:00 LO.20:30",
+   "水": "11:30〜21:00 LO.20:30",
+   "火": "11:30〜21:00 LO.20:30",
+   "確認日": "2026-11-20",
+   "金": "11:30〜21:00 LO.20:30"
+  },
   "author": "tokyo_dinner_miship",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2454,6 +4017,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DHk7B7VyNLD/",
   "thumb": "DHk7B7VyNLD.jpg",
+  "hours": {
+   "備考": "不定休",
+   "出典": "公式サイト",
+   "土": "17:00〜24:00",
+   "日": "15:00〜24:00",
+   "月": "17:00〜24:00",
+   "木": "17:00〜24:00",
+   "水": "17:00〜24:00",
+   "火": "17:00〜24:00",
+   "確認日": "2026-11-20",
+   "祝": "15:00〜24:00",
+   "金": "17:00〜24:00"
+  },
   "author": "tokyogourmet3",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2472,7 +4048,10 @@
   "thumb": "DDRSTatTKD9.jpg",
   "author": "mo_e_te_gourmet",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認"
+  }
  },
  {
   "id": "C9eZrg2p5aw",
@@ -2486,6 +4065,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/C9eZrg2p5aw/",
   "thumb": "C9eZrg2p5aw.jpg",
+  "hours": {
+   "備考": "定休日なし",
+   "出典": "食べログ",
+   "土": "17:00〜23:30 LO.22:30",
+   "日": "17:00〜23:30 LO.22:30",
+   "月": "17:00〜23:30 LO.22:30",
+   "木": "17:00〜23:30 LO.22:30",
+   "水": "17:00〜23:30 LO.22:30",
+   "火": "17:00〜23:30 LO.22:30",
+   "確認日": "2026-11-20",
+   "金": "17:00〜23:30 LO.22:30"
+  },
   "author": "mogsuke_tokyo",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2504,7 +4095,10 @@
   "thumb": "DGaVvUgS7i4.jpg",
   "author": "tokyogourmet3",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認"
+  }
  },
  {
   "id": "DHiGfwzz8iR",
@@ -2520,7 +4114,10 @@
   "thumb": "DHiGfwzz8iR.jpg",
   "author": "mogsuke_tokyo",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認"
+  }
  },
  {
   "id": "DHdgYXASIqN",
@@ -2536,7 +4133,10 @@
   "thumb": "DHdgYXASIqN.jpg",
   "author": "browncafetour",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認"
+  }
  },
  {
   "id": "DHdIIF5yuac",
@@ -2550,6 +4150,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DHdIIF5yuac/",
   "thumb": "DHdIIF5yuac.jpg",
+  "hours": {
+   "備考": "図書館の休館日も休み",
+   "出典": "公式Instagram",
+   "土": "11:00〜17:00",
+   "日": "11:00〜17:00",
+   "月": "定休日",
+   "木": "11:00〜17:00",
+   "水": "11:00〜17:00",
+   "火": "11:00〜17:00",
+   "確認日": "2026-11-20",
+   "金": "11:00〜17:00"
+  },
   "author": "mgtr_gourmet",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2566,6 +4178,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DHab9e0z2jt/",
   "thumb": "DHab9e0z2jt.jpg",
+  "hours": {
+   "備考": "定休日は年末年始のみ",
+   "出典": "ホットペッパーグルメ",
+   "土": "12:00〜翌5:00 LO.翌4:00",
+   "日": "12:00〜翌5:00 LO.翌4:00",
+   "月": "12:00〜翌5:00 LO.翌4:00",
+   "木": "12:00〜翌5:00 LO.翌4:00",
+   "水": "12:00〜翌5:00 LO.翌4:00",
+   "火": "12:00〜翌5:00 LO.翌4:00",
+   "確認日": "2026-11-20",
+   "金": "12:00〜翌5:00 LO.翌4:00"
+  },
   "author": "mogsuke_tokyo",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2584,7 +4208,10 @@
   "thumb": "DHdcY_cTwAa.jpg",
   "author": "connect_tokyo_",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認"
+  }
  },
  {
   "id": "DHYcAGAydTo",
@@ -2598,6 +4225,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DHYcAGAydTo/",
   "thumb": "DHYcAGAydTo.jpg",
+  "hours": {
+   "備考": "不定休",
+   "出典": "KKDay",
+   "土": "11:30〜15:00 LO.14:30 / 17:00〜23:00 LO.22:00",
+   "日": "11:30〜15:00 LO.14:30 / 17:00〜23:00 LO.22:00",
+   "月": "18:00〜23:00 LO.22:00",
+   "木": "18:00〜23:00 LO.22:00",
+   "水": "18:00〜23:00 LO.22:00",
+   "火": "18:00〜23:00 LO.22:00",
+   "確認日": "2026-11-20",
+   "祝": "11:30〜15:00 LO.14:30 / 17:00〜23:00 LO.22:00",
+   "金": "18:00〜23:00 LO.22:00"
+  },
   "author": "kandou_gourmet_",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2614,6 +4254,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DHaroJHTSPZ/",
   "thumb": "DHaroJHTSPZ.jpg",
+  "hours": {
+   "備考": "年末年始は休み",
+   "出典": "公式サイト",
+   "土": "11:30〜14:30 / 17:00〜22:30",
+   "日": "11:30〜14:30 / 17:00〜22:00",
+   "月": "11:30〜14:30 / 17:00〜22:30",
+   "木": "11:30〜14:30 / 17:00〜22:30",
+   "水": "11:30〜14:30 / 17:00〜22:30",
+   "火": "11:30〜14:30 / 17:00〜22:30",
+   "確認日": "2026-11-20",
+   "金": "11:30〜14:30 / 17:00〜22:30"
+  },
   "author": "tokyo_cafe_mens",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2630,6 +4282,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DG-W0ztzWuX/",
   "thumb": "DG-W0ztzWuX.jpg",
+  "hours": {
+   "備考": "最終入店20:30／12月31日〜1月3日は休み",
+   "出典": "食べログ",
+   "土": "16:30〜22:40 LO.22:10",
+   "日": "16:30〜22:40 LO.22:10",
+   "月": "16:30〜22:40 LO.22:10",
+   "木": "16:30〜22:40 LO.22:10",
+   "水": "16:30〜22:40 LO.22:10",
+   "火": "16:30〜22:40 LO.22:10",
+   "確認日": "2026-11-20",
+   "金": "16:30〜22:40 LO.22:10"
+  },
   "author": "tokyo_dinner_miship",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2648,7 +4312,10 @@
   "thumb": "DHOBeUzTOU6.jpg",
   "author": "moto_pt_98",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認"
+  }
  },
  {
   "id": "DHLdOJHTGYR",
@@ -2690,6 +4357,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DBBnETzNuIL/",
   "thumb": "DBBnETzNuIL.jpg",
+  "hours": {
+   "備考": "定休日なし",
+   "出典": "公式サイト",
+   "土": "11:00〜15:00 / 17:00〜21:00",
+   "日": "11:00〜15:00 / 17:00〜21:00",
+   "月": "11:00〜15:00 / 17:00〜21:00",
+   "木": "11:00〜15:00 / 17:00〜21:00",
+   "水": "11:00〜15:00 / 17:00〜21:00",
+   "火": "11:00〜15:00 / 17:00〜21:00",
+   "確認日": "2026-11-20",
+   "金": "11:00〜15:00 / 17:00〜21:00"
+  },
   "author": "guru_taku",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2706,6 +4385,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DHQOZD9TlUu/",
   "thumb": "DHQOZD9TlUu.jpg",
+  "hours": {
+   "出典": "公式プレスリリース",
+   "土": "11:30〜15:00 LO.14:30 / 17:00〜21:30 LO.21:00",
+   "日": "11:30〜15:00 LO.14:30 / 17:00〜21:30 LO.21:00",
+   "月": "11:30〜15:00 LO.14:30 / 17:00〜21:30 LO.21:00",
+   "木": "11:30〜15:00 LO.14:30 / 17:00〜21:30 LO.21:00",
+   "水": "11:30〜15:00 LO.14:30 / 17:00〜21:30 LO.21:00",
+   "火": "定休日",
+   "確認日": "2026-11-20",
+   "金": "11:30〜15:00 LO.14:30 / 17:00〜21:30 LO.21:00"
+  },
   "author": "tokyo_highcosper_gourmet",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2722,6 +4412,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DHLGDgeTLxD/",
   "thumb": "DHLGDgeTLxD.jpg",
+  "hours": {
+   "出典": "食べログ",
+   "土": "12:00〜23:30",
+   "日": "12:00〜23:00",
+   "月": "16:00〜23:30",
+   "木": "16:00〜23:30",
+   "水": "16:00〜23:30",
+   "火": "16:00〜23:30",
+   "確認日": "2026-11-20",
+   "金": "16:00〜23:30"
+  },
   "author": "tokyo_dinner_miship",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2740,7 +4441,10 @@
   "thumb": "DGwvfldTjPH.jpg",
   "author": "harapeko_fufu",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認"
+  }
  },
  {
   "id": "DGxmxGWz5HQ",
@@ -2756,7 +4460,10 @@
   "thumb": "DGxmxGWz5HQ.jpg",
   "author": "ramen_butakin",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認"
+  }
  },
  {
   "id": "DDwrqJxSmKz",
@@ -2772,7 +4479,10 @@
   "thumb": "DDwrqJxSmKz.jpg",
   "author": "tokyogourmet3",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認"
+  }
  },
  {
   "id": "DDmMnhFzm2o",
@@ -2786,6 +4496,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DDmMnhFzm2o/",
   "thumb": "DDmMnhFzm2o.jpg",
+  "hours": {
+   "備考": "第1日曜は定休日",
+   "出典": "ぐるなび",
+   "土": "17:30〜23:00 LO.22:20",
+   "日": "17:30〜23:00 LO.22:20",
+   "月": "定休日",
+   "木": "17:30〜23:00 LO.22:20",
+   "水": "17:30〜23:00 LO.22:20",
+   "火": "17:30〜23:00 LO.22:20",
+   "確認日": "2026-11-20",
+   "金": "17:30〜23:00 LO.22:20"
+  },
   "author": "connect_tokyo_",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2802,6 +4524,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DGxsyfVT1rk/",
   "thumb": "DGxsyfVT1rk.jpg",
+  "hours": {
+   "出典": "公式サイト",
+   "土": "17:00〜23:00",
+   "日": "定休日",
+   "月": "17:00〜23:00",
+   "木": "17:00〜23:00",
+   "水": "17:00〜23:00",
+   "火": "17:00〜23:00",
+   "確認日": "2026-11-20",
+   "金": "17:00〜23:00"
+  },
   "author": "tokyogourmet3",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2818,6 +4551,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DGk02s9zgmA/",
   "thumb": "DGk02s9zgmA.jpg",
+  "hours": {
+   "備考": "閉店時刻は媒体により22:30〜23:30と表記が異なる",
+   "出典": "その他媒体",
+   "土": "18:00〜23:00 LO.22:00",
+   "日": "定休日",
+   "月": "定休日",
+   "木": "18:00〜23:00 LO.22:00",
+   "水": "18:00〜23:00 LO.22:00",
+   "火": "18:00〜23:00 LO.22:00",
+   "確認日": "2026-11-20",
+   "金": "18:00〜23:00 LO.22:00"
+  },
   "author": "connect_tokyo_",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2834,6 +4579,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DauZcEaONUT/",
   "thumb": "DauZcEaONUT.jpg",
+  "hours": {
+   "備考": "売り切れ次第終了",
+   "出典": "食べログ",
+   "土": "11:30〜14:30 / 17:00〜20:00",
+   "日": "11:30〜14:30 / 17:00〜20:00",
+   "月": "11:30〜14:30 / 17:00〜20:00",
+   "木": "11:30〜14:30 / 17:00〜20:00",
+   "水": "定休日",
+   "火": "11:30〜14:30 / 17:00〜20:00",
+   "確認日": "2026-11-20",
+   "金": "11:30〜14:30 / 17:00〜20:00"
+  },
   "author": "menya_mikan",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2850,6 +4607,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DYw-B5wyM9D/",
   "thumb": "DYw-B5wyM9D.jpg",
+  "hours": {
+   "備考": "定休日なし",
+   "出典": "ホットペッパーグルメ",
+   "土": "15:00〜22:00 LO.21:00",
+   "日": "15:00〜22:00 LO.21:00",
+   "月": "15:00〜22:00 LO.21:00",
+   "木": "15:00〜22:00 LO.21:00",
+   "水": "15:00〜22:00 LO.21:00",
+   "火": "15:00〜22:00 LO.21:00",
+   "確認日": "2026-11-20",
+   "祝": "15:00〜22:00 LO.21:00",
+   "金": "15:00〜22:00 LO.21:00"
+  },
   "author": "yuichi_eats",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2866,6 +4636,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DUfnX0rExjI/",
   "thumb": "DUfnX0rExjI.jpg",
+  "hours": {
+   "備考": "無休／売り切れ次第終了",
+   "出典": "その他媒体",
+   "土": "11:00〜21:30",
+   "日": "11:00〜21:30",
+   "月": "11:00〜21:30",
+   "木": "11:00〜21:30",
+   "水": "11:00〜21:30",
+   "火": "11:00〜21:30",
+   "確認日": "2026-11-20",
+   "金": "11:00〜21:30"
+  },
   "author": "nana_gourmet_tokyo",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2911,6 +4693,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DOspLAREwaO/",
   "thumb": "DOspLAREwaO.jpg",
+  "hours": {
+   "出典": "その他媒体",
+   "土": "11:30〜翌1:00",
+   "日": "11:30〜24:00",
+   "月": "11:30〜翌1:00",
+   "木": "11:30〜翌1:00",
+   "水": "11:30〜翌1:00",
+   "火": "11:30〜翌1:00",
+   "確認日": "2026-11-20",
+   "金": "11:30〜翌1:00"
+  },
   "author": "gachiumai",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2927,6 +4720,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/C6Lk0a_y9qm/",
   "thumb": "C6Lk0a_y9qm.jpg",
+  "hours": {
+   "備考": "定休日は未確認",
+   "出典": "その他媒体",
+   "土": "17:00〜23:00",
+   "日": "17:00〜23:00",
+   "月": "17:00〜23:00",
+   "木": "17:00〜23:00",
+   "水": "17:00〜23:00",
+   "火": "17:00〜23:00",
+   "確認日": "2026-11-20",
+   "金": "17:00〜23:00"
+  },
   "author": "ol_maruko",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2943,6 +4748,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DSFiGV3CW4W/",
   "thumb": "DSFiGV3CW4W.jpg",
+  "hours": {
+   "備考": "不定休",
+   "出典": "公式サイト",
+   "土": "11:30〜翌2:00",
+   "日": "11:30〜翌2:00",
+   "月": "11:30〜翌2:00",
+   "木": "11:30〜翌2:00",
+   "水": "11:30〜翌2:00",
+   "火": "11:30〜翌2:00",
+   "確認日": "2026-11-20",
+   "金": "11:30〜翌2:00"
+  },
   "author": "koi_gantsu_tokyo",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2959,6 +4776,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/p/DIJehXNTRrF/",
   "thumb": "DIJehXNTRrF.jpg",
+  "hours": {
+   "出典": "公式サイト",
+   "土": "12:00〜13:45 / 18:00〜21:00",
+   "日": "12:00〜14:00 / 18:00〜21:00",
+   "月": "11:30〜14:00 / 18:00〜21:00",
+   "木": "11:30〜14:00 / 18:00〜21:00",
+   "水": "11:30〜14:00 / 18:00〜21:00",
+   "火": "11:30〜14:00 / 18:00〜21:00",
+   "確認日": "2026-11-20",
+   "金": "11:30〜14:00 / 18:00〜21:00"
+  },
   "author": "bunbun_eatlog",
   "geocode_confidence": "high",
   "caption_date": null
@@ -2977,7 +4805,10 @@
   "thumb": "DByIHwbSJ2Q.jpg",
   "author": "citylife_yoshi",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "ホテル施設のため、レストラン・ラウンジごとに営業時間が異なる"
+  }
  },
  {
   "id": "DY9cxIqIEsh",
@@ -2991,6 +4822,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DY9cxIqIEsh/",
   "thumb": "DY9cxIqIEsh.jpg",
+  "hours": {
+   "備考": "火曜が祝日の場合は営業",
+   "出典": "公式サイト",
+   "土": "10:00〜20:00",
+   "日": "10:00〜20:00",
+   "月": "13:00〜18:00",
+   "木": "13:00〜18:00",
+   "水": "13:00〜18:00",
+   "火": "定休日",
+   "確認日": "2026-11-20",
+   "祝": "10:00〜20:00",
+   "金": "13:00〜18:00"
+  },
   "author": "xfzt2ksx",
   "geocode_confidence": "high",
   "caption_date": null
@@ -3007,6 +4851,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DFcoG74zP0Y/",
   "thumb": "DFcoG74zP0Y.jpg",
+  "hours": {
+   "出典": "公式サイト",
+   "土": "8:00〜18:30",
+   "日": "8:00〜18:30",
+   "月": "8:00〜18:30",
+   "木": "8:00〜18:30",
+   "水": "8:00〜18:30",
+   "火": "定休日",
+   "確認日": "2026-11-20",
+   "金": "8:00〜18:30"
+  },
   "author": "hiyori_shokuyoku_kiroku",
   "geocode_confidence": "high",
   "caption_date": null
@@ -3023,6 +4878,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DWeDOELkyff/",
   "thumb": "DWeDOELkyff.jpg",
+  "hours": {
+   "備考": "不定休",
+   "出典": "食べログ",
+   "土": "11:00〜21:00",
+   "日": "11:00〜21:00",
+   "月": "11:00〜21:00",
+   "木": "11:00〜21:00",
+   "水": "11:00〜21:00",
+   "火": "11:00〜21:00",
+   "確認日": "2026-11-20",
+   "金": "11:00〜21:00"
+  },
   "author": "naaahiii13",
   "geocode_confidence": "high",
   "caption_date": null
@@ -3039,6 +4906,17 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DTH6rYfkvxc/",
   "thumb": "DTH6rYfkvxc.jpg",
+  "hours": {
+   "出典": "公式サイト",
+   "土": "16:00〜22:30 LO.22:00",
+   "日": "16:00〜22:30 LO.22:00",
+   "月": "16:00〜22:30 LO.22:00",
+   "木": "16:00〜22:30 LO.22:00",
+   "水": "定休日",
+   "火": "16:00〜22:30 LO.22:00",
+   "確認日": "2026-11-20",
+   "金": "16:00〜22:30 LO.22:00"
+  },
   "author": "wagokoro10000",
   "geocode_confidence": "high",
   "caption_date": null
@@ -3055,6 +4933,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DTNIIt8Cart/",
   "thumb": "DTNIIt8Cart.jpg",
+  "hours": {
+   "備考": "隔週水曜定休",
+   "出典": "ヒトサラ",
+   "土": "12:00〜15:00 / 18:00〜23:00",
+   "日": "12:00〜15:00 / 18:00〜23:00",
+   "月": "12:00〜15:00 / 18:00〜23:00",
+   "木": "12:00〜15:00 / 18:00〜23:00",
+   "水": "12:00〜15:00 / 18:00〜23:00",
+   "火": "定休日",
+   "確認日": "2026-11-20",
+   "祝": "12:00〜15:00 / 18:00〜23:00",
+   "金": "12:00〜15:00 / 18:00〜23:00"
+  },
   "author": "tokyo_gourmet_info",
   "geocode_confidence": "high",
   "caption_date": null
@@ -3071,6 +4962,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/p/DQRMAyKkrVI/",
   "thumb": "DQRMAyKkrVI.jpg",
+  "hours": {
+   "備考": "定休日なし（臨時休業あり）。祝前日は17:00〜22:30 LO.22:00",
+   "出典": "公式サイト",
+   "土": "11:00〜15:00 LO.14:30 / 17:00〜22:30 LO.22:00",
+   "日": "11:00〜15:00 LO.14:30 / 17:00〜22:00 LO.21:30",
+   "月": "11:00〜15:00 LO.14:30 / 17:00〜22:00 LO.21:30",
+   "木": "11:00〜15:00 LO.14:30 / 17:00〜22:00 LO.21:30",
+   "水": "11:00〜15:00 LO.14:30 / 17:00〜22:00 LO.21:30",
+   "火": "11:00〜15:00 LO.14:30 / 17:00〜22:00 LO.21:30",
+   "確認日": "2026-11-20",
+   "祝": "11:00〜15:00 LO.14:30 / 17:00〜22:00 LO.21:30",
+   "金": "11:00〜15:00 LO.14:30 / 17:00〜22:30 LO.22:00"
+  },
   "author": "ramen_shin_blog",
   "geocode_confidence": "high",
   "caption_date": null
@@ -3087,6 +4991,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DQjV41SiYV1/",
   "thumb": "DQjV41SiYV1.jpg",
+  "hours": {
+   "備考": "不定休（年数回メンテナンス休館あり）。祝前日は10:00〜翌8:00（最終受付 翌7:00）。翌1:00〜翌6:00はお風呂・サウナ利用不可",
+   "出典": "公式サイト",
+   "土": "6:00〜8:00（朝風呂・最終受付 7:00） / 10:00〜翌8:00（最終受付 翌7:00）",
+   "日": "6:00〜8:00（朝風呂・最終受付 7:00） / 10:00〜翌1:00（最終受付 24:00）",
+   "月": "10:00〜翌1:00（最終受付 24:00）",
+   "木": "10:00〜翌1:00（最終受付 24:00）",
+   "水": "10:00〜翌1:00（最終受付 24:00）",
+   "火": "10:00〜翌1:00（最終受付 24:00）",
+   "確認日": "2026-11-20",
+   "祝": "6:00〜8:00（朝風呂・最終受付 7:00） / 10:00〜翌1:00（最終受付 24:00）",
+   "金": "10:00〜翌8:00（最終受付 翌7:00）"
+  },
   "author": "holidaysauna",
   "geocode_confidence": "high",
   "caption_date": null
@@ -3103,6 +5020,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DP3iUkCDzwR/",
   "thumb": "DP3iUkCDzwR.jpg",
+  "hours": {
+   "備考": "不定休",
+   "出典": "PR TIMES",
+   "土": "12:00〜14:00 / 18:00〜23:00",
+   "日": "12:00〜14:00 / 18:00〜23:00",
+   "月": "12:00〜14:00 / 18:00〜23:00",
+   "木": "12:00〜14:00 / 18:00〜23:00",
+   "水": "12:00〜14:00 / 18:00〜23:00",
+   "火": "12:00〜14:00 / 18:00〜23:00",
+   "確認日": "2026-11-20",
+   "祝": "12:00〜14:00 / 18:00〜23:00",
+   "金": "12:00〜14:00 / 18:00〜23:00"
+  },
   "author": "tabe_megumi",
   "geocode_confidence": "high",
   "caption_date": null
@@ -3119,6 +5049,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DLKC-XpOjrE/",
   "thumb": "DLKC-XpOjrE.jpg",
+  "hours": {
+   "出典": "AutoReserve",
+   "土": "11:30〜23:00 LO.21:00",
+   "日": "11:30〜22:00 LO.20:00",
+   "月": "11:30〜15:00 LO.14:00 / 17:30〜23:00 LO.22:00",
+   "木": "11:30〜15:00 LO.14:00 / 17:30〜23:00 LO.22:00",
+   "水": "11:30〜15:00 LO.14:00 / 17:30〜23:00 LO.22:00",
+   "火": "定休日",
+   "確認日": "2026-11-20",
+   "祝": "11:30〜22:00 LO.20:00",
+   "金": "11:30〜15:00 LO.14:00 / 17:30〜23:00 LO.22:00"
+  },
   "author": "akane0726",
   "geocode_confidence": "high",
   "caption_date": null
@@ -3135,6 +5077,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DJMIvSCyHTK/",
   "thumb": "DJMIvSCyHTK.jpg",
+  "hours": {
+   "備考": "不定休。ランチは13:30最終入店、ディナーは21:00最終入店",
+   "出典": "NAVITIME",
+   "土": "11:30〜14:30 / 18:00〜22:00",
+   "日": "11:30〜14:30 / 18:00〜22:00",
+   "月": "11:30〜14:30 / 18:00〜22:00",
+   "木": "11:30〜14:30 / 18:00〜22:00",
+   "水": "11:30〜14:30 / 18:00〜22:00",
+   "火": "11:30〜14:30 / 18:00〜22:00",
+   "確認日": "2026-11-20",
+   "金": "11:30〜14:30 / 18:00〜22:00"
+  },
   "author": "dashinotorico",
   "geocode_confidence": "high",
   "caption_date": null
@@ -3151,6 +5105,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DJB2SDZT0zf/",
   "thumb": "DJB2SDZT0zf.jpg",
+  "hours": {
+   "出典": "公式サイト",
+   "土": "11:30〜14:30 LO.14:00 / 17:00〜22:30 LO.21:30",
+   "日": "11:30〜14:30 LO.14:00 / 17:00〜22:30 LO.21:30",
+   "月": "定休日",
+   "木": "11:30〜14:30 LO.14:00 / 17:30〜23:00 LO.22:00",
+   "水": "11:30〜14:30 LO.14:00 / 17:30〜23:00 LO.22:00",
+   "火": "11:30〜14:30 LO.14:00 / 17:30〜23:00 LO.22:00",
+   "確認日": "2026-11-20",
+   "祝": "11:30〜14:30 LO.14:00 / 17:00〜22:30 LO.21:30",
+   "金": "11:30〜14:30 LO.14:00 / 17:30〜23:00 LO.22:00"
+  },
   "author": "akane0726",
   "geocode_confidence": "high",
   "caption_date": null
@@ -3169,7 +5135,11 @@
   "thumb": "DITFJhKJ0ri.jpg",
   "author": "not_kanhome",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認",
+   "確認日": "2026-11-20"
+  }
  },
  {
   "id": "DIqJgHlyqWp",
@@ -3185,7 +5155,11 @@
   "thumb": "DIqJgHlyqWp.jpg",
   "author": "wakaxinxi",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認",
+   "確認日": "2026-11-20"
+  }
  },
  {
   "id": "DIL5XX6PHTB",
@@ -3199,6 +5173,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/p/DIL5XX6PHTB/",
   "thumb": "DIL5XX6PHTB.jpg",
+  "hours": {
+   "備考": "不定休。完全予約制（WEB予約・事前決済のみ）",
+   "出典": "公式サイト",
+   "土": "18:00〜23:00",
+   "日": "18:00〜23:00",
+   "月": "18:00〜23:00",
+   "木": "18:00〜23:00",
+   "水": "18:00〜23:00",
+   "火": "18:00〜23:00",
+   "確認日": "2026-11-20",
+   "祝": "18:00〜23:00",
+   "金": "18:00〜23:00"
+  },
   "author": "pooo_chan23",
   "geocode_confidence": "high",
   "caption_date": null
@@ -3217,7 +5204,11 @@
   "thumb": "DDt26IQz6dt.jpg",
   "author": "yura.odkk",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認",
+   "確認日": "2026-11-20"
+  }
  },
  {
   "id": "DAS9U72BThw",
@@ -3233,7 +5224,11 @@
   "thumb": "DAS9U72BThw.jpg",
   "author": "indocurryko",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認",
+   "確認日": "2026-11-20"
+  }
  },
  {
   "id": "DGK9tqGP4W_",
@@ -3247,6 +5242,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DGK9tqGP4W_/",
   "thumb": "DGK9tqGP4W_.jpg",
+  "hours": {
+   "備考": "ブレックファスト8:00〜（クローズ10:30）／ランチ11:00〜14:30（祝日は15:00まで）／カフェ14:30〜17:30（祝日は15:00〜17:00）／ディナーは曜日により17:00または17:30〜（クローズ23:00）",
+   "出典": "TableCheck",
+   "土": "8:00〜10:30 / 11:00〜23:00",
+   "日": "8:00〜10:30 / 11:00〜23:00",
+   "月": "8:00〜10:30 / 11:00〜23:00",
+   "木": "8:00〜10:30 / 11:00〜23:00",
+   "水": "8:00〜10:30 / 11:00〜23:00",
+   "火": "8:00〜10:30 / 11:00〜23:00",
+   "確認日": "2026-11-20",
+   "祝": "8:00〜10:30 / 11:00〜23:00",
+   "金": "8:00〜10:30 / 11:00〜23:00"
+  },
   "author": "tokyo_cafe_kou",
   "geocode_confidence": "high",
   "caption_date": null
@@ -3263,6 +5271,18 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DGK9tqGP4W_/",
   "thumb": "DGK9tqGP4W_.jpg",
+  "hours": {
+   "出典": "公式サイト",
+   "土": "7:00〜21:00",
+   "日": "7:00〜21:00",
+   "月": "7:00〜21:00",
+   "木": "7:00〜21:00",
+   "水": "7:00〜21:00",
+   "火": "7:00〜21:00",
+   "確認日": "2026-11-20",
+   "祝": "7:00〜21:00",
+   "金": "7:00〜21:00"
+  },
   "author": "tokyo_cafe_kou",
   "geocode_confidence": "high",
   "caption_date": null
@@ -3279,6 +5299,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DGK9tqGP4W_/",
   "thumb": "DGK9tqGP4W_.jpg",
+  "hours": {
+   "備考": "ブレックファスト7:00〜11:00 LO.10:00／ランチ11:00〜15:00／カフェ15:00〜17:00／ディナー17:00〜23:00 LO.22:00",
+   "出典": "TableCheck",
+   "土": "7:00〜23:00 LO.22:00",
+   "日": "7:00〜23:00 LO.22:00",
+   "月": "7:00〜23:00 LO.22:00",
+   "木": "7:00〜23:00 LO.22:00",
+   "水": "7:00〜23:00 LO.22:00",
+   "火": "7:00〜23:00 LO.22:00",
+   "確認日": "2026-11-20",
+   "祝": "7:00〜23:00 LO.22:00",
+   "金": "7:00〜23:00 LO.22:00"
+  },
   "author": "tokyo_cafe_kou",
   "geocode_confidence": "high",
   "caption_date": null
@@ -3295,6 +5328,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DSFiGV3CW4W/",
   "thumb": "DSFiGV3CW4W.jpg",
+  "hours": {
+   "備考": "ドリンクLO.翌4:30。年中無休。貸切パーティーは11:30〜可（要予約）",
+   "出典": "食べログ",
+   "土": "16:00〜翌5:00 LO.翌4:00",
+   "日": "16:00〜翌5:00 LO.翌4:00",
+   "月": "16:00〜翌5:00 LO.翌4:00",
+   "木": "16:00〜翌5:00 LO.翌4:00",
+   "水": "16:00〜翌5:00 LO.翌4:00",
+   "火": "16:00〜翌5:00 LO.翌4:00",
+   "確認日": "2026-11-20",
+   "祝": "16:00〜翌5:00 LO.翌4:00",
+   "金": "16:00〜翌5:00 LO.翌4:00"
+  },
   "author": "koi_gantsu_tokyo",
   "geocode_confidence": "high",
   "caption_date": null
@@ -3311,6 +5357,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DSFiGV3CW4W/",
   "thumb": "DSFiGV3CW4W.jpg",
+  "hours": {
+   "備考": "ドリンクLO.23:00。ディナーのみ営業（食べログ最新表記）",
+   "出典": "食べログ",
+   "土": "18:00〜23:30 LO.22:30",
+   "日": "18:00〜23:30 LO.22:30",
+   "月": "18:00〜23:30 LO.22:30",
+   "木": "18:00〜23:30 LO.22:30",
+   "水": "18:00〜23:30 LO.22:30",
+   "火": "18:00〜23:30 LO.22:30",
+   "確認日": "2026-11-20",
+   "祝": "18:00〜23:30 LO.22:30",
+   "金": "18:00〜23:30 LO.22:30"
+  },
   "author": "koi_gantsu_tokyo",
   "geocode_confidence": "high",
   "caption_date": null
@@ -3329,7 +5388,11 @@
   "thumb": "DXgmnq7ka1q.jpg",
   "author": "life__of__tokyo",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認",
+   "確認日": "2026-11-20"
+  }
  },
  {
   "id": "DX_rgOvSQaZ",
@@ -3343,6 +5406,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DX_rgOvSQaZ/",
   "thumb": "DX_rgOvSQaZ.jpg",
+  "hours": {
+   "備考": "11月は休まず営業・水曜も開店（公式HP確認時点）。時間変更・臨時休業は公式HP・Instagram・Xで告知",
+   "出典": "公式サイト",
+   "土": "11:00〜19:30",
+   "日": "11:00〜19:30",
+   "月": "11:00〜19:30",
+   "木": "11:00〜19:30",
+   "水": "11:00〜19:30",
+   "火": "11:00〜19:30",
+   "確認日": "2026-11-20",
+   "祝": "11:00〜19:30",
+   "金": "11:00〜19:30"
+  },
   "author": "xfzt2ksx",
   "geocode_confidence": "high",
   "caption_date": null
@@ -3359,6 +5435,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DX70nsgzGmO/",
   "thumb": "DX70nsgzGmO.jpg",
+  "hours": {
+   "備考": "LUFTBAUM（28F・29F）のエリア開放時間。店舗により営業時間は異なる",
+   "出典": "公式サイト",
+   "土": "8:00〜24:00",
+   "日": "8:00〜24:00",
+   "月": "8:00〜24:00",
+   "木": "8:00〜24:00",
+   "水": "8:00〜24:00",
+   "火": "8:00〜24:00",
+   "確認日": "2026-11-20",
+   "祝": "8:00〜24:00",
+   "金": "8:00〜24:00"
+  },
   "author": "hiziri_travel",
   "geocode_confidence": "high",
   "caption_date": null
@@ -3375,6 +5464,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DYYPcPjTs4Y/",
   "thumb": "DYYPcPjTs4Y.jpg",
+  "hours": {
+   "備考": "休館日は毎月第2火曜日（2026年度は11月・2月が例外：11/17・11/18と2/8が休館）。年末年始（2026/12/28〜2027/1/1）休館。プログラム・店舗により時間が異なる",
+   "出典": "公式サイト",
+   "土": "10:00〜21:00",
+   "日": "10:00〜21:00",
+   "月": "10:00〜21:00",
+   "木": "10:00〜21:00",
+   "水": "10:00〜21:00",
+   "火": "10:00〜21:00",
+   "確認日": "2026-11-20",
+   "祝": "10:00〜21:00",
+   "金": "10:00〜21:00"
+  },
   "author": "hiziri_travel",
   "geocode_confidence": "high",
   "caption_date": null
@@ -3393,7 +5495,12 @@
   "thumb": "DXgk3eeAR_x.jpg",
   "author": "miewalk_official",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "宿泊施設（要予約）。チェックイン15:00／チェックアウト10:00",
+   "出典": "公式サイト",
+   "確認日": "2026-11-20"
+  }
  },
  {
   "id": "DX1T5O5yxQR",
@@ -3407,6 +5514,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DX1T5O5yxQR/",
   "thumb": "DX1T5O5yxQR.jpg",
+  "hours": {
+   "備考": "夏季のみ営業（2026年度は6/1〜9/27営業予定）の川床料理店。ディナーは予約者限定（ドリンクLO.20:30、ランチのドリンクLO.15:30）。流しそうめんは受付10:00〜・開始11:00〜（予約不可・雨天中止）。不定休、河川増水等の災害時は臨時休業",
+   "出典": "公式サイト",
+   "土": "11:00〜16:00 LO.14:00 / 18:00〜21:00 LO.19:00",
+   "日": "11:00〜16:00 LO.14:00 / 18:00〜21:00 LO.19:00",
+   "月": "11:00〜16:00 LO.14:00 / 18:00〜21:00 LO.19:00",
+   "木": "11:00〜16:00 LO.14:00 / 18:00〜21:00 LO.19:00",
+   "水": "11:00〜16:00 LO.14:00 / 18:00〜21:00 LO.19:00",
+   "火": "11:00〜16:00 LO.14:00 / 18:00〜21:00 LO.19:00",
+   "確認日": "2026-11-20",
+   "祝": "11:00〜16:00 LO.14:00 / 18:00〜21:00 LO.19:00",
+   "金": "11:00〜16:00 LO.14:00 / 18:00〜21:00 LO.19:00"
+  },
   "author": "katsuo0525",
   "geocode_confidence": "high",
   "caption_date": null
@@ -3423,6 +5543,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DX1T5O5yxQR/",
   "thumb": "DX1T5O5yxQR.jpg",
+  "hours": {
+   "備考": "公式表記は「11時〜16時（ラストオーダー）」。5〜9月は夏季限定で川床カフェ。不定休のため来店前に要問い合わせ",
+   "出典": "公式サイト",
+   "土": "11:00〜16:00",
+   "日": "11:00〜16:00",
+   "月": "11:00〜16:00",
+   "木": "11:00〜16:00",
+   "水": "11:00〜16:00",
+   "火": "11:00〜16:00",
+   "確認日": "2026-11-20",
+   "祝": "11:00〜16:00",
+   "金": "11:00〜16:00"
+  },
   "author": "katsuo0525",
   "geocode_confidence": "high",
   "caption_date": null
@@ -3441,7 +5574,11 @@
   "thumb": "DX1T5O5yxQR.jpg",
   "author": "katsuo0525",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "営業時間は要確認（公式サイトに営業時間・営業期間の記載なし。川床の季節営業の可能性あり）",
+   "確認日": "2026-11-20"
+  }
  },
  {
   "id": "DUvEJ3okoac",
@@ -3457,7 +5594,11 @@
   "thumb": "DUvEJ3okoac.jpg",
   "author": "travel_lifeman",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "宿泊施設（要予約）",
+   "確認日": "2026-11-20"
+  }
  },
  {
   "id": "DH8IUpzzuim",
@@ -3473,7 +5614,12 @@
   "thumb": "DH8IUpzzuim.jpg",
   "author": "misa_lifestyle_",
   "geocode_confidence": "high",
-  "caption_date": null
+  "caption_date": null,
+  "hours": {
+   "備考": "宿泊施設（要予約）。チェックイン13:00〜18:00／チェックアウト11:00",
+   "出典": "楽天トラベル",
+   "確認日": "2026-11-20"
+  }
  },
  {
   "id": "DJWSlEoTqAf",
@@ -3487,6 +5633,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DJWSlEoTqAf/",
   "thumb": "DJWSlEoTqAf.jpg",
+  "hours": {
+   "備考": "天然温泉「富士海湯」の時間（最終受付20:00）。スパ（プール）は10:00〜18:00。年2回（5月・12月）メンテナンス休館あり。2027年1月12日〜3月24日（予定）は主要施設休業",
+   "出典": "公式サイト",
+   "土": "7:00〜21:00",
+   "日": "7:00〜21:00",
+   "月": "7:00〜21:00",
+   "木": "7:00〜21:00",
+   "水": "7:00〜21:00",
+   "火": "7:00〜21:00",
+   "確認日": "2026-11-20",
+   "祝": "7:00〜21:00",
+   "金": "7:00〜21:00"
+  },
   "author": "sauna_ao",
   "geocode_confidence": "high",
   "caption_date": null
@@ -3503,6 +5662,19 @@
   "source": "Instagram",
   "instagramUrl": "https://www.instagram.com/reel/DLuMNqFzFPe/",
   "thumb": "DLuMNqFzFPe.jpg",
+  "hours": {
+   "備考": "入館は17:30まで。月曜が祝日・休日の場合は開館し、直後の平日が休館。年末年始（12月28日〜1月2日）休館",
+   "出典": "公式サイト",
+   "土": "10:00〜18:00",
+   "日": "10:00〜18:00",
+   "月": "定休日",
+   "木": "10:00〜18:00",
+   "水": "10:00〜18:00",
+   "火": "10:00〜18:00",
+   "確認日": "2026-11-20",
+   "祝": "10:00〜18:00",
+   "金": "10:00〜18:00"
+  },
   "author": "baetabi_kento",
   "geocode_confidence": "high",
   "caption_date": null
